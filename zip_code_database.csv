@@ -1,1106 +1,1106 @@
-zip,type,primary_city,state,county,latitude,longitude,irs_estimated_population
-48001,STANDARD,Algonac,MI,St. Clair County,42.61,-82.53,10800
-48002,STANDARD,Allenton,MI,St. Clair County,42.92,-82.88,2980
-48003,STANDARD,Almont,MI,Lapeer County,42.92,-83.04,6340
-48004,PO BOX,Anchorville,MI,St. Clair County,42.69,-82.69,142
-48005,STANDARD,Armada,MI,Macomb County,42.84,-82.88,5050
-48006,STANDARD,Avoca,MI,St. Clair County,43.05,-82.67,3700
-48009,STANDARD,Birmingham,MI,Oakland County,42.54,-83.21,19840
-48012,PO BOX,Birmingham,MI,Oakland County,42.54,-83.21,285
-48014,STANDARD,Capac,MI,St. Clair County,43.01,-82.92,4050
-48015,STANDARD,Center Line,MI,Macomb County,42.48,-83.02,6860
-48017,STANDARD,Clawson,MI,Oakland County,42.53,-83.15,10090
-48021,STANDARD,Eastpointe,MI,Macomb County,42.46,-82.94,29230
-48022,STANDARD,Emmett,MI,St. Clair County,42.99,-82.76,2460
-48023,STANDARD,Fair Haven,MI,St. Clair County,42.7,-82.66,4490
-48025,STANDARD,Franklin,MI,Oakland County,42.51,-83.3,14600
-48026,STANDARD,Fraser,MI,Macomb County,42.53,-82.94,13150
-48027,STANDARD,Goodells,MI,St. Clair County,42.93,-82.66,2970
-48028,STANDARD,Harsens Island,MI,St. Clair County,42.59,-82.57,940
-48030,STANDARD,Hazel Park,MI,Oakland County,42.46,-83.09,11970
-48032,STANDARD,Jeddo,MI,St. Clair County,43.15,-82.58,2040
-48033,STANDARD,Southfield,MI,Oakland County,42.46,-83.28,13690
-48034,STANDARD,Southfield,MI,Oakland County,42.5,-83.29,10520
-48035,STANDARD,Clinton Township,MI,Macomb County,42.56,-82.91,29570
-48036,STANDARD,Clinton Township,MI,Macomb County,42.58,-82.91,19670
-48037,PO BOX,Southfield,MI,Oakland County,42.47,-83.25,830
-48038,STANDARD,Clinton Township,MI,Macomb County,42.61,-82.94,40180
-48039,STANDARD,Marine City,MI,St. Clair County,42.71,-82.49,6720
-48040,STANDARD,Marysville,MI,St. Clair County,42.91,-82.47,9390
-48041,STANDARD,Memphis,MI,St. Clair County,42.89,-82.76,4010
-48042,STANDARD,Macomb,MI,Macomb County,42.68,-82.91,33790
-48043,STANDARD,Mount Clemens,MI,Macomb County,42.59,-82.88,12020
-48044,STANDARD,Macomb,MI,Macomb County,42.66,-82.91,56660
-48045,STANDARD,Harrison Township,MI,Macomb County,42.58,-82.81,21920
-48046,PO BOX,Mount Clemens,MI,Macomb County,42.59,-82.88,448
-48047,STANDARD,New Baltimore,MI,Macomb County,42.68,-82.73,37610
-48048,STANDARD,New Haven,MI,Macomb County,42.73,-82.79,8820
-48049,STANDARD,North Street,MI,St. Clair County,43.03,-82.56,5160
-48050,STANDARD,New Haven,MI,Macomb County,42.79,-82.8,1550
-48051,STANDARD,New Baltimore,MI,Macomb County,42.69,-82.82,16830
-48054,STANDARD,East China,MI,St. Clair County,42.77,-82.53,6780
-48059,STANDARD,Fort Gratiot,MI,St. Clair County,43.07,-82.49,13980
-48060,STANDARD,Port Huron,MI,St. Clair County,42.97,-82.42,32430
-48061,PO BOX,Port Huron,MI,St. Clair County,42.97,-82.42,414
-48062,STANDARD,Richmond,MI,Macomb County,42.8,-82.75,8870
-48063,STANDARD,Columbus,MI,St. Clair County,42.85,-82.68,4090
-48064,STANDARD,Casco,MI,St. Clair County,42.76,-82.67,3780
-48065,STANDARD,Romeo,MI,Macomb County,42.85,-83.04,10890
-48066,STANDARD,Roseville,MI,Macomb County,42.5,-82.93,40670
-48067,STANDARD,Royal Oak,MI,Oakland County,42.5,-83.15,20870
-48068,PO BOX,Royal Oak,MI,Oakland County,42.5,-83.15,404
-48069,STANDARD,Pleasant Ridge,MI,Oakland County,42.47,-83.14,2540
-48070,STANDARD,Huntington Woods,MI,Oakland County,42.48,-83.16,6480
-48071,STANDARD,Madison Heights,MI,Oakland County,42.5,-83.1,23910
-48072,STANDARD,Berkley,MI,Oakland County,42.49,-83.18,14290
-48073,STANDARD,Royal Oak,MI,Oakland County,42.52,-83.16,29850
-48074,STANDARD,Smiths Creek,MI,St. Clair County,42.91,-82.6,8940
-48075,STANDARD,Southfield,MI,Oakland County,42.47,-83.25,18300
-48076,STANDARD,Southfield,MI,Oakland County,42.5,-83.23,22860
-48079,STANDARD,Saint Clair,MI,St. Clair County,42.82,-82.49,12190
-48080,STANDARD,Saint Clair Shores,MI,Macomb County,42.46,-82.9,20120
-48081,STANDARD,Saint Clair Shores,MI,Macomb County,42.49,-82.89,18660
-48082,STANDARD,Saint Clair Shores,MI,Macomb County,42.53,-82.89,14840
-48083,STANDARD,Troy,MI,Oakland County,42.56,-83.12,21620
-48084,STANDARD,Troy,MI,Oakland County,42.56,-83.18,14820
-48085,STANDARD,Troy,MI,Oakland County,42.58,-83.14,25820
-48086,PO BOX,Southfield,MI,Oakland County,42.47,-83.25,117
-48088,STANDARD,Warren,MI,Macomb County,42.52,-82.98,21250
-48089,STANDARD,Warren,MI,Macomb County,42.47,-82.99,25980
-48090,PO BOX,Warren,MI,Macomb County,42.49,-83.02,1340
-48091,STANDARD,Warren,MI,Macomb County,42.47,-83.06,26880
-48092,STANDARD,Warren,MI,Macomb County,42.51,-83.06,25120
-48093,STANDARD,Warren,MI,Macomb County,42.52,-83.02,22170
-48094,STANDARD,Washington,MI,Macomb County,42.72,-83.03,20120
-48095,STANDARD,Washington,MI,Macomb County,42.78,-83.05,5630
-48096,STANDARD,Ray,MI,Macomb County,42.78,-82.93,3760
-48097,STANDARD,Yale,MI,St. Clair County,43.12,-82.79,4640
-48098,STANDARD,Troy,MI,Oakland County,42.6,-83.18,20360
-48099,PO BOX,Troy,MI,Oakland County,42.58,-83.14,524
-48101,STANDARD,Allen Park,MI,Wayne County,42.25,-83.21,26900
-48103,STANDARD,Ann Arbor,MI,Washtenaw County,42.26,-83.85,49800
-48104,STANDARD,Ann Arbor,MI,Washtenaw County,42.27,-83.73,20030
-48105,STANDARD,Ann Arbor,MI,Washtenaw County,42.33,-83.7,26840
-48106,PO BOX,Ann Arbor,MI,Washtenaw County,42.27,-83.73,639
-48107,PO BOX,Ann Arbor,MI,Washtenaw County,42.27,-83.73,331
-48108,STANDARD,Ann Arbor,MI,Washtenaw County,42.22,-83.73,23730
-48109,STANDARD,Ann Arbor,MI,Washtenaw County,42.29,-83.71,130
-48110,PO BOX,Azalia,MI,Monroe County,42.01,-83.66,108
-48111,STANDARD,Belleville,MI,Wayne County,42.2,-83.48,38570
-48112,PO BOX,Belleville,MI,Wayne County,42.2,-83.48,704
-48113,PO BOX,Ann Arbor,MI,Washtenaw County,42.27,-83.73,278
-48114,STANDARD,Brighton,MI,Livingston County,42.57,-83.75,20890
-48115,PO BOX,Bridgewater,MI,Washtenaw County,42.16,-83.89,32
-48116,STANDARD,Brighton,MI,Livingston County,42.53,-83.78,26640
-48117,STANDARD,Carleton,MI,Monroe County,42.05,-83.38,9760
-48118,STANDARD,Chelsea,MI,Washtenaw County,42.31,-84.02,13040
-48120,STANDARD,Dearborn,MI,Wayne County,42.31,-83.21,7520
-48121,PO BOX,Dearborn,MI,Wayne County,42.31,-83.21,1824
-48122,STANDARD,Melvindale,MI,Wayne County,42.28,-83.17,11320
-48123,PO BOX,Dearborn,MI,Wayne County,42.31,-83.21,257
-48124,STANDARD,Dearborn,MI,Wayne County,42.3,-83.25,31590
-48125,STANDARD,Dearborn Heights,MI,Wayne County,42.28,-83.26,19000
-48126,STANDARD,Dearborn,MI,Wayne County,42.33,-83.18,50010
-48127,STANDARD,Dearborn Heights,MI,Wayne County,42.34,-83.28,38140
-48128,STANDARD,Dearborn,MI,Wayne County,42.32,-83.26,11050
-48130,STANDARD,Dexter,MI,Washtenaw County,42.33,-83.87,16150
-48131,STANDARD,Dundee,MI,Monroe County,41.95,-83.66,7650
-48133,STANDARD,Erie,MI,Monroe County,41.79,-83.49,4750
-48134,STANDARD,Flat Rock,MI,Wayne County,42.1,-83.27,22030
-48135,STANDARD,Garden City,MI,Wayne County,42.32,-83.34,24690
-48136,PO BOX,Garden City,MI,Wayne County,42.32,-83.34,347
-48137,STANDARD,Gregory,MI,Livingston County,42.45,-84.08,4600
-48138,STANDARD,Grosse Ile,MI,Wayne County,42.13,-83.15,10520
-48139,PO BOX,Hamburg,MI,Livingston County,42.45,-83.81,673
-48140,STANDARD,Ida,MI,Monroe County,41.91,-83.57,3020
-48141,STANDARD,Inkster,MI,Wayne County,42.29,-83.31,19720
-48143,PO BOX,Lakeland,MI,Livingston County,42.46,-83.85,812
-48144,STANDARD,Lambertville,MI,Monroe County,41.74,-83.62,9870
-48145,STANDARD,La Salle,MI,Monroe County,41.86,-83.45,3270
-48146,STANDARD,Lincoln Park,MI,Wayne County,42.24,-83.18,35610
-48150,STANDARD,Livonia,MI,Wayne County,42.37,-83.38,25190
-48151,PO BOX,Livonia,MI,Wayne County,42.39,-83.37,284
-48152,STANDARD,Livonia,MI,Wayne County,42.42,-83.37,29390
-48153,PO BOX,Livonia,MI,Wayne County,42.39,-83.37,231
-48154,STANDARD,Livonia,MI,Wayne County,42.39,-83.37,36180
-48157,STANDARD,Luna Pier,MI,Monroe County,41.82,-83.44,1090
-48158,STANDARD,Manchester,MI,Washtenaw County,42.14,-84.03,7080
-48159,STANDARD,Maybee,MI,Monroe County,42,-83.51,2370
-48160,STANDARD,Milan,MI,Washtenaw County,42.08,-83.68,11690
-48161,STANDARD,Monroe,MI,Monroe County,41.91,-83.38,22600
-48162,STANDARD,Monroe,MI,Monroe County,41.96,-83.43,25230
-48164,STANDARD,New Boston,MI,Wayne County,42.14,-83.36,9400
-48165,STANDARD,New Hudson,MI,Oakland County,42.5,-83.61,8290
-48166,STANDARD,Newport,MI,Monroe County,42,-83.3,12220
-48167,STANDARD,Northville,MI,Oakland County,42.43,-83.48,23740
-48168,STANDARD,Northville,MI,Wayne County,42.4,-83.6,24230
-48169,STANDARD,Pinckney,MI,Livingston County,42.45,-83.94,19240
-48170,STANDARD,Plymouth,MI,Wayne County,42.37,-83.46,39220
-48173,STANDARD,Rockwood,MI,Wayne County,42.07,-83.24,12560
-48174,STANDARD,Romulus,MI,Wayne County,42.23,-83.39,29060
-48175,PO BOX,Salem,MI,Washtenaw County,42.4,-83.58,166
-48176,STANDARD,Saline,MI,Washtenaw County,42.17,-83.78,22390
-48177,PO BOX,Samaria,MI,Monroe County,41.8,-83.58,285
-48178,STANDARD,South Lyon,MI,Oakland County,42.46,-83.65,36540
-48179,STANDARD,South Rockwood,MI,Monroe County,42.06,-83.26,2930
-48180,STANDARD,Taylor,MI,Wayne County,42.22,-83.26,54260
-48182,STANDARD,Temperance,MI,Monroe County,41.76,-83.57,20190
-48183,STANDARD,Trenton,MI,Wayne County,42.13,-83.22,39380
-48184,STANDARD,Wayne,MI,Wayne County,42.27,-83.38,14780
-48185,STANDARD,Westland,MI,Wayne County,42.33,-83.38,42470
-48186,STANDARD,Westland,MI,Wayne County,42.31,-83.38,30130
-48187,STANDARD,Canton,MI,Wayne County,42.33,-83.48,49890
-48188,STANDARD,Canton,MI,Wayne County,42.3,-83.48,43980
-48189,STANDARD,Whitmore Lake,MI,Washtenaw County,42.42,-83.74,12220
-48190,PO BOX,Whittaker,MI,Washtenaw County,42.13,-83.59,777
-48191,STANDARD,Willis,MI,Washtenaw County,42.12,-83.57,3410
-48192,STANDARD,Wyandotte,MI,Wayne County,42.21,-83.15,22090
-48193,STANDARD,Riverview,MI,Wayne County,42.16,-83.21,14070
-48195,STANDARD,Southgate,MI,Wayne County,42.2,-83.2,26570
-48197,STANDARD,Ypsilanti,MI,Washtenaw County,42.24,-83.62,52630
-48198,STANDARD,Ypsilanti,MI,Washtenaw County,42.28,-83.59,33660
-48201,STANDARD,Detroit,MI,Wayne County,42.35,-83.06,6570
-48202,STANDARD,Detroit,MI,Wayne County,42.37,-83.08,8270
-48203,STANDARD,Highland Park,MI,Wayne County,42.4,-83.09,13740
-48204,STANDARD,Detroit,MI,Wayne County,42.37,-83.14,14560
-48205,STANDARD,Detroit,MI,Wayne County,42.43,-82.98,24880
-48206,STANDARD,Detroit,MI,Wayne County,42.38,-83.1,9970
-48207,STANDARD,Detroit,MI,Wayne County,42.35,-83.02,11670
-48208,STANDARD,Detroit,MI,Wayne County,42.35,-83.09,4690
-48209,STANDARD,Detroit,MI,Wayne County,42.31,-83.12,19620
-48210,STANDARD,Detroit,MI,Wayne County,42.34,-83.13,19900
-48211,STANDARD,Detroit,MI,Wayne County,42.38,-83.05,3980
-48212,STANDARD,Hamtramck,MI,Wayne County,42.39,-83.05,34760
-48213,STANDARD,Detroit,MI,Wayne County,42.4,-83,12670
-48214,STANDARD,Detroit,MI,Wayne County,42.37,-82.99,10660
-48215,STANDARD,Detroit,MI,Wayne County,42.38,-82.95,6530
-48216,STANDARD,Detroit,MI,Wayne County,42.33,-83.08,3130
-48217,STANDARD,Detroit,MI,Wayne County,42.28,-83.16,4360
-48218,STANDARD,River Rouge,MI,Wayne County,42.27,-83.13,5670
-48219,STANDARD,Detroit,MI,Wayne County,42.43,-83.25,32680
-48220,STANDARD,Ferndale,MI,Oakland County,42.45,-83.13,17920
-48221,STANDARD,Detroit,MI,Wayne County,42.43,-83.15,26960
-48222,UNIQUE,Detroit,MI,Wayne County,42.38,-83.1,24
-48223,STANDARD,Detroit,MI,Wayne County,42.39,-83.25,16910
-48224,STANDARD,Detroit,MI,Wayne County,42.41,-82.94,29180
-48225,STANDARD,Harper Woods,MI,Wayne County,42.43,-82.92,12730
-48226,STANDARD,Detroit,MI,Wayne County,42.33,-83.05,2960
-48227,STANDARD,Detroit,MI,Wayne County,42.39,-83.19,28010
-48228,STANDARD,Detroit,MI,Wayne County,42.36,-83.22,39520
-48229,STANDARD,Ecorse,MI,Wayne County,42.25,-83.14,6780
-48230,STANDARD,Grosse Pointe,MI,Wayne County,42.38,-82.91,16160
-48231,PO BOX,Detroit,MI,Wayne County,42.38,-83.1,351
-48232,PO BOX,Detroit,MI,Wayne County,42.38,-83.1,377
-48234,STANDARD,Detroit,MI,Wayne County,42.43,-83.04,22190
-48235,STANDARD,Detroit,MI,Wayne County,42.43,-83.19,32410
-48236,STANDARD,Grosse Pointe,MI,Wayne County,42.43,-82.89,29680
-48237,STANDARD,Oak Park,MI,Oakland County,42.46,-83.18,25330
-48238,STANDARD,Detroit,MI,Wayne County,42.4,-83.14,16950
-48239,STANDARD,Redford,MI,Wayne County,42.39,-83.29,31330
-48240,STANDARD,Redford,MI,Wayne County,42.42,-83.3,15160
-48242,STANDARD,Detroit,MI,Wayne County,42.22,-83.35,116
-48243,STANDARD,Detroit,MI,Wayne County,42.33,-83.04,198
-48244,PO BOX,Detroit,MI,Wayne County,42.38,-83.1,447
-48266,UNIQUE,Detroit,MI,Wayne County,42.38,-83.1,22
-48275,UNIQUE,Detroit,MI,Wayne County,42.38,-83.1,294
-48277,UNIQUE,Detroit,MI,Wayne County,42.38,-83.1,32
-48288,UNIQUE,Detroit,MI,Wayne County,42.38,-83.1,19
-48301,STANDARD,Bloomfield Hills,MI,Oakland County,42.54,-83.28,14250
-48302,STANDARD,Bloomfield Hills,MI,Oakland County,42.59,-83.29,16340
-48303,PO BOX,Bloomfield Hills,MI,Oakland County,42.57,-83.24,345
-48304,STANDARD,Bloomfield Hills,MI,Oakland County,42.57,-83.24,16190
-48306,STANDARD,Rochester,MI,Oakland County,42.72,-83.15,28190
-48307,STANDARD,Rochester,MI,Oakland County,42.68,-83.12,41010
-48308,PO BOX,Rochester,MI,Oakland County,42.68,-83.12,463
-48309,STANDARD,Rochester,MI,Oakland County,42.66,-83.18,27460
-48310,STANDARD,Sterling Heights,MI,Macomb County,42.56,-83.07,39940
-48311,PO BOX,Sterling Heights,MI,Macomb County,42.58,-83.03,343
-48312,STANDARD,Sterling Heights,MI,Macomb County,42.58,-83.03,32280
-48313,STANDARD,Sterling Heights,MI,Macomb County,42.6,-83,31240
-48314,STANDARD,Sterling Heights,MI,Macomb County,42.61,-83.05,19870
-48315,STANDARD,Utica,MI,Macomb County,42.67,-83,27010
-48316,STANDARD,Utica,MI,Macomb County,42.69,-83.06,27500
-48317,STANDARD,Utica,MI,Macomb County,42.64,-83.05,24940
-48318,PO BOX,Utica,MI,Macomb County,42.62,-83.02,341
-48320,STANDARD,Keego Harbor,MI,Oakland County,42.61,-83.34,3800
-48321,PO BOX,Auburn Hills,MI,Oakland County,42.67,-83.24,503
-48322,STANDARD,West Bloomfield,MI,Oakland County,42.54,-83.38,29100
-48323,STANDARD,West Bloomfield,MI,Oakland County,42.56,-83.38,17390
-48324,STANDARD,West Bloomfield,MI,Oakland County,42.59,-83.39,16000
-48325,PO BOX,West Bloomfield,MI,Oakland County,42.56,-83.38,368
-48326,STANDARD,Auburn Hills,MI,Oakland County,42.67,-83.24,19350
-48327,STANDARD,Waterford,MI,Oakland County,42.64,-83.41,19320
-48328,STANDARD,Waterford,MI,Oakland County,42.66,-83.38,20640
-48329,STANDARD,Waterford,MI,Oakland County,42.69,-83.39,22980
-48330,PO BOX,Drayton Plains,MI,Oakland County,42.68,-83.37,202
-48331,STANDARD,Farmington,MI,Oakland County,42.5,-83.41,21860
-48332,PO BOX,Farmington,MI,Oakland County,42.46,-83.37,349
-48333,PO BOX,Farmington,MI,Oakland County,42.46,-83.37,316
-48334,STANDARD,Farmington,MI,Oakland County,42.5,-83.35,16080
-48335,STANDARD,Farmington,MI,Oakland County,42.46,-83.41,21350
-48336,STANDARD,Farmington,MI,Oakland County,42.46,-83.37,23180
-48340,STANDARD,Pontiac,MI,Oakland County,42.67,-83.29,19440
-48341,STANDARD,Pontiac,MI,Oakland County,42.63,-83.3,11960
-48342,STANDARD,Pontiac,MI,Oakland County,42.64,-83.28,13580
-48343,PO BOX,Pontiac,MI,Oakland County,42.64,-83.28,899
-48346,STANDARD,Clarkston,MI,Oakland County,42.73,-83.42,20910
-48347,PO BOX,Clarkston,MI,Oakland County,42.73,-83.42,565
-48348,STANDARD,Clarkston,MI,Oakland County,42.77,-83.4,25150
-48350,STANDARD,Davisburg,MI,Oakland County,42.75,-83.54,7260
-48353,STANDARD,Hartland,MI,Livingston County,42.65,-83.75,6110
-48356,STANDARD,Highland,MI,Oakland County,42.65,-83.59,7950
-48357,STANDARD,Highland,MI,Oakland County,42.66,-83.65,7880
-48359,STANDARD,Lake Orion,MI,Oakland County,42.72,-83.28,9540
-48360,STANDARD,Lake Orion,MI,Oakland County,42.75,-83.26,12520
-48361,PO BOX,Lake Orion,MI,Oakland County,42.78,-83.24,244
-48362,STANDARD,Lake Orion,MI,Oakland County,42.78,-83.24,14270
-48363,STANDARD,Oakland,MI,Oakland County,42.77,-83.16,7210
-48366,PO BOX,Lakeville,MI,Oakland County,42.81,-83.14,258
-48367,STANDARD,Leonard,MI,Oakland County,42.86,-83.14,4160
-48370,STANDARD,Oxford,MI,Oakland County,42.84,-83.2,1710
-48371,STANDARD,Oxford,MI,Oakland County,42.82,-83.25,24270
-48374,STANDARD,Novi,MI,Oakland County,42.47,-83.52,17520
-48375,STANDARD,Novi,MI,Oakland County,42.47,-83.49,22170
-48376,PO BOX,Novi,MI,Oakland County,42.47,-83.49,391
-48377,STANDARD,Novi,MI,Oakland County,42.5,-83.47,16600
-48380,STANDARD,Milford,MI,Oakland County,42.58,-83.67,7540
-48381,STANDARD,Milford,MI,Oakland County,42.58,-83.6,13320
-48382,STANDARD,Commerce Township,MI,Oakland County,42.59,-83.5,22850
-48383,STANDARD,White Lake,MI,Oakland County,42.66,-83.53,12380
-48386,STANDARD,White Lake,MI,Oakland County,42.65,-83.5,16750
-48387,PO BOX,Union Lake,MI,Oakland County,42.61,-83.44,238
-48390,STANDARD,Walled Lake,MI,Oakland County,42.53,-83.47,22500
-48393,STANDARD,Wixom,MI,Oakland County,42.52,-83.53,15790
-48401,STANDARD,Applegate,MI,Sanilac County,43.35,-82.63,1240
-48410,PO BOX,Argyle,MI,Sanilac County,43.57,-82.94,67
-48411,PO BOX,Atlas,MI,Genesee County,42.93,-83.53,214
-48412,STANDARD,Attica,MI,Lapeer County,43.03,-83.16,5430
-48413,STANDARD,Bad Axe,MI,Huron County,43.8,-82.99,6340
-48414,STANDARD,Bancroft,MI,Shiawassee County,42.87,-84.06,2180
-48415,STANDARD,Birch Run,MI,Saginaw County,43.25,-83.79,8560
-48416,STANDARD,Brown City,MI,Sanilac County,43.21,-82.98,4350
-48417,STANDARD,Burt,MI,Saginaw County,43.23,-83.9,2430
-48418,STANDARD,Byron,MI,Shiawassee County,42.82,-83.94,4050
-48419,STANDARD,Carsonville,MI,Sanilac County,43.42,-82.67,2180
-48420,STANDARD,Clio,MI,Genesee County,43.17,-83.73,19540
-48421,STANDARD,Columbiaville,MI,Lapeer County,43.15,-83.4,6180
-48422,STANDARD,Croswell,MI,Sanilac County,43.27,-82.61,5540
-48423,STANDARD,Davison,MI,Genesee County,43.03,-83.51,31130
-48426,STANDARD,Decker,MI,Sanilac County,43.51,-83.06,790
-48427,STANDARD,Deckerville,MI,Sanilac County,43.52,-82.74,2290
-48428,STANDARD,Dryden,MI,Lapeer County,42.94,-83.12,4910
-48429,STANDARD,Durand,MI,Shiawassee County,42.91,-83.98,7630
-48430,STANDARD,Fenton,MI,Genesee County,42.8,-83.71,37290
-48432,STANDARD,Filion,MI,Huron County,43.9,-82.96,560
-48433,STANDARD,Flushing,MI,Genesee County,43.06,-83.84,24990
-48434,PO BOX,Forestville,MI,Sanilac County,43.66,-82.61,80
-48435,STANDARD,Fostoria,MI,Tuscola County,43.25,-83.37,1940
-48436,STANDARD,Gaines,MI,Genesee County,42.87,-83.91,3600
-48437,PO BOX,Genesee,MI,Genesee County,43.11,-83.62,775
-48438,STANDARD,Goodrich,MI,Genesee County,42.91,-83.5,6970
-48439,STANDARD,Grand Blanc,MI,Genesee County,42.92,-83.61,48430
-48440,PO BOX,Hadley,MI,Lapeer County,42.96,-83.41,390
-48441,STANDARD,Harbor Beach,MI,Huron County,43.84,-82.65,3560
-48442,STANDARD,Holly,MI,Oakland County,42.79,-83.62,19770
-48444,STANDARD,Imlay City,MI,Lapeer County,43.01,-83.07,8900
-48445,STANDARD,Kinde,MI,Huron County,43.93,-82.99,1180
-48446,STANDARD,Lapeer,MI,Lapeer County,43.04,-83.32,26840
-48449,STANDARD,Lennon,MI,Shiawassee County,42.98,-83.93,2570
-48450,STANDARD,Lexington,MI,Sanilac County,43.26,-82.53,4020
-48451,STANDARD,Linden,MI,Genesee County,42.81,-83.78,15220
-48453,STANDARD,Marlette,MI,Sanilac County,43.32,-83.08,4280
-48454,STANDARD,Melvin,MI,Sanilac County,43.18,-82.86,1190
-48455,STANDARD,Metamora,MI,Lapeer County,42.94,-83.29,7760
-48456,STANDARD,Minden City,MI,Sanilac County,43.67,-82.77,730
-48457,STANDARD,Montrose,MI,Genesee County,43.17,-83.89,7310
-48458,STANDARD,Mount Morris,MI,Genesee County,43.11,-83.69,15690
-48460,STANDARD,New Lothrop,MI,Shiawassee County,43.11,-83.96,2200
-48461,STANDARD,North Branch,MI,Lapeer County,43.22,-83.19,7640
-48462,STANDARD,Ortonville,MI,Oakland County,42.85,-83.44,12620
-48463,STANDARD,Otisville,MI,Genesee County,43.16,-83.52,4030
-48464,STANDARD,Otter Lake,MI,Lapeer County,43.21,-83.46,1880
-48465,STANDARD,Palms,MI,Sanilac County,43.62,-82.73,490
-48466,STANDARD,Peck,MI,Sanilac County,43.25,-82.81,1380
-48467,STANDARD,Port Austin,MI,Huron County,44.04,-82.99,2080
-48468,STANDARD,Port Hope,MI,Huron County,43.93,-82.71,1140
-48469,STANDARD,Port Sanilac,MI,Sanilac County,43.43,-82.54,1220
-48470,STANDARD,Ruth,MI,Huron County,43.74,-82.75,730
-48471,STANDARD,Sandusky,MI,Sanilac County,43.42,-82.83,4730
-48472,STANDARD,Snover,MI,Sanilac County,43.5,-82.97,1620
-48473,STANDARD,Swartz Creek,MI,Genesee County,42.96,-83.82,20800
-48475,STANDARD,Ubly,MI,Huron County,43.71,-82.93,2540
-48476,PO BOX,Vernon,MI,Shiawassee County,42.94,-84.03,744
-48480,PO BOX,Grand Blanc,MI,Genesee County,42.92,-83.63,282
-48501,PO BOX,Flint,MI,Genesee County,43.02,-83.69,1137
-48502,STANDARD,Flint,MI,Genesee County,43.01,-83.69,650
-48503,STANDARD,Flint,MI,Genesee County,43.02,-83.69,15910
-48504,STANDARD,Flint,MI,Genesee County,43.05,-83.74,18790
-48505,STANDARD,Flint,MI,Genesee County,43.07,-83.69,12530
-48506,STANDARD,Flint,MI,Genesee County,43.07,-83.62,19570
-48507,STANDARD,Flint,MI,Genesee County,42.97,-83.72,23860
-48509,STANDARD,Burton,MI,Genesee County,43.02,-83.61,8710
-48519,STANDARD,Burton,MI,Genesee County,42.99,-83.61,6810
-48529,STANDARD,Burton,MI,Genesee County,42.97,-83.66,7540
-48531,PO BOX,Flint,MI,Genesee County,43.02,-83.69,563
-48532,STANDARD,Flint,MI,Genesee County,43.01,-83.79,15980
-48601,STANDARD,Saginaw,MI,Saginaw County,43.41,-83.94,26060
-48602,STANDARD,Saginaw,MI,Saginaw County,43.42,-83.97,22000
-48603,STANDARD,Saginaw,MI,Saginaw County,43.46,-84.03,24660
-48604,STANDARD,Saginaw,MI,Saginaw County,43.5,-83.97,8410
-48605,PO BOX,Saginaw,MI,Saginaw County,43.41,-83.94,429
-48606,PO BOX,Saginaw,MI,Saginaw County,43.41,-83.94,423
-48607,STANDARD,Saginaw,MI,Saginaw County,43.43,-83.93,790
-48608,PO BOX,Saginaw,MI,Saginaw County,43.41,-83.94,273
-48609,STANDARD,Saginaw,MI,Saginaw County,43.39,-84.09,11320
-48610,STANDARD,Alger,MI,Ogemaw County,44.11,-84.11,2660
-48611,STANDARD,Auburn,MI,Bay County,43.6,-84.07,6210
-48612,STANDARD,Beaverton,MI,Gladwin County,43.88,-84.48,8010
-48613,STANDARD,Bentley,MI,Bay County,43.94,-84.13,930
-48614,STANDARD,Brant,MI,Saginaw County,43.25,-84.29,1030
-48615,STANDARD,Breckenridge,MI,Gratiot County,43.4,-84.47,2660
-48616,STANDARD,Chesaning,MI,Saginaw County,43.18,-84.11,6770
-48617,STANDARD,Clare,MI,Clare County,43.82,-84.76,7870
-48618,STANDARD,Coleman,MI,Midland County,43.75,-84.58,4600
-48619,STANDARD,Comins,MI,Oscoda County,44.8,-84.05,390
-48620,PO BOX,Edenville,MI,Midland County,43.81,-84.38,103
-48621,STANDARD,Fairview,MI,Oscoda County,44.71,-84.05,1180
-48622,STANDARD,Farwell,MI,Clare County,43.83,-84.86,5690
-48623,STANDARD,Freeland,MI,Saginaw County,43.52,-84.11,13510
-48624,STANDARD,Gladwin,MI,Gladwin County,43.98,-84.49,13500
-48625,STANDARD,Harrison,MI,Clare County,44.01,-84.8,10480
-48626,STANDARD,Hemlock,MI,Saginaw County,43.41,-84.23,5540
-48627,PO BOX,Higgins Lake,MI,Roscommon County,44.46,-84.75,510
-48628,STANDARD,Hope,MI,Midland County,43.79,-84.32,1830
-48629,STANDARD,Houghton Lake,MI,Roscommon County,44.31,-84.76,6280
-48630,PO BOX,Houghton Lake Heights,MI,Roscommon County,44.33,-84.77,270
-48631,STANDARD,Kawkawlin,MI,Bay County,43.69,-84,4080
-48632,STANDARD,Lake,MI,Clare County,43.85,-85,4290
-48633,PO BOX,Lake George,MI,Clare County,43.94,-84.93,356
-48634,STANDARD,Linwood,MI,Bay County,43.73,-83.97,3870
-48635,STANDARD,Lupton,MI,Ogemaw County,44.43,-84.01,1290
-48636,STANDARD,Luzerne,MI,Oscoda County,44.61,-84.26,690
-48637,STANDARD,Merrill,MI,Saginaw County,43.4,-84.33,3070
-48638,STANDARD,Saginaw,MI,Saginaw County,43.41,-84.02,11330
-48640,STANDARD,Midland,MI,Midland County,43.62,-84.22,28600
-48641,PO BOX,Midland,MI,Midland County,43.62,-84.22,705
-48642,STANDARD,Midland,MI,Midland County,43.71,-84.24,31140
-48647,STANDARD,Mio,MI,Oscoda County,44.66,-84.14,3650
-48649,STANDARD,Oakley,MI,Saginaw County,43.14,-84.16,1500
-48650,STANDARD,Pinconning,MI,Bay County,43.85,-83.96,6220
-48651,STANDARD,Prudenville,MI,Roscommon County,44.3,-84.66,3910
-48652,STANDARD,Rhodes,MI,Gladwin County,43.9,-84.18,1490
-48653,STANDARD,Roscommon,MI,Roscommon County,44.49,-84.58,8460
-48654,STANDARD,Rose City,MI,Ogemaw County,44.42,-84.11,2040
-48655,STANDARD,Saint Charles,MI,Saginaw County,43.29,-84.14,5480
-48656,STANDARD,Saint Helen,MI,Roscommon County,44.36,-84.41,3090
-48657,STANDARD,Sanford,MI,Midland County,43.67,-84.38,7000
-48658,STANDARD,Standish,MI,Arenac County,43.98,-83.96,4270
-48659,STANDARD,Sterling,MI,Arenac County,44.03,-84.02,2430
-48661,STANDARD,West Branch,MI,Ogemaw County,44.27,-84.23,9430
-48662,STANDARD,Wheeler,MI,Gratiot County,43.41,-84.43,1240
-48686,UNIQUE,Midland,MI,Midland County,43.62,-84.22,60
-48701,STANDARD,Akron,MI,Tuscola County,43.56,-83.51,1140
-48703,STANDARD,Au Gres,MI,Arenac County,44.04,-83.69,2780
-48705,STANDARD,Barton City,MI,Alcona County,44.68,-83.6,440
-48706,STANDARD,Bay City,MI,Bay County,43.6,-83.95,35580
-48707,PO BOX,Bay City,MI,Bay County,43.59,-83.88,298
-48708,STANDARD,Bay City,MI,Bay County,43.59,-83.88,21820
-48710,UNIQUE,University Center,MI,Bay County,43.56,-83.99,17
-48720,STANDARD,Bay Port,MI,Huron County,43.84,-83.37,910
-48721,STANDARD,Black River,MI,Alcona County,44.81,-83.31,360
-48722,STANDARD,Bridgeport,MI,Saginaw County,43.37,-83.88,2820
-48723,STANDARD,Caro,MI,Tuscola County,43.48,-83.4,10130
-48724,PO BOX,Carrollton,MI,Saginaw County,43.46,-83.93,519
-48725,STANDARD,Caseville,MI,Huron County,43.94,-83.27,1950
-48726,STANDARD,Cass City,MI,Tuscola County,43.6,-83.17,5590
-48727,STANDARD,Clifford,MI,Lapeer County,43.31,-83.17,1080
-48728,STANDARD,Curran,MI,Alcona County,44.71,-83.8,280
-48729,STANDARD,Deford,MI,Tuscola County,43.51,-83.18,1390
-48730,STANDARD,East Tawas,MI,Iosco County,44.28,-83.48,3810
-48731,STANDARD,Elkton,MI,Huron County,43.81,-83.18,1490
-48732,STANDARD,Essexville,MI,Bay County,43.61,-83.84,9720
-48733,STANDARD,Fairgrove,MI,Tuscola County,43.52,-83.54,1470
-48734,STANDARD,Frankenmuth,MI,Saginaw County,43.33,-83.74,7000
-48735,STANDARD,Gagetown,MI,Tuscola County,43.67,-83.27,800
-48737,STANDARD,Glennie,MI,Alcona County,44.56,-83.71,940
-48738,STANDARD,Greenbush,MI,Alcona County,44.54,-83.35,1040
-48739,STANDARD,Hale,MI,Iosco County,44.38,-83.8,3160
-48740,STANDARD,Harrisville,MI,Alcona County,44.65,-83.29,2100
-48741,STANDARD,Kingston,MI,Tuscola County,43.41,-83.18,1730
-48742,STANDARD,Lincoln,MI,Alcona County,44.68,-83.41,1560
-48743,STANDARD,Long Lake,MI,Iosco County,44.44,-83.86,154
-48744,STANDARD,Mayville,MI,Tuscola County,43.33,-83.35,4070
-48745,STANDARD,Mikado,MI,Alcona County,44.56,-83.41,1030
-48746,STANDARD,Millington,MI,Tuscola County,43.28,-83.52,7430
-48747,STANDARD,Munger,MI,Bay County,43.52,-83.77,1380
-48748,STANDARD,National City,MI,Iosco County,44.23,-83.71,1460
-48749,STANDARD,Omer,MI,Arenac County,44.04,-83.85,970
-48750,STANDARD,Oscoda,MI,Iosco County,44.42,-83.33,7690
-48754,STANDARD,Owendale,MI,Huron County,43.72,-83.26,820
-48755,STANDARD,Pigeon,MI,Huron County,43.82,-83.27,2940
-48756,STANDARD,Prescott,MI,Ogemaw County,44.19,-83.93,3100
-48757,STANDARD,Reese,MI,Tuscola County,43.45,-83.68,3310
-48758,PO BOX,Richville,MI,Tuscola County,43.41,-83.64,210
-48759,STANDARD,Sebewaing,MI,Huron County,43.73,-83.45,2920
-48760,STANDARD,Silverwood,MI,Tuscola County,43.3,-83.27,1050
-48761,STANDARD,South Branch,MI,Iosco County,44.46,-83.88,720
-48762,STANDARD,Spruce,MI,Alcona County,44.83,-83.46,1000
-48763,STANDARD,Tawas City,MI,Iosco County,44.27,-83.51,4230
-48764,PO BOX,Tawas City,MI,Iosco County,44.27,-83.51,341
-48765,STANDARD,Turner,MI,Arenac County,44.14,-83.78,610
-48766,STANDARD,Twining,MI,Arenac County,44.11,-83.8,950
-48767,STANDARD,Unionville,MI,Tuscola County,43.65,-83.46,1860
-48768,STANDARD,Vassar,MI,Tuscola County,43.37,-83.57,8490
-48769,STANDARD,Vassar,MI,Tuscola County,43.33,-83.34,14
-48770,STANDARD,Whittemore,MI,Iosco County,44.23,-83.8,1540
-48801,STANDARD,Alma,MI,Gratiot County,43.37,-84.65,9930
-48804,PO BOX,Mount Pleasant,MI,Isabella County,43.59,-84.77,880
-48805,PO BOX,Okemos,MI,Ingham County,42.7,-84.41,251
-48806,STANDARD,Ashley,MI,Gratiot County,43.18,-84.47,1430
-48807,STANDARD,Bannister,MI,Gratiot County,43.13,-84.42,730
-48808,STANDARD,Bath,MI,Clinton County,42.81,-84.44,5300
-48809,STANDARD,Belding,MI,Ionia County,43.09,-85.23,10090
-48811,STANDARD,Carson City,MI,Montcalm County,43.17,-84.84,3160
-48812,PO BOX,Cedar Lake,MI,Montcalm County,43.4,-84.97,192
-48813,STANDARD,Charlotte,MI,Eaton County,42.56,-84.83,18930
-48815,STANDARD,Clarksville,MI,Ionia County,42.84,-85.24,2280
-48816,PO BOX,Cohoctah,MI,Livingston County,42.77,-83.96,194
-48817,STANDARD,Corunna,MI,Shiawassee County,42.98,-84.11,5090
-48818,STANDARD,Crystal,MI,Montcalm County,43.26,-84.91,2010
-48819,STANDARD,Dansville,MI,Ingham County,42.55,-84.3,2540
-48820,STANDARD,Dewitt,MI,Clinton County,42.86,-84.59,18100
-48821,STANDARD,Dimondale,MI,Eaton County,42.64,-84.64,5530
-48822,STANDARD,Eagle,MI,Clinton County,42.8,-84.79,2830
-48823,STANDARD,East Lansing,MI,Ingham County,42.76,-84.46,30350
-48824,STANDARD,East Lansing,MI,Ingham County,42.73,-84.48,35
-48825,STANDARD,East Lansing,MI,Ingham County,42.73,-84.49,308
-48826,PO BOX,East Lansing,MI,Ingham County,42.73,-84.48,570
-48827,STANDARD,Eaton Rapids,MI,Eaton County,42.51,-84.65,14630
-48829,STANDARD,Edmore,MI,Montcalm County,43.4,-85.03,2790
-48830,PO BOX,Elm Hall,MI,Gratiot County,43.36,-84.83,72
-48831,STANDARD,Elsie,MI,Clinton County,43.08,-84.39,3030
-48832,STANDARD,Elwell,MI,Gratiot County,43.42,-84.76,1250
-48833,PO BOX,Eureka,MI,Clinton County,43.1,-84.51,96
-48834,STANDARD,Fenwick,MI,Montcalm County,43.14,-85.08,2130
-48835,STANDARD,Fowler,MI,Clinton County,43,-84.74,2520
-48836,STANDARD,Fowlerville,MI,Livingston County,42.66,-84.07,13200
-48837,STANDARD,Grand Ledge,MI,Eaton County,42.75,-84.74,18290
-48838,STANDARD,Greenville,MI,Montcalm County,43.17,-85.25,16950
-48840,STANDARD,Haslett,MI,Ingham County,42.75,-84.4,11230
-48841,STANDARD,Henderson,MI,Shiawassee County,43.11,-84.24,690
-48842,STANDARD,Holt,MI,Ingham County,42.63,-84.52,20100
-48843,STANDARD,Howell,MI,Livingston County,42.6,-83.93,44810
-48844,PO BOX,Howell,MI,Livingston County,42.6,-83.93,842
-48845,STANDARD,Hubbardston,MI,Ionia County,43.09,-84.84,830
-48846,STANDARD,Ionia,MI,Ionia County,42.98,-85.05,14410
-48847,STANDARD,Ithaca,MI,Gratiot County,43.29,-84.6,5160
-48848,STANDARD,Laingsburg,MI,Shiawassee County,42.89,-84.34,7510
-48849,STANDARD,Lake Odessa,MI,Ionia County,42.78,-85.13,5470
-48850,STANDARD,Lakeview,MI,Montcalm County,43.44,-85.27,4110
-48851,STANDARD,Lyons,MI,Ionia County,42.98,-84.94,2130
-48852,PO BOX,Mcbrides,MI,Montcalm County,43.35,-85.05,210
-48853,PO BOX,Maple Rapids,MI,Clinton County,43.1,-84.69,604
-48854,STANDARD,Mason,MI,Ingham County,42.58,-84.44,18310
-48855,STANDARD,Howell,MI,Livingston County,42.69,-83.88,16100
-48856,STANDARD,Middleton,MI,Gratiot County,43.16,-84.77,680
-48857,STANDARD,Morrice,MI,Shiawassee County,42.83,-84.17,2350
-48858,STANDARD,Mount Pleasant,MI,Isabella County,43.59,-84.77,30440
-48859,UNIQUE,Mount Pleasant,MI,Isabella County,43.59,-84.77,34
-48860,STANDARD,Muir,MI,Ionia County,43.05,-84.91,1180
-48861,STANDARD,Mulliken,MI,Eaton County,42.76,-84.89,1490
-48862,PO BOX,North Star,MI,Gratiot County,43.25,-84.55,73
-48863,STANDARD,Howell,MI,Livingston County,42.63,-83.91,52
-48864,STANDARD,Okemos,MI,Ingham County,42.7,-84.41,20820
-48865,STANDARD,Orleans,MI,Ionia County,43.06,-85.13,1550
-48866,STANDARD,Ovid,MI,Clinton County,43,-84.37,4270
-48867,STANDARD,Owosso,MI,Shiawassee County,42.99,-84.17,24460
-48870,PO BOX,Palo,MI,Ionia County,43.11,-84.98,127
-48871,STANDARD,Perrinton,MI,Gratiot County,43.18,-84.67,1900
-48872,STANDARD,Perry,MI,Shiawassee County,42.82,-84.22,6880
-48873,STANDARD,Pewamo,MI,Ionia County,43,-84.84,1450
-48874,PO BOX,Pompeii,MI,Gratiot County,43.19,-84.59,178
-48875,STANDARD,Portland,MI,Ionia County,42.87,-84.9,10050
-48876,STANDARD,Potterville,MI,Eaton County,42.64,-84.73,4020
-48877,STANDARD,Riverdale,MI,Gratiot County,43.38,-84.83,1970
-48878,STANDARD,Rosebush,MI,Isabella County,43.69,-84.76,1550
-48879,STANDARD,Saint Johns,MI,Clinton County,43,-84.55,16820
-48880,STANDARD,Saint Louis,MI,Gratiot County,43.4,-84.61,6200
-48881,STANDARD,Saranac,MI,Ionia County,42.92,-85.2,4950
-48882,PO BOX,Shaftsburg,MI,Shiawassee County,42.8,-84.29,212
-48883,STANDARD,Shepherd,MI,Isabella County,43.52,-84.69,6340
-48884,STANDARD,Sheridan,MI,Montcalm County,43.21,-85.07,3950
-48885,STANDARD,Sidney,MI,Montcalm County,43.25,-85.13,890
-48886,STANDARD,Six Lakes,MI,Montcalm County,43.42,-85.15,1930
-48888,STANDARD,Stanton,MI,Montcalm County,43.29,-85.07,5480
-48889,STANDARD,Sumner,MI,Gratiot County,43.3,-84.81,1180
-48890,STANDARD,Sunfield,MI,Eaton County,42.76,-84.99,1870
-48891,STANDARD,Vestaburg,MI,Montcalm County,43.39,-84.9,2420
-48892,STANDARD,Webberville,MI,Ingham County,42.66,-84.18,4400
-48893,STANDARD,Weidman,MI,Isabella County,43.69,-84.97,4920
-48894,STANDARD,Westphalia,MI,Clinton County,42.92,-84.79,2480
-48895,STANDARD,Williamston,MI,Ingham County,42.68,-84.28,10860
-48896,PO BOX,Winn,MI,Isabella County,43.52,-84.9,160
-48897,STANDARD,Woodland,MI,Barry County,42.72,-85.13,1410
-48901,PO BOX,Lansing,MI,Ingham County,42.7,-84.55,726
-48906,STANDARD,Lansing,MI,Ingham County,42.79,-84.59,21500
-48908,PO BOX,Lansing,MI,Ingham County,42.7,-84.55,359
-48909,PO BOX,Lansing,MI,Ingham County,42.7,-84.55,519
-48910,STANDARD,Lansing,MI,Ingham County,42.7,-84.55,27250
-48911,STANDARD,Lansing,MI,Ingham County,42.67,-84.57,34250
-48912,STANDARD,Lansing,MI,Ingham County,42.74,-84.52,13150
-48915,STANDARD,Lansing,MI,Ingham County,42.74,-84.57,7220
-48916,UNIQUE,Lansing,MI,Ingham County,42.7,-84.55,20
-48917,STANDARD,Lansing,MI,Eaton County,42.73,-84.64,29360
-48933,STANDARD,Lansing,MI,Ingham County,42.73,-84.55,1610
-49001,STANDARD,Kalamazoo,MI,Kalamazoo County,42.27,-85.58,17860
-49002,STANDARD,Portage,MI,Kalamazoo County,42.2,-85.56,17670
-49003,PO BOX,Kalamazoo,MI,Kalamazoo County,42.27,-85.58,433
-49004,STANDARD,Kalamazoo,MI,Kalamazoo County,42.35,-85.56,14660
-49005,PO BOX,Kalamazoo,MI,Kalamazoo County,42.27,-85.58,168
-49006,STANDARD,Kalamazoo,MI,Kalamazoo County,42.29,-85.63,15720
-49007,STANDARD,Kalamazoo,MI,Kalamazoo County,42.3,-85.59,7300
-49008,STANDARD,Kalamazoo,MI,Kalamazoo County,42.26,-85.62,12830
-49009,STANDARD,Kalamazoo,MI,Kalamazoo County,42.3,-85.7,41900
-49010,STANDARD,Allegan,MI,Allegan County,42.52,-85.84,16420
-49011,STANDARD,Athens,MI,Calhoun County,42.08,-85.23,1950
-49012,STANDARD,Augusta,MI,Kalamazoo County,42.33,-85.35,3320
-49013,STANDARD,Bangor,MI,Van Buren County,42.31,-86.11,4550
-49014,STANDARD,Battle Creek,MI,Calhoun County,42.31,-85.11,18220
-49015,STANDARD,Battle Creek,MI,Calhoun County,42.29,-85.22,24560
-49016,PO BOX,Battle Creek,MI,Calhoun County,42.29,-85.22,812
-49017,STANDARD,Battle Creek,MI,Calhoun County,42.4,-85.22,17800
-49019,PO BOX,Kalamazoo,MI,Kalamazoo County,42.27,-85.58,404
-49020,PO BOX,Bedford,MI,Calhoun County,42.32,-85.12,125
-49021,STANDARD,Bellevue,MI,Eaton County,42.44,-85.01,5660
-49022,STANDARD,Benton Harbor,MI,Berrien County,42.11,-86.44,24480
-49023,PO BOX,Benton Harbor,MI,Berrien County,42.11,-86.44,768
-49024,STANDARD,Portage,MI,Kalamazoo County,42.21,-85.62,27900
-49026,STANDARD,Bloomingdale,MI,Van Buren County,42.38,-85.95,1890
-49027,PO BOX,Breedsville,MI,Van Buren County,42.35,-86.07,173
-49028,STANDARD,Bronson,MI,Branch County,41.87,-85.19,5410
-49029,STANDARD,Burlington,MI,Calhoun County,42.1,-85.07,1430
-49030,STANDARD,Burr Oak,MI,St. Joseph County,41.84,-85.32,2350
-49031,STANDARD,Cassopolis,MI,Cass County,41.91,-86,6570
-49032,STANDARD,Centreville,MI,St. Joseph County,41.92,-85.52,2790
-49033,STANDARD,Ceresco,MI,Calhoun County,42.27,-85.06,1790
-49034,STANDARD,Climax,MI,Kalamazoo County,42.23,-85.33,2060
-49035,PO BOX,Cloverdale,MI,Barry County,42.63,-85.3,121
-49036,STANDARD,Coldwater,MI,Branch County,41.94,-85,20960
-49037,STANDARD,Battle Creek,MI,Calhoun County,42.32,-85.26,16990
-49038,STANDARD,Coloma,MI,Berrien County,42.18,-86.3,8000
-49040,STANDARD,Colon,MI,St. Joseph County,41.95,-85.32,2920
-49041,PO BOX,Comstock,MI,Kalamazoo County,42.28,-85.51,218
-49042,STANDARD,Constantine,MI,St. Joseph County,41.83,-85.66,4220
-49043,STANDARD,Covert,MI,Van Buren County,42.29,-86.26,1880
-49045,STANDARD,Decatur,MI,Van Buren County,42.1,-85.97,4670
-49046,STANDARD,Delton,MI,Barry County,42.49,-85.4,6410
-49047,STANDARD,Dowagiac,MI,Cass County,41.98,-86.11,12210
-49048,STANDARD,Kalamazoo,MI,Kalamazoo County,42.24,-85.48,21010
-49050,STANDARD,Dowling,MI,Barry County,42.5,-85.25,1450
-49051,STANDARD,East Leroy,MI,Calhoun County,42.19,-85.24,2320
-49052,STANDARD,Fulton,MI,Kalamazoo County,42.11,-85.35,870
-49053,STANDARD,Galesburg,MI,Kalamazoo County,42.29,-85.41,6800
-49055,STANDARD,Gobles,MI,Van Buren County,42.36,-85.87,5530
-49056,STANDARD,Grand Junction,MI,Van Buren County,42.4,-86.07,3280
-49057,STANDARD,Hartford,MI,Van Buren County,42.2,-86.16,5840
-49058,STANDARD,Hastings,MI,Barry County,42.65,-85.28,17980
-49060,STANDARD,Hickory Corners,MI,Barry County,42.44,-85.37,1730
-49061,STANDARD,Jones,MI,Cass County,41.91,-85.81,1500
-49062,PO BOX,Kendall,MI,Van Buren County,42.36,-85.81,82
-49063,PO BOX,Lacota,MI,Van Buren County,42.41,-86.14,89
-49064,STANDARD,Lawrence,MI,Van Buren County,42.21,-86.05,3400
-49065,STANDARD,Lawton,MI,Van Buren County,42.16,-85.84,6280
-49066,STANDARD,Leonidas,MI,St. Joseph County,42.03,-85.35,620
-49067,STANDARD,Marcellus,MI,Cass County,42.02,-85.81,4010
-49068,STANDARD,Marshall,MI,Calhoun County,42.26,-84.95,13340
-49070,STANDARD,Martin,MI,Allegan County,42.53,-85.63,2360
-49071,STANDARD,Mattawan,MI,Van Buren County,42.21,-85.78,10680
-49072,STANDARD,Mendon,MI,St. Joseph County,42,-85.45,2880
-49073,STANDARD,Nashville,MI,Barry County,42.6,-85.09,4430
-49074,PO BOX,Nazareth,MI,Kalamazoo County,42.32,-85.54,93
-49075,PO BOX,Nottawa,MI,St. Joseph County,41.92,-85.45,323
-49076,STANDARD,Olivet,MI,Eaton County,42.44,-84.92,3530
-49077,PO BOX,Oshtemo,MI,Kalamazoo County,42.25,-85.67,188
-49078,STANDARD,Otsego,MI,Allegan County,42.45,-85.69,8690
-49079,STANDARD,Paw Paw,MI,Van Buren County,42.21,-85.89,12550
-49080,STANDARD,Plainwell,MI,Allegan County,42.44,-85.64,14530
-49081,PO BOX,Portage,MI,Kalamazoo County,42.2,-85.59,546
-49082,STANDARD,Quincy,MI,Branch County,41.94,-84.88,5390
-49083,STANDARD,Richland,MI,Kalamazoo County,42.37,-85.45,7890
-49084,PO BOX,Riverside,MI,Berrien County,42.18,-86.39,189
-49085,STANDARD,Saint Joseph,MI,Berrien County,42.03,-86.45,22430
-49087,STANDARD,Schoolcraft,MI,Kalamazoo County,42.11,-85.63,6220
-49088,STANDARD,Scotts,MI,Kalamazoo County,42.19,-85.41,3670
-49089,STANDARD,Sherwood,MI,Branch County,42,-85.24,1430
-49090,STANDARD,South Haven,MI,Van Buren County,42.4,-86.27,11480
-49091,STANDARD,Sturgis,MI,St. Joseph County,41.8,-85.42,17630
-49092,STANDARD,Tekonsha,MI,Calhoun County,42.09,-84.98,1820
-49093,STANDARD,Three Rivers,MI,St. Joseph County,41.94,-85.63,15920
-49094,STANDARD,Union City,MI,Branch County,42.06,-85.14,3520
-49095,STANDARD,Vandalia,MI,Cass County,41.91,-85.91,1710
-49096,STANDARD,Vermontville,MI,Eaton County,42.62,-85.02,2930
-49097,STANDARD,Vicksburg,MI,Kalamazoo County,42.12,-85.53,11000
-49098,STANDARD,Watervliet,MI,Berrien County,42.18,-86.25,5410
-49099,STANDARD,White Pigeon,MI,St. Joseph County,41.79,-85.64,4920
-49101,STANDARD,Baroda,MI,Berrien County,41.95,-86.48,2930
-49102,STANDARD,Berrien Center,MI,Berrien County,41.94,-86.26,1190
-49103,STANDARD,Berrien Springs,MI,Berrien County,41.94,-86.34,9340
-49104,UNIQUE,Berrien Springs,MI,Berrien County,41.96,-86.36,96
-49106,STANDARD,Bridgman,MI,Berrien County,41.94,-86.56,4370
-49107,STANDARD,Buchanan,MI,Berrien County,41.82,-86.36,8660
-49111,STANDARD,Eau Claire,MI,Berrien County,41.98,-86.3,3110
-49112,STANDARD,Edwardsburg,MI,Cass County,41.79,-86.08,9370
-49113,STANDARD,Galien,MI,Berrien County,41.8,-86.49,1620
-49115,PO BOX,Harbert,MI,Berrien County,41.88,-86.63,245
-49116,STANDARD,Lakeside,MI,Berrien County,41.85,-86.67,190
-49117,STANDARD,New Buffalo,MI,Berrien County,41.79,-86.74,3180
-49119,PO BOX,New Troy,MI,Berrien County,41.88,-86.55,184
-49120,STANDARD,Niles,MI,Berrien County,41.83,-86.24,32280
-49125,STANDARD,Sawyer,MI,Berrien County,41.89,-86.58,1720
-49126,STANDARD,Sodus,MI,Berrien County,42.03,-86.38,1670
-49127,STANDARD,Stevensville,MI,Berrien County,42.01,-86.52,10060
-49128,STANDARD,Three Oaks,MI,Berrien County,41.79,-86.61,2920
-49129,STANDARD,Union Pier,MI,Berrien County,41.81,-86.68,590
-49130,STANDARD,Union,MI,Cass County,41.78,-85.86,1580
-49201,STANDARD,Jackson,MI,Jackson County,42.19,-84.3,36350
-49202,STANDARD,Jackson,MI,Jackson County,42.27,-84.41,15240
-49203,STANDARD,Jackson,MI,Jackson County,42.24,-84.4,31440
-49204,PO BOX,Jackson,MI,Jackson County,42.24,-84.4,1029
-49220,STANDARD,Addison,MI,Lenawee County,41.98,-84.34,2130
-49221,STANDARD,Adrian,MI,Lenawee County,41.89,-84.04,32350
-49224,STANDARD,Albion,MI,Calhoun County,42.24,-84.75,9830
-49227,STANDARD,Allen,MI,Hillsdale County,41.95,-84.76,1150
-49228,STANDARD,Blissfield,MI,Lenawee County,41.83,-83.86,5090
-49229,STANDARD,Britton,MI,Lenawee County,41.98,-83.83,2940
-49230,STANDARD,Brooklyn,MI,Jackson County,42.1,-84.24,9860
-49232,STANDARD,Camden,MI,Hillsdale County,41.75,-84.75,2520
-49233,STANDARD,Cement City,MI,Hillsdale County,42.06,-84.32,2630
-49234,STANDARD,Clarklake,MI,Jackson County,42.12,-84.36,2460
-49235,STANDARD,Clayton,MI,Lenawee County,41.86,-84.23,1810
-49236,STANDARD,Clinton,MI,Lenawee County,42.06,-83.97,4570
-49237,STANDARD,Concord,MI,Jackson County,42.17,-84.64,2770
-49238,STANDARD,Deerfield,MI,Lenawee County,41.89,-83.77,1490
-49239,PO BOX,Frontier,MI,Hillsdale County,41.79,-84.62,109
-49240,STANDARD,Grass Lake,MI,Jackson County,42.25,-84.2,8820
-49241,STANDARD,Hanover,MI,Jackson County,42.1,-84.55,2100
-49242,STANDARD,Hillsdale,MI,Hillsdale County,41.92,-84.63,11900
-49245,STANDARD,Homer,MI,Calhoun County,42.14,-84.81,3980
-49246,STANDARD,Horton,MI,Jackson County,42.15,-84.51,3030
-49247,STANDARD,Hudson,MI,Lenawee County,41.85,-84.34,4990
-49248,STANDARD,Jasper,MI,Lenawee County,41.74,-83.94,790
-49249,STANDARD,Jerome,MI,Hillsdale County,42.03,-84.45,3090
-49250,STANDARD,Jonesville,MI,Hillsdale County,41.98,-84.66,5310
-49251,STANDARD,Leslie,MI,Ingham County,42.45,-84.43,5770
-49252,STANDARD,Litchfield,MI,Hillsdale County,42.04,-84.75,2260
-49253,STANDARD,Manitou Beach,MI,Lenawee County,41.95,-84.26,2780
-49254,STANDARD,Michigan Center,MI,Jackson County,42.22,-84.32,2860
-49255,STANDARD,Montgomery,MI,Branch County,41.77,-84.8,1140
-49256,STANDARD,Morenci,MI,Lenawee County,41.72,-84.21,3270
-49257,PO BOX,Moscow,MI,Hillsdale County,42.02,-84.55,97
-49258,PO BOX,Mosherville,MI,Hillsdale County,42.06,-84.66,137
-49259,STANDARD,Munith,MI,Jackson County,42.39,-84.25,2270
-49261,PO BOX,Napoleon,MI,Jackson County,42.16,-84.24,577
-49262,STANDARD,North Adams,MI,Hillsdale County,41.97,-84.52,1120
-49263,PO BOX,Norvell,MI,Jackson County,42.16,-84.18,165
-49264,STANDARD,Onondaga,MI,Ingham County,42.44,-84.56,1730
-49265,STANDARD,Onsted,MI,Lenawee County,42,-84.19,4870
-49266,STANDARD,Osseo,MI,Hillsdale County,41.82,-84.53,2530
-49267,STANDARD,Ottawa Lake,MI,Monroe County,41.76,-83.74,3820
-49268,STANDARD,Palmyra,MI,Lenawee County,41.87,-83.94,970
-49269,STANDARD,Parma,MI,Jackson County,42.25,-84.59,5410
-49270,STANDARD,Petersburg,MI,Monroe County,41.89,-83.71,5680
-49271,STANDARD,Pittsford,MI,Hillsdale County,41.9,-84.43,1950
-49272,STANDARD,Pleasant Lake,MI,Jackson County,42.39,-84.34,2280
-49274,STANDARD,Reading,MI,Hillsdale County,41.83,-84.74,2970
-49276,STANDARD,Riga,MI,Lenawee County,41.78,-83.79,940
-49277,STANDARD,Rives Junction,MI,Jackson County,42.38,-84.46,3030
-49279,STANDARD,Sand Creek,MI,Lenawee County,41.78,-84.1,790
-49281,PO BOX,Somerset,MI,Hillsdale County,42.03,-84.38,89
-49282,STANDARD,Somerset Center,MI,Hillsdale County,42.03,-84.4,300
-49283,STANDARD,Spring Arbor,MI,Jackson County,42.2,-84.55,2940
-49284,STANDARD,Springport,MI,Jackson County,42.37,-84.69,2680
-49285,STANDARD,Stockbridge,MI,Ingham County,42.45,-84.17,5160
-49286,STANDARD,Tecumseh,MI,Lenawee County,42,-83.94,14130
-49287,STANDARD,Tipton,MI,Lenawee County,42.01,-84.06,1970
-49288,STANDARD,Waldron,MI,Hillsdale County,41.72,-84.41,1180
-49289,PO BOX,Weston,MI,Lenawee County,41.77,-84.11,163
-49301,STANDARD,Ada,MI,Kent County,42.95,-85.48,21010
-49302,STANDARD,Alto,MI,Kent County,42.85,-85.38,8910
-49303,STANDARD,Bailey,MI,Muskegon County,43.27,-85.81,1090
-49304,STANDARD,Baldwin,MI,Lake County,43.89,-85.85,2970
-49305,STANDARD,Barryton,MI,Mecosta County,43.74,-85.14,1880
-49306,STANDARD,Belmont,MI,Kent County,43.07,-85.6,10380
-49307,STANDARD,Big Rapids,MI,Mecosta County,43.7,-85.48,12710
-49309,STANDARD,Bitely,MI,Newaygo County,43.74,-85.86,1490
-49310,STANDARD,Blanchard,MI,Isabella County,43.51,-85.08,2410
-49311,PO BOX,Bradley,MI,Allegan County,42.63,-85.64,64
-49312,PO BOX,Brohman,MI,Newaygo County,43.67,-85.82,230
-49314,PO BOX,Burnips,MI,Allegan County,42.73,-85.83,166
-49315,STANDARD,Byron Center,MI,Kent County,42.81,-85.72,26400
-49316,STANDARD,Caledonia,MI,Kent County,42.79,-85.51,24400
-49317,PO BOX,Cannonsburg,MI,Kent County,43.05,-85.46,38
-49318,STANDARD,Casnovia,MI,Muskegon County,43.23,-85.79,1420
-49319,STANDARD,Cedar Springs,MI,Kent County,43.22,-85.55,16310
-49320,PO BOX,Chippewa Lake,MI,Mecosta County,43.75,-85.28,337
-49321,STANDARD,Comstock Park,MI,Kent County,43.04,-85.67,15610
-49322,STANDARD,Coral,MI,Montcalm County,43.36,-85.4,950
-49323,STANDARD,Dorr,MI,Allegan County,42.72,-85.72,10040
-49325,STANDARD,Freeport,MI,Barry County,42.76,-85.31,2010
-49326,STANDARD,Gowen,MI,Kent County,43.25,-85.3,3680
-49327,STANDARD,Grant,MI,Newaygo County,43.33,-85.81,7720
-49328,STANDARD,Hopkins,MI,Allegan County,42.62,-85.76,3710
-49329,STANDARD,Howard City,MI,Montcalm County,43.39,-85.46,7930
-49330,STANDARD,Kent City,MI,Kent County,43.21,-85.75,5380
-49331,STANDARD,Lowell,MI,Kent County,42.93,-85.34,17340
-49332,STANDARD,Mecosta,MI,Mecosta County,43.61,-85.23,2430
-49333,STANDARD,Middleville,MI,Barry County,42.71,-85.46,13240
-49335,PO BOX,Moline,MI,Allegan County,42.74,-85.67,503
-49336,STANDARD,Morley,MI,Mecosta County,43.49,-85.44,3540
-49337,STANDARD,Newaygo,MI,Newaygo County,43.42,-85.8,11630
-49338,STANDARD,Paris,MI,Mecosta County,43.77,-85.6,1690
-49339,STANDARD,Pierson,MI,Montcalm County,43.31,-85.49,2270
-49340,STANDARD,Remus,MI,Mecosta County,43.61,-85.1,2570
-49341,STANDARD,Rockford,MI,Kent County,43.12,-85.55,37940
-49342,STANDARD,Rodney,MI,Mecosta County,43.67,-85.32,1450
-49343,STANDARD,Sand Lake,MI,Kent County,43.29,-85.51,5370
-49344,STANDARD,Shelbyville,MI,Allegan County,42.59,-85.63,3420
-49345,STANDARD,Sparta,MI,Kent County,43.15,-85.7,12870
-49346,STANDARD,Stanwood,MI,Mecosta County,43.58,-85.44,5620
-49347,STANDARD,Trufant,MI,Montcalm County,43.31,-85.35,1250
-49348,STANDARD,Wayland,MI,Allegan County,42.67,-85.64,13890
-49349,STANDARD,White Cloud,MI,Newaygo County,43.55,-85.77,6910
-49401,STANDARD,Allendale,MI,Ottawa County,42.98,-85.95,16020
-49402,STANDARD,Branch,MI,Mason County,43.93,-86.03,1240
-49403,STANDARD,Conklin,MI,Ottawa County,43.14,-85.85,2430
-49404,STANDARD,Coopersville,MI,Ottawa County,43.06,-85.93,8500
-49405,STANDARD,Custer,MI,Mason County,43.95,-86.21,1450
-49406,PO BOX,Douglas,MI,Allegan County,42.64,-86.21,978
-49408,STANDARD,Fennville,MI,Allegan County,42.59,-86.1,8670
-49409,PO BOX,Ferrysburg,MI,Ottawa County,43.08,-86.22,199
-49410,STANDARD,Fountain,MI,Mason County,44.04,-86.17,1670
-49411,STANDARD,Free Soil,MI,Mason County,44.1,-86.21,1410
-49412,STANDARD,Fremont,MI,Newaygo County,43.46,-85.95,10440
-49415,STANDARD,Fruitport,MI,Muskegon County,43.12,-86.15,6230
-49416,PO BOX,Glenn,MI,Allegan County,42.52,-86.22,217
-49417,STANDARD,Grand Haven,MI,Ottawa County,43.05,-86.22,30660
-49418,STANDARD,Grandville,MI,Kent County,42.9,-85.75,29980
-49419,STANDARD,Hamilton,MI,Allegan County,42.67,-86,8700
-49420,STANDARD,Hart,MI,Oceana County,43.69,-86.36,5800
-49421,STANDARD,Hesperia,MI,Oceana County,43.56,-86.04,5100
-49422,PO BOX,Holland,MI,Ottawa County,42.77,-86.1,953
-49423,STANDARD,Holland,MI,Ottawa County,42.77,-86.1,41380
-49424,STANDARD,Holland,MI,Ottawa County,42.84,-86.13,45970
-49425,STANDARD,Holton,MI,Muskegon County,43.41,-86.07,3210
-49426,STANDARD,Hudsonville,MI,Ottawa County,42.86,-85.86,40480
-49427,PO BOX,Jamestown,MI,Ottawa County,42.82,-85.84,171
-49428,STANDARD,Jenison,MI,Ottawa County,42.9,-85.82,26370
-49429,PO BOX,Jenison,MI,Ottawa County,42.9,-85.82,302
-49430,PO BOX,Lamont,MI,Ottawa County,43.01,-85.9,128
-49431,STANDARD,Ludington,MI,Mason County,43.95,-86.44,15890
-49434,PO BOX,Macatawa,MI,Ottawa County,42.77,-86.21,173
-49435,STANDARD,Marne,MI,Ottawa County,43.03,-85.82,3600
-49436,STANDARD,Mears,MI,Oceana County,43.68,-86.41,1590
-49437,STANDARD,Montague,MI,Muskegon County,43.46,-86.39,6500
-49440,STANDARD,Muskegon,MI,Muskegon County,43.24,-86.25,950
-49441,STANDARD,Muskegon,MI,Muskegon County,43.22,-86.25,32440
-49442,STANDARD,Muskegon,MI,Muskegon County,43.24,-86.14,34370
-49443,PO BOX,Muskegon,MI,Muskegon County,43.22,-86.24,409
-49444,STANDARD,Muskegon,MI,Muskegon County,43.18,-86.2,22380
-49445,STANDARD,Muskegon,MI,Muskegon County,43.29,-86.29,20020
-49446,STANDARD,New Era,MI,Oceana County,43.55,-86.34,2080
-49448,STANDARD,Nunica,MI,Ottawa County,43.07,-86.06,3890
-49449,STANDARD,Pentwater,MI,Oceana County,43.78,-86.43,2580
-49450,STANDARD,Pullman,MI,Allegan County,42.48,-86.09,2620
-49451,STANDARD,Ravenna,MI,Muskegon County,43.18,-85.94,5750
-49452,STANDARD,Rothbury,MI,Oceana County,43.51,-86.26,1750
-49453,STANDARD,Saugatuck,MI,Allegan County,42.65,-86.2,2980
-49454,STANDARD,Scottville,MI,Mason County,43.95,-86.28,4120
-49455,STANDARD,Shelby,MI,Oceana County,43.61,-86.35,4730
-49456,STANDARD,Spring Lake,MI,Ottawa County,43.07,-86.19,18910
-49457,STANDARD,Twin Lake,MI,Muskegon County,43.36,-86.17,9810
-49458,PO BOX,Walhalla,MI,Mason County,43.95,-86.11,324
-49459,STANDARD,Walkerville,MI,Oceana County,43.71,-86.12,1170
-49460,STANDARD,West Olive,MI,Ottawa County,42.93,-86.15,9170
-49461,STANDARD,Whitehall,MI,Muskegon County,43.39,-86.34,8470
-49464,STANDARD,Zeeland,MI,Ottawa County,42.81,-86.01,29110
-49468,PO BOX,Grandville,MI,Kent County,42.9,-85.75,163
-49501,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,983
-49502,UNIQUE,Grand Rapids,MI,Kent County,42.96,-85.65,22
-49503,STANDARD,Grand Rapids,MI,Kent County,42.96,-85.65,28970
-49504,STANDARD,Grand Rapids,MI,Kent County,42.98,-85.71,33860
-49505,STANDARD,Grand Rapids,MI,Kent County,43,-85.64,26960
-49506,STANDARD,Grand Rapids,MI,Kent County,42.95,-85.61,29210
-49507,STANDARD,Grand Rapids,MI,Kent County,42.93,-85.66,32050
-49508,STANDARD,Grand Rapids,MI,Kent County,42.87,-85.62,37800
-49509,STANDARD,Wyoming,MI,Kent County,42.9,-85.69,26100
-49510,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,252
-49512,STANDARD,Grand Rapids,MI,Kent County,42.88,-85.53,16170
-49514,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,308
-49515,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,210
-49516,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,285
-49518,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,298
-49519,STANDARD,Wyoming,MI,Kent County,42.89,-85.72,24680
-49523,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,37
-49525,STANDARD,Grand Rapids,MI,Kent County,43.02,-85.59,27960
-49528,PO BOX,Grand Rapids,MI,Kent County,42.9,-85.67,47
-49534,STANDARD,Grand Rapids,MI,Kent County,42.97,-85.77,22060
-49544,STANDARD,Grand Rapids,MI,Kent County,43.04,-85.75,8500
-49546,STANDARD,Grand Rapids,MI,Kent County,42.93,-85.54,29880
-49548,STANDARD,Grand Rapids,MI,Kent County,42.87,-85.66,30710
-49588,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,107
-49601,STANDARD,Cadillac,MI,Wexford County,44.24,-85.41,19200
-49610,PO BOX,Acme,MI,Grand Traverse County,44.76,-85.48,363
-49611,PO BOX,Alba,MI,Antrim County,44.97,-84.97,436
-49612,STANDARD,Alden,MI,Antrim County,44.88,-85.26,1040
-49613,STANDARD,Arcadia,MI,Manistee County,44.51,-86.23,660
-49614,STANDARD,Bear Lake,MI,Manistee County,44.42,-86.14,2670
-49615,STANDARD,Bellaire,MI,Antrim County,44.97,-85.2,3940
-49616,STANDARD,Benzonia,MI,Benzie County,44.61,-86.09,1930
-49617,STANDARD,Beulah,MI,Benzie County,44.64,-86.03,3040
-49618,STANDARD,Boon,MI,Wexford County,44.28,-85.6,700
-49619,STANDARD,Brethren,MI,Manistee County,44.3,-86.01,910
-49620,STANDARD,Buckley,MI,Wexford County,44.5,-85.67,2680
-49621,STANDARD,Cedar,MI,Leelanau County,44.85,-85.8,3000
-49622,STANDARD,Central Lake,MI,Antrim County,45.06,-85.26,2280
-49623,STANDARD,Chase,MI,Lake County,43.88,-85.63,1000
-49625,STANDARD,Copemish,MI,Manistee County,44.48,-85.92,1150
-49626,PO BOX,Eastlake,MI,Manistee County,44.24,-86.29,388
-49627,PO BOX,Eastport,MI,Antrim County,45.11,-85.36,484
-49628,PO BOX,Elberta,MI,Benzie County,44.62,-86.24,399
-49629,STANDARD,Elk Rapids,MI,Antrim County,44.89,-85.4,2070
-49630,STANDARD,Empire,MI,Leelanau County,44.81,-86.05,1420
-49631,STANDARD,Evart,MI,Osceola County,43.9,-85.27,4980
-49632,STANDARD,Falmouth,MI,Missaukee County,44.25,-85.08,1010
-49633,STANDARD,Fife Lake,MI,Kalkaska County,44.57,-85.35,3520
-49634,PO BOX,Filer City,MI,Manistee County,44.21,-86.29,127
-49635,STANDARD,Frankfort,MI,Benzie County,44.63,-86.23,3090
-49636,STANDARD,Glen Arbor,MI,Leelanau County,44.86,-85.96,660
-49637,STANDARD,Grawn,MI,Grand Traverse County,44.66,-85.68,3330
-49638,STANDARD,Harrietta,MI,Wexford County,44.3,-85.7,740
-49639,STANDARD,Hersey,MI,Osceola County,43.84,-85.44,2270
-49640,STANDARD,Honor,MI,Benzie County,44.66,-86.02,1460
-49642,STANDARD,Idlewild,MI,Lake County,43.88,-85.8,560
-49643,STANDARD,Interlochen,MI,Grand Traverse County,44.64,-85.83,6600
-49644,STANDARD,Irons,MI,Lake County,44.14,-85.91,1600
-49645,STANDARD,Kaleva,MI,Manistee County,44.37,-86.01,1610
-49646,STANDARD,Kalkaska,MI,Kalkaska County,44.73,-85.17,7830
-49648,STANDARD,Kewadin,MI,Antrim County,44.93,-85.36,2130
-49649,STANDARD,Kingsley,MI,Grand Traverse County,44.58,-85.53,6470
-49650,STANDARD,Lake Ann,MI,Benzie County,44.72,-85.84,3150
-49651,STANDARD,Lake City,MI,Missaukee County,44.33,-85.2,7030
-49653,STANDARD,Lake Leelanau,MI,Leelanau County,44.97,-85.73,1900
-49654,STANDARD,Leland,MI,Leelanau County,45.01,-86.14,790
-49655,STANDARD,Leroy,MI,Osceola County,44.03,-85.41,3020
-49656,STANDARD,Luther,MI,Lake County,44.03,-85.68,1290
-49657,STANDARD,Mc Bain,MI,Missaukee County,44.22,-85.21,3270
-49659,STANDARD,Mancelona,MI,Antrim County,44.9,-85.06,6100
-49660,STANDARD,Manistee,MI,Manistee County,44.24,-86.32,11550
-49663,STANDARD,Manton,MI,Wexford County,44.41,-85.4,5660
-49664,STANDARD,Maple City,MI,Leelanau County,44.84,-85.86,2040
-49665,STANDARD,Marion,MI,Osceola County,44.1,-85.14,3660
-49666,PO BOX,Mayfield,MI,Grand Traverse County,44.62,-85.55,260
-49667,STANDARD,Merritt,MI,Missaukee County,44.31,-84.93,480
-49668,STANDARD,Mesick,MI,Wexford County,44.4,-85.71,3330
-49670,STANDARD,Northport,MI,Leelanau County,45.12,-85.62,1800
-49673,PO BOX,Old Mission,MI,Grand Traverse County,44.96,-85.5,74
-49674,PO BOX,Omena,MI,Leelanau County,45.05,-85.59,239
-49675,STANDARD,Onekama,MI,Manistee County,44.36,-86.2,1040
-49676,STANDARD,Rapid City,MI,Kalkaska County,44.83,-85.28,3220
-49677,STANDARD,Reed City,MI,Osceola County,43.87,-85.5,5960
-49679,STANDARD,Sears,MI,Osceola County,43.89,-85.18,1100
-49680,STANDARD,South Boardman,MI,Kalkaska County,44.63,-85.25,1750
-49682,STANDARD,Suttons Bay,MI,Leelanau County,44.97,-85.65,4190
-49683,STANDARD,Thompsonville,MI,Benzie County,44.52,-85.93,1840
-49684,STANDARD,Traverse City,MI,Grand Traverse County,44.76,-85.7,19850
-49685,STANDARD,Traverse City,MI,Grand Traverse County,44.7,-85.7,875
-49686,STANDARD,Traverse City,MI,Grand Traverse County,44.75,-85.6,22890
-49688,STANDARD,Tustin,MI,Osceola County,44.1,-85.45,2470
-49689,STANDARD,Wellston,MI,Manistee County,44.21,-85.95,1360
-49690,STANDARD,Williamsburg,MI,Grand Traverse County,44.76,-85.4,6260
-49696,STANDARD,Traverse City,MI,Grand Traverse County,44.67,-85.49,485
-49701,STANDARD,Mackinaw City,MI,Emmet County,45.77,-84.74,1030
-49705,STANDARD,Afton,MI,Cheboygan County,45.31,-84.45,680
-49706,STANDARD,Alanson,MI,Emmet County,45.44,-84.78,4560
-49707,STANDARD,Alpena,MI,Alpena County,45.07,-83.43,19070
-49709,STANDARD,Atlanta,MI,Montmorency County,45,-84.15,3020
-49710,STANDARD,Barbeau,MI,Chippewa County,46.28,-84.28,360
-49711,PO BOX,Bay Shore,MI,Charlevoix County,45.34,-85.15,30
-49712,STANDARD,Boyne City,MI,Charlevoix County,45.21,-85.01,7490
-49713,STANDARD,Boyne Falls,MI,Charlevoix County,45.16,-84.91,2040
-49715,STANDARD,Brimley,MI,Chippewa County,46.4,-84.57,2830
-49716,STANDARD,Brutus,MI,Emmet County,45.5,-84.75,770
-49717,PO BOX,Burt Lake,MI,Cheboygan County,45.43,-84.69,110
-49718,STANDARD,Carp Lake,MI,Emmet County,45.69,-84.79,580
-49719,STANDARD,Cedarville,MI,Mackinac County,45.99,-84.36,1290
-49720,STANDARD,Charlevoix,MI,Charlevoix County,45.31,-85.25,8570
-49721,STANDARD,Cheboygan,MI,Cheboygan County,45.64,-84.46,12170
-49722,PO BOX,Conway,MI,Emmet County,45.42,-84.87,420
-49723,PO BOX,Cross Village,MI,Emmet County,45.63,-85.03,93
-49724,STANDARD,Dafter,MI,Chippewa County,46.36,-84.43,1060
-49725,STANDARD,De Tour Village,MI,Chippewa County,45.99,-83.9,580
-49726,STANDARD,Drummond Island,MI,Chippewa County,46,-83.67,1000
-49727,STANDARD,East Jordan,MI,Charlevoix County,45.15,-85.13,6300
-49728,STANDARD,Eckerman,MI,Chippewa County,46.36,-85.03,290
-49729,STANDARD,Ellsworth,MI,Antrim County,45.16,-85.24,1470
-49730,STANDARD,Elmira,MI,Antrim County,45.06,-84.85,2110
-49733,STANDARD,Frederic,MI,Crawford County,44.78,-84.73,1640
-49734,PO BOX,Gaylord,MI,Otsego County,45.02,-84.67,1712
-49735,STANDARD,Gaylord,MI,Otsego County,45.02,-84.67,17820
-49736,STANDARD,Goetzville,MI,Chippewa County,46.08,-84.09,480
-49737,PO BOX,Good Hart,MI,Emmet County,45.56,-85.11,31
-49738,STANDARD,Grayling,MI,Crawford County,44.65,-84.7,8550
-49740,STANDARD,Harbor Springs,MI,Emmet County,45.43,-84.98,7060
-49743,STANDARD,Hawks,MI,Presque Isle County,45.3,-83.9,750
-49744,STANDARD,Herron,MI,Alpena County,45,-83.66,800
-49745,STANDARD,Hessel,MI,Mackinac County,46.03,-84.44,940
-49746,STANDARD,Hillman,MI,Montmorency County,45.06,-83.9,3010
-49747,STANDARD,Hubbard Lake,MI,Alpena County,44.8,-83.59,1540
-49748,PO BOX,Hulbert,MI,Chippewa County,46.35,-85.15,130
-49749,STANDARD,Indian River,MI,Cheboygan County,45.41,-84.61,3860
-49751,STANDARD,Johannesburg,MI,Otsego County,44.98,-84.46,1920
-49752,STANDARD,Kinross,MI,Chippewa County,46.26,-84.51,460
-49753,STANDARD,Lachine,MI,Alpena County,45.08,-83.73,1770
-49755,STANDARD,Levering,MI,Emmet County,45.63,-84.76,1720
-49756,STANDARD,Lewiston,MI,Montmorency County,44.88,-84.31,3420
-49757,PO BOX,Mackinac Island,MI,Mackinac County,45.85,-84.62,941
-49759,STANDARD,Millersburg,MI,Presque Isle County,45.33,-84.06,1290
-49760,STANDARD,Moran,MI,Mackinac County,46.04,-84.9,600
-49761,PO BOX,Mullett Lake,MI,Cheboygan County,45.57,-84.51,86
-49762,STANDARD,Naubinway,MI,Mackinac County,46.11,-85.45,520
-49764,PO BOX,Oden,MI,Emmet County,45.42,-84.83,265
-49765,STANDARD,Onaway,MI,Presque Isle County,45.35,-84.22,3270
-49766,STANDARD,Ossineke,MI,Alpena County,44.9,-83.43,2140
-49768,STANDARD,Paradise,MI,Chippewa County,46.62,-85.03,340
-49769,STANDARD,Pellston,MI,Emmet County,45.55,-84.78,1420
-49770,STANDARD,Petoskey,MI,Emmet County,45.36,-84.95,16180
-49774,STANDARD,Pickford,MI,Chippewa County,46.16,-84.36,1680
-49775,STANDARD,Pointe Aux Pins,MI,Mackinac County,45.76,-84.46,61
-49776,STANDARD,Posen,MI,Presque Isle County,45.26,-83.69,1610
-49777,STANDARD,Presque Isle,MI,Presque Isle County,45.3,-83.46,1740
-49779,STANDARD,Rogers City,MI,Presque Isle County,45.42,-83.81,4010
-49780,STANDARD,Rudyard,MI,Chippewa County,46.23,-84.6,1650
-49781,STANDARD,Saint Ignace,MI,Mackinac County,45.86,-84.72,3540
-49782,STANDARD,Beaver Island,MI,Charlevoix County,45.65,-85.55,540
-49783,STANDARD,Sault Sainte Marie,MI,Chippewa County,46.48,-84.36,15380
-49786,UNIQUE,Kincheloe,MI,Chippewa County,46.24,-84.49,18
-49788,STANDARD,Kincheloe,MI,Chippewa County,46.27,-84.47,2590
-49791,PO BOX,Topinabee,MI,Cheboygan County,45.48,-84.6,465
-49792,PO BOX,Tower,MI,Cheboygan County,45.35,-84.3,235
-49793,PO BOX,Trout Lake,MI,Chippewa County,46.18,-85.01,284
-49795,STANDARD,Vanderbilt,MI,Otsego County,45.14,-84.66,1810
-49796,PO BOX,Walloon Lake,MI,Charlevoix County,45.27,-84.95,514
-49797,PO BOX,Waters,MI,Otsego County,44.9,-84.71,402
-49799,STANDARD,Wolverine,MI,Cheboygan County,45.27,-84.6,2210
-49801,STANDARD,Iron Mountain,MI,Dickinson County,45.82,-88.06,10290
-49802,STANDARD,Kingsford,MI,Dickinson County,45.8,-88.09,5500
-49805,STANDARD,Allouez,MI,Keweenaw County,47.37,-88.35,310
-49806,STANDARD,Au Train,MI,Alger County,46.43,-86.83,480
-49807,STANDARD,Bark River,MI,Delta County,45.72,-87.3,2880
-49808,PO BOX,Big Bay,MI,Marquette County,46.81,-87.72,356
-49812,STANDARD,Carney,MI,Menominee County,45.58,-87.55,800
-49814,STANDARD,Champion,MI,Marquette County,46.52,-87.97,1240
-49815,STANDARD,Channing,MI,Dickinson County,46.13,-88.08,390
-49816,STANDARD,Chatham,MI,Alger County,46.34,-86.93,680
-49817,STANDARD,Cooks,MI,Schoolcraft County,45.91,-86.47,470
-49818,STANDARD,Cornell,MI,Delta County,45.9,-87.23,840
-49819,PO BOX,Arnold,MI,Marquette County,46.11,-87.46,51
-49820,STANDARD,Curtis,MI,Mackinac County,46.19,-85.65,490
-49821,STANDARD,Daggett,MI,Menominee County,45.46,-87.6,1140
-49822,STANDARD,Deerton,MI,Alger County,46.47,-87.04,147
-49825,PO BOX,Eben Junction,MI,Alger County,46.35,-86.97,338
-49826,PO BOX,Rumely,MI,Alger County,46.32,-87.05,164
-49827,STANDARD,Engadine,MI,Mackinac County,46.11,-85.56,770
-49829,STANDARD,Escanaba,MI,Delta County,45.74,-87.08,14240
-49831,STANDARD,Felch,MI,Dickinson County,46,-87.85,700
-49833,PO BOX,Little Lake,MI,Marquette County,46.29,-87.33,393
-49834,STANDARD,Foster City,MI,Dickinson County,45.97,-87.75,400
-49835,STANDARD,Garden,MI,Delta County,45.77,-86.55,740
-49836,STANDARD,Germfask,MI,Schoolcraft County,46.25,-85.92,670
-49837,STANDARD,Gladstone,MI,Delta County,45.85,-87.02,8970
-49838,STANDARD,Gould City,MI,Mackinac County,46.1,-85.7,400
-49839,PO BOX,Grand Marais,MI,Alger County,46.65,-86.03,404
-49840,STANDARD,Gulliver,MI,Schoolcraft County,45.98,-86.02,630
-49841,STANDARD,Gwinn,MI,Marquette County,46.29,-87.43,6200
-49845,PO BOX,Harris,MI,Menominee County,45.91,-87.42,52
-49847,STANDARD,Hermansville,MI,Menominee County,45.71,-87.6,840
-49848,STANDARD,Ingalls,MI,Menominee County,45.38,-87.64,137
-49849,STANDARD,Ishpeming,MI,Marquette County,46.48,-87.66,10560
-49852,STANDARD,Loretto,MI,Dickinson County,45.79,-87.82,151
-49853,STANDARD,Mc Millan,MI,Luce County,46.37,-85.74,1160
-49854,STANDARD,Manistique,MI,Schoolcraft County,45.95,-86.25,5460
-49855,STANDARD,Marquette,MI,Marquette County,46.55,-87.39,25400
-49858,STANDARD,Menominee,MI,Menominee County,45.12,-87.62,9990
-49861,STANDARD,Michigamme,MI,Marquette County,46.53,-88.11,520
-49862,STANDARD,Munising,MI,Alger County,46.4,-86.59,3590
-49863,PO BOX,Nadeau,MI,Menominee County,45.61,-87.55,111
-49864,PO BOX,Nahma,MI,Delta County,45.84,-86.65,45
-49866,STANDARD,Negaunee,MI,Marquette County,46.49,-87.59,7770
-49868,STANDARD,Newberry,MI,Luce County,46.35,-85.5,3440
-49870,STANDARD,Norway,MI,Dickinson County,45.8,-87.91,2960
-49871,PO BOX,Palmer,MI,Marquette County,46.43,-87.58,449
-49872,PO BOX,Perkins,MI,Delta County,45.97,-87.07,270
-49873,STANDARD,Perronville,MI,Menominee County,45.87,-87.48,134
-49874,STANDARD,Powers,MI,Menominee County,45.75,-87.47,790
-49876,STANDARD,Quinnesec,MI,Dickinson County,45.8,-87.99,1050
-49877,PO BOX,Ralph,MI,Dickinson County,46.16,-87.71,34
-49878,STANDARD,Rapid River,MI,Delta County,45.92,-86.97,3230
-49879,STANDARD,Republic,MI,Marquette County,46.4,-87.98,910
-49880,STANDARD,Rock,MI,Delta County,46.06,-87.16,900
-49881,STANDARD,Sagola,MI,Dickinson County,46.08,-88.07,290
-49883,STANDARD,Seney,MI,Schoolcraft County,46.36,-85.97,122
-49884,STANDARD,Shingleton,MI,Alger County,46.37,-86.48,380
-49885,STANDARD,Skandia,MI,Marquette County,46.38,-87.23,1770
-49886,STANDARD,Spalding,MI,Menominee County,45.7,-87.49,360
-49887,STANDARD,Stephenson,MI,Menominee County,45.41,-87.6,1980
-49891,STANDARD,Trenary,MI,Alger County,46.2,-86.97,570
-49892,STANDARD,Vulcan,MI,Dickinson County,45.78,-87.87,1800
-49893,STANDARD,Wallace,MI,Menominee County,45.3,-87.61,1400
-49894,STANDARD,Wells,MI,Delta County,45.79,-87.08,670
-49895,STANDARD,Wetmore,MI,Alger County,46.38,-86.62,790
-49896,STANDARD,Wilson,MI,Menominee County,45.68,-87.39,1570
-49901,PO BOX,Ahmeek,MI,Keweenaw County,47.29,-88.39,312
-49902,PO BOX,Alpha,MI,Iron County,46.05,-88.38,165
-49903,PO BOX,Amasa,MI,Iron County,46.23,-88.45,248
-49905,STANDARD,Atlantic Mine,MI,Houghton County,47.09,-88.71,2030
-49908,STANDARD,Baraga,MI,Baraga County,46.77,-88.49,2120
-49910,STANDARD,Bergland,MI,Ontonagon County,46.6,-89.57,280
-49911,STANDARD,Bessemer,MI,Gogebic County,46.47,-90.04,2150
-49912,STANDARD,Bruce Crossing,MI,Ontonagon County,46.51,-89.21,700
-49913,STANDARD,Calumet,MI,Houghton County,47.24,-88.45,6310
-49915,PO BOX,Caspian,MI,Iron County,46.06,-88.62,812
-49916,STANDARD,Chassell,MI,Houghton County,47.03,-88.53,2700
-49917,PO BOX,Copper City,MI,Houghton County,47.28,-88.38,209
-49918,PO BOX,Copper Harbor,MI,Keweenaw County,47.46,-87.81,94
-49919,STANDARD,Covington,MI,Baraga County,46.51,-88.44,177
-49920,STANDARD,Crystal Falls,MI,Iron County,46.09,-88.32,3580
-49921,STANDARD,Dodgeville,MI,Houghton County,47.09,-88.58,240
-49922,PO BOX,Dollar Bay,MI,Houghton County,47.12,-88.49,1091
-49925,STANDARD,Ewen,MI,Ontonagon County,46.54,-89.3,450
-49927,STANDARD,Gaastra,MI,Iron County,46.05,-88.6,340
-49929,PO BOX,Greenland,MI,Ontonagon County,46.82,-89.07,228
-49930,STANDARD,Hancock,MI,Houghton County,47.13,-88.6,5750
-49931,STANDARD,Houghton,MI,Houghton County,47.11,-88.56,4880
-49934,PO BOX,Hubbell,MI,Houghton County,47.17,-88.43,817
-49935,STANDARD,Iron River,MI,Iron County,46.09,-88.63,5080
-49938,STANDARD,Ironwood,MI,Gogebic County,46.45,-90.15,5940
-49945,STANDARD,Lake Linden,MI,Houghton County,47.08,-88.4,2360
-49946,STANDARD,Lanse,MI,Baraga County,46.73,-88.33,3300
-49947,STANDARD,Marenisco,MI,Gogebic County,46.38,-89.68,500
-49948,STANDARD,Mass City,MI,Ontonagon County,46.77,-89.08,410
-49950,STANDARD,Mohawk,MI,Keweenaw County,47.3,-88.37,990
-49952,STANDARD,Nisula,MI,Houghton County,46.76,-88.79,151
-49953,STANDARD,Ontonagon,MI,Ontonagon County,46.86,-89.31,2050
-49955,PO BOX,Painesdale,MI,Houghton County,47.03,-88.68,422
-49958,STANDARD,Pelkie,MI,Houghton County,46.82,-88.63,1010
-49959,PO BOX,Ramsay,MI,Gogebic County,46.47,-90,385
-49960,PO BOX,Rockland,MI,Ontonagon County,46.73,-89.17,189
-49961,PO BOX,Sidnaw,MI,Houghton County,46.5,-88.7,86
-49962,STANDARD,Skanee,MI,Baraga County,46.89,-88.18,200
-49963,PO BOX,South Range,MI,Houghton County,47.07,-88.64,785
-49964,PO BOX,Stambaugh,MI,Iron County,46.07,-88.63,210
-49965,STANDARD,Toivola,MI,Houghton County,47,-88.75,390
-49967,STANDARD,Trout Creek,MI,Ontonagon County,46.48,-89.02,370
-49968,STANDARD,Wakefield,MI,Gogebic County,46.47,-89.93,1600
-49969,STANDARD,Watersmeet,MI,Gogebic County,46.27,-89.18,1030
-49970,STANDARD,Watton,MI,Baraga County,46.53,-88.6,180
-49971,PO BOX,White Pine,MI,Ontonagon County,46.75,-89.58,456
+ZIP,type,City,state,county,Latitude,Longitude,Population,City_ZIP
+48001,STANDARD,Algonac,MI,St. Clair County,42.61,-82.53,10800,"City: Algonac, ZIP: 48001"
+48002,STANDARD,Allenton,MI,St. Clair County,42.92,-82.88,2980,"City: Allenton, ZIP: 48002"
+48003,STANDARD,Almont,MI,Lapeer County,42.92,-83.04,6340,"City: Almont, ZIP: 48003"
+48004,PO BOX,Anchorville,MI,St. Clair County,42.69,-82.69,142,"City: Anchorville, ZIP: 48004"
+48005,STANDARD,Armada,MI,Macomb County,42.84,-82.88,5050,"City: Armada, ZIP: 48005"
+48006,STANDARD,Avoca,MI,St. Clair County,43.05,-82.67,3700,"City: Avoca, ZIP: 48006"
+48009,STANDARD,Birmingham,MI,Oakland County,42.54,-83.21,19840,"City: Birmingham, ZIP: 48009"
+48012,PO BOX,Birmingham,MI,Oakland County,42.54,-83.21,285,"City: Birmingham, ZIP: 48012"
+48014,STANDARD,Capac,MI,St. Clair County,43.01,-82.92,4050,"City: Capac, ZIP: 48014"
+48015,STANDARD,Center Line,MI,Macomb County,42.48,-83.02,6860,"City: Center Line, ZIP: 48015"
+48017,STANDARD,Clawson,MI,Oakland County,42.53,-83.15,10090,"City: Clawson, ZIP: 48017"
+48021,STANDARD,Eastpointe,MI,Macomb County,42.46,-82.94,29230,"City: Eastpointe, ZIP: 48021"
+48022,STANDARD,Emmett,MI,St. Clair County,42.99,-82.76,2460,"City: Emmett, ZIP: 48022"
+48023,STANDARD,Fair Haven,MI,St. Clair County,42.7,-82.66,4490,"City: Fair Haven, ZIP: 48023"
+48025,STANDARD,Franklin,MI,Oakland County,42.51,-83.3,14600,"City: Franklin, ZIP: 48025"
+48026,STANDARD,Fraser,MI,Macomb County,42.53,-82.94,13150,"City: Fraser, ZIP: 48026"
+48027,STANDARD,Goodells,MI,St. Clair County,42.93,-82.66,2970,"City: Goodells, ZIP: 48027"
+48028,STANDARD,Harsens Island,MI,St. Clair County,42.59,-82.57,940,"City: Harsens Island, ZIP: 48028"
+48030,STANDARD,Hazel Park,MI,Oakland County,42.46,-83.09,11970,"City: Hazel Park, ZIP: 48030"
+48032,STANDARD,Jeddo,MI,St. Clair County,43.15,-82.58,2040,"City: Jeddo, ZIP: 48032"
+48033,STANDARD,Southfield,MI,Oakland County,42.46,-83.28,13690,"City: Southfield, ZIP: 48033"
+48034,STANDARD,Southfield,MI,Oakland County,42.5,-83.29,10520,"City: Southfield, ZIP: 48034"
+48035,STANDARD,Clinton Township,MI,Macomb County,42.56,-82.91,29570,"City: Clinton Township, ZIP: 48035"
+48036,STANDARD,Clinton Township,MI,Macomb County,42.58,-82.91,19670,"City: Clinton Township, ZIP: 48036"
+48037,PO BOX,Southfield,MI,Oakland County,42.47,-83.25,830,"City: Southfield, ZIP: 48037"
+48038,STANDARD,Clinton Township,MI,Macomb County,42.61,-82.94,40180,"City: Clinton Township, ZIP: 48038"
+48039,STANDARD,Marine City,MI,St. Clair County,42.71,-82.49,6720,"City: Marine City, ZIP: 48039"
+48040,STANDARD,Marysville,MI,St. Clair County,42.91,-82.47,9390,"City: Marysville, ZIP: 48040"
+48041,STANDARD,Memphis,MI,St. Clair County,42.89,-82.76,4010,"City: Memphis, ZIP: 48041"
+48042,STANDARD,Macomb,MI,Macomb County,42.68,-82.91,33790,"City: Macomb, ZIP: 48042"
+48043,STANDARD,Mount Clemens,MI,Macomb County,42.59,-82.88,12020,"City: Mount Clemens, ZIP: 48043"
+48044,STANDARD,Macomb,MI,Macomb County,42.66,-82.91,56660,"City: Macomb, ZIP: 48044"
+48045,STANDARD,Harrison Township,MI,Macomb County,42.58,-82.81,21920,"City: Harrison Township, ZIP: 48045"
+48046,PO BOX,Mount Clemens,MI,Macomb County,42.59,-82.88,448,"City: Mount Clemens, ZIP: 48046"
+48047,STANDARD,New Baltimore,MI,Macomb County,42.68,-82.73,37610,"City: New Baltimore, ZIP: 48047"
+48048,STANDARD,New Haven,MI,Macomb County,42.73,-82.79,8820,"City: New Haven, ZIP: 48048"
+48049,STANDARD,North Street,MI,St. Clair County,43.03,-82.56,5160,"City: North Street, ZIP: 48049"
+48050,STANDARD,New Haven,MI,Macomb County,42.79,-82.8,1550,"City: New Haven, ZIP: 48050"
+48051,STANDARD,New Baltimore,MI,Macomb County,42.69,-82.82,16830,"City: New Baltimore, ZIP: 48051"
+48054,STANDARD,East China,MI,St. Clair County,42.77,-82.53,6780,"City: East China, ZIP: 48054"
+48059,STANDARD,Fort Gratiot,MI,St. Clair County,43.07,-82.49,13980,"City: Fort Gratiot, ZIP: 48059"
+48060,STANDARD,Port Huron,MI,St. Clair County,42.97,-82.42,32430,"City: Port Huron, ZIP: 48060"
+48061,PO BOX,Port Huron,MI,St. Clair County,42.97,-82.42,414,"City: Port Huron, ZIP: 48061"
+48062,STANDARD,Richmond,MI,Macomb County,42.8,-82.75,8870,"City: Richmond, ZIP: 48062"
+48063,STANDARD,Columbus,MI,St. Clair County,42.85,-82.68,4090,"City: Columbus, ZIP: 48063"
+48064,STANDARD,Casco,MI,St. Clair County,42.76,-82.67,3780,"City: Casco, ZIP: 48064"
+48065,STANDARD,Romeo,MI,Macomb County,42.85,-83.04,10890,"City: Romeo, ZIP: 48065"
+48066,STANDARD,Roseville,MI,Macomb County,42.5,-82.93,40670,"City: Roseville, ZIP: 48066"
+48067,STANDARD,Royal Oak,MI,Oakland County,42.5,-83.15,20870,"City: Royal Oak, ZIP: 48067"
+48068,PO BOX,Royal Oak,MI,Oakland County,42.5,-83.15,404,"City: Royal Oak, ZIP: 48068"
+48069,STANDARD,Pleasant Ridge,MI,Oakland County,42.47,-83.14,2540,"City: Pleasant Ridge, ZIP: 48069"
+48070,STANDARD,Huntington Woods,MI,Oakland County,42.48,-83.16,6480,"City: Huntington Woods, ZIP: 48070"
+48071,STANDARD,Madison Heights,MI,Oakland County,42.5,-83.1,23910,"City: Madison Heights, ZIP: 48071"
+48072,STANDARD,Berkley,MI,Oakland County,42.49,-83.18,14290,"City: Berkley, ZIP: 48072"
+48073,STANDARD,Royal Oak,MI,Oakland County,42.52,-83.16,29850,"City: Royal Oak, ZIP: 48073"
+48074,STANDARD,Smiths Creek,MI,St. Clair County,42.91,-82.6,8940,"City: Smiths Creek, ZIP: 48074"
+48075,STANDARD,Southfield,MI,Oakland County,42.47,-83.25,18300,"City: Southfield, ZIP: 48075"
+48076,STANDARD,Southfield,MI,Oakland County,42.5,-83.23,22860,"City: Southfield, ZIP: 48076"
+48079,STANDARD,Saint Clair,MI,St. Clair County,42.82,-82.49,12190,"City: Saint Clair, ZIP: 48079"
+48080,STANDARD,Saint Clair Shores,MI,Macomb County,42.46,-82.9,20120,"City: Saint Clair Shores, ZIP: 48080"
+48081,STANDARD,Saint Clair Shores,MI,Macomb County,42.49,-82.89,18660,"City: Saint Clair Shores, ZIP: 48081"
+48082,STANDARD,Saint Clair Shores,MI,Macomb County,42.53,-82.89,14840,"City: Saint Clair Shores, ZIP: 48082"
+48083,STANDARD,Troy,MI,Oakland County,42.56,-83.12,21620,"City: Troy, ZIP: 48083"
+48084,STANDARD,Troy,MI,Oakland County,42.56,-83.18,14820,"City: Troy, ZIP: 48084"
+48085,STANDARD,Troy,MI,Oakland County,42.58,-83.14,25820,"City: Troy, ZIP: 48085"
+48086,PO BOX,Southfield,MI,Oakland County,42.47,-83.25,117,"City: Southfield, ZIP: 48086"
+48088,STANDARD,Warren,MI,Macomb County,42.52,-82.98,21250,"City: Warren, ZIP: 48088"
+48089,STANDARD,Warren,MI,Macomb County,42.47,-82.99,25980,"City: Warren, ZIP: 48089"
+48090,PO BOX,Warren,MI,Macomb County,42.49,-83.02,1340,"City: Warren, ZIP: 48090"
+48091,STANDARD,Warren,MI,Macomb County,42.47,-83.06,26880,"City: Warren, ZIP: 48091"
+48092,STANDARD,Warren,MI,Macomb County,42.51,-83.06,25120,"City: Warren, ZIP: 48092"
+48093,STANDARD,Warren,MI,Macomb County,42.52,-83.02,22170,"City: Warren, ZIP: 48093"
+48094,STANDARD,Washington,MI,Macomb County,42.72,-83.03,20120,"City: Washington, ZIP: 48094"
+48095,STANDARD,Washington,MI,Macomb County,42.78,-83.05,5630,"City: Washington, ZIP: 48095"
+48096,STANDARD,Ray,MI,Macomb County,42.78,-82.93,3760,"City: Ray, ZIP: 48096"
+48097,STANDARD,Yale,MI,St. Clair County,43.12,-82.79,4640,"City: Yale, ZIP: 48097"
+48098,STANDARD,Troy,MI,Oakland County,42.6,-83.18,20360,"City: Troy, ZIP: 48098"
+48099,PO BOX,Troy,MI,Oakland County,42.58,-83.14,524,"City: Troy, ZIP: 48099"
+48101,STANDARD,Allen Park,MI,Wayne County,42.25,-83.21,26900,"City: Allen Park, ZIP: 48101"
+48103,STANDARD,Ann Arbor,MI,Washtenaw County,42.26,-83.85,49800,"City: Ann Arbor, ZIP: 48103"
+48104,STANDARD,Ann Arbor,MI,Washtenaw County,42.27,-83.73,20030,"City: Ann Arbor, ZIP: 48104"
+48105,STANDARD,Ann Arbor,MI,Washtenaw County,42.33,-83.7,26840,"City: Ann Arbor, ZIP: 48105"
+48106,PO BOX,Ann Arbor,MI,Washtenaw County,42.27,-83.73,639,"City: Ann Arbor, ZIP: 48106"
+48107,PO BOX,Ann Arbor,MI,Washtenaw County,42.27,-83.73,331,"City: Ann Arbor, ZIP: 48107"
+48108,STANDARD,Ann Arbor,MI,Washtenaw County,42.22,-83.73,23730,"City: Ann Arbor, ZIP: 48108"
+48109,STANDARD,Ann Arbor,MI,Washtenaw County,42.29,-83.71,130,"City: Ann Arbor, ZIP: 48109"
+48110,PO BOX,Azalia,MI,Monroe County,42.01,-83.66,108,"City: Azalia, ZIP: 48110"
+48111,STANDARD,Belleville,MI,Wayne County,42.2,-83.48,38570,"City: Belleville, ZIP: 48111"
+48112,PO BOX,Belleville,MI,Wayne County,42.2,-83.48,704,"City: Belleville, ZIP: 48112"
+48113,PO BOX,Ann Arbor,MI,Washtenaw County,42.27,-83.73,278,"City: Ann Arbor, ZIP: 48113"
+48114,STANDARD,Brighton,MI,Livingston County,42.57,-83.75,20890,"City: Brighton, ZIP: 48114"
+48115,PO BOX,Bridgewater,MI,Washtenaw County,42.16,-83.89,32,"City: Bridgewater, ZIP: 48115"
+48116,STANDARD,Brighton,MI,Livingston County,42.53,-83.78,26640,"City: Brighton, ZIP: 48116"
+48117,STANDARD,Carleton,MI,Monroe County,42.05,-83.38,9760,"City: Carleton, ZIP: 48117"
+48118,STANDARD,Chelsea,MI,Washtenaw County,42.31,-84.02,13040,"City: Chelsea, ZIP: 48118"
+48120,STANDARD,Dearborn,MI,Wayne County,42.31,-83.21,7520,"City: Dearborn, ZIP: 48120"
+48121,PO BOX,Dearborn,MI,Wayne County,42.31,-83.21,1824,"City: Dearborn, ZIP: 48121"
+48122,STANDARD,Melvindale,MI,Wayne County,42.28,-83.17,11320,"City: Melvindale, ZIP: 48122"
+48123,PO BOX,Dearborn,MI,Wayne County,42.31,-83.21,257,"City: Dearborn, ZIP: 48123"
+48124,STANDARD,Dearborn,MI,Wayne County,42.3,-83.25,31590,"City: Dearborn, ZIP: 48124"
+48125,STANDARD,Dearborn Heights,MI,Wayne County,42.28,-83.26,19000,"City: Dearborn Heights, ZIP: 48125"
+48126,STANDARD,Dearborn,MI,Wayne County,42.33,-83.18,50010,"City: Dearborn, ZIP: 48126"
+48127,STANDARD,Dearborn Heights,MI,Wayne County,42.34,-83.28,38140,"City: Dearborn Heights, ZIP: 48127"
+48128,STANDARD,Dearborn,MI,Wayne County,42.32,-83.26,11050,"City: Dearborn, ZIP: 48128"
+48130,STANDARD,Dexter,MI,Washtenaw County,42.33,-83.87,16150,"City: Dexter, ZIP: 48130"
+48131,STANDARD,Dundee,MI,Monroe County,41.95,-83.66,7650,"City: Dundee, ZIP: 48131"
+48133,STANDARD,Erie,MI,Monroe County,41.79,-83.49,4750,"City: Erie, ZIP: 48133"
+48134,STANDARD,Flat Rock,MI,Wayne County,42.1,-83.27,22030,"City: Flat Rock, ZIP: 48134"
+48135,STANDARD,Garden City,MI,Wayne County,42.32,-83.34,24690,"City: Garden City, ZIP: 48135"
+48136,PO BOX,Garden City,MI,Wayne County,42.32,-83.34,347,"City: Garden City, ZIP: 48136"
+48137,STANDARD,Gregory,MI,Livingston County,42.45,-84.08,4600,"City: Gregory, ZIP: 48137"
+48138,STANDARD,Grosse Ile,MI,Wayne County,42.13,-83.15,10520,"City: Grosse Ile, ZIP: 48138"
+48139,PO BOX,Hamburg,MI,Livingston County,42.45,-83.81,673,"City: Hamburg, ZIP: 48139"
+48140,STANDARD,Ida,MI,Monroe County,41.91,-83.57,3020,"City: Ida, ZIP: 48140"
+48141,STANDARD,Inkster,MI,Wayne County,42.29,-83.31,19720,"City: Inkster, ZIP: 48141"
+48143,PO BOX,Lakeland,MI,Livingston County,42.46,-83.85,812,"City: Lakeland, ZIP: 48143"
+48144,STANDARD,Lambertville,MI,Monroe County,41.74,-83.62,9870,"City: Lambertville, ZIP: 48144"
+48145,STANDARD,La Salle,MI,Monroe County,41.86,-83.45,3270,"City: La Salle, ZIP: 48145"
+48146,STANDARD,Lincoln Park,MI,Wayne County,42.24,-83.18,35610,"City: Lincoln Park, ZIP: 48146"
+48150,STANDARD,Livonia,MI,Wayne County,42.37,-83.38,25190,"City: Livonia, ZIP: 48150"
+48151,PO BOX,Livonia,MI,Wayne County,42.39,-83.37,284,"City: Livonia, ZIP: 48151"
+48152,STANDARD,Livonia,MI,Wayne County,42.42,-83.37,29390,"City: Livonia, ZIP: 48152"
+48153,PO BOX,Livonia,MI,Wayne County,42.39,-83.37,231,"City: Livonia, ZIP: 48153"
+48154,STANDARD,Livonia,MI,Wayne County,42.39,-83.37,36180,"City: Livonia, ZIP: 48154"
+48157,STANDARD,Luna Pier,MI,Monroe County,41.82,-83.44,1090,"City: Luna Pier, ZIP: 48157"
+48158,STANDARD,Manchester,MI,Washtenaw County,42.14,-84.03,7080,"City: Manchester, ZIP: 48158"
+48159,STANDARD,Maybee,MI,Monroe County,42,-83.51,2370,"City: Maybee, ZIP: 48159"
+48160,STANDARD,Milan,MI,Washtenaw County,42.08,-83.68,11690,"City: Milan, ZIP: 48160"
+48161,STANDARD,Monroe,MI,Monroe County,41.91,-83.38,22600,"City: Monroe, ZIP: 48161"
+48162,STANDARD,Monroe,MI,Monroe County,41.96,-83.43,25230,"City: Monroe, ZIP: 48162"
+48164,STANDARD,New Boston,MI,Wayne County,42.14,-83.36,9400,"City: New Boston, ZIP: 48164"
+48165,STANDARD,New Hudson,MI,Oakland County,42.5,-83.61,8290,"City: New Hudson, ZIP: 48165"
+48166,STANDARD,Newport,MI,Monroe County,42,-83.3,12220,"City: Newport, ZIP: 48166"
+48167,STANDARD,Northville,MI,Oakland County,42.43,-83.48,23740,"City: Northville, ZIP: 48167"
+48168,STANDARD,Northville,MI,Wayne County,42.4,-83.6,24230,"City: Northville, ZIP: 48168"
+48169,STANDARD,Pinckney,MI,Livingston County,42.45,-83.94,19240,"City: Pinckney, ZIP: 48169"
+48170,STANDARD,Plymouth,MI,Wayne County,42.37,-83.46,39220,"City: Plymouth, ZIP: 48170"
+48173,STANDARD,Rockwood,MI,Wayne County,42.07,-83.24,12560,"City: Rockwood, ZIP: 48173"
+48174,STANDARD,Romulus,MI,Wayne County,42.23,-83.39,29060,"City: Romulus, ZIP: 48174"
+48175,PO BOX,Salem,MI,Washtenaw County,42.4,-83.58,166,"City: Salem, ZIP: 48175"
+48176,STANDARD,Saline,MI,Washtenaw County,42.17,-83.78,22390,"City: Saline, ZIP: 48176"
+48177,PO BOX,Samaria,MI,Monroe County,41.8,-83.58,285,"City: Samaria, ZIP: 48177"
+48178,STANDARD,South Lyon,MI,Oakland County,42.46,-83.65,36540,"City: South Lyon, ZIP: 48178"
+48179,STANDARD,South Rockwood,MI,Monroe County,42.06,-83.26,2930,"City: South Rockwood, ZIP: 48179"
+48180,STANDARD,Taylor,MI,Wayne County,42.22,-83.26,54260,"City: Taylor, ZIP: 48180"
+48182,STANDARD,Temperance,MI,Monroe County,41.76,-83.57,20190,"City: Temperance, ZIP: 48182"
+48183,STANDARD,Trenton,MI,Wayne County,42.13,-83.22,39380,"City: Trenton, ZIP: 48183"
+48184,STANDARD,Wayne,MI,Wayne County,42.27,-83.38,14780,"City: Wayne, ZIP: 48184"
+48185,STANDARD,Westland,MI,Wayne County,42.33,-83.38,42470,"City: Westland, ZIP: 48185"
+48186,STANDARD,Westland,MI,Wayne County,42.31,-83.38,30130,"City: Westland, ZIP: 48186"
+48187,STANDARD,Canton,MI,Wayne County,42.33,-83.48,49890,"City: Canton, ZIP: 48187"
+48188,STANDARD,Canton,MI,Wayne County,42.3,-83.48,43980,"City: Canton, ZIP: 48188"
+48189,STANDARD,Whitmore Lake,MI,Washtenaw County,42.42,-83.74,12220,"City: Whitmore Lake, ZIP: 48189"
+48190,PO BOX,Whittaker,MI,Washtenaw County,42.13,-83.59,777,"City: Whittaker, ZIP: 48190"
+48191,STANDARD,Willis,MI,Washtenaw County,42.12,-83.57,3410,"City: Willis, ZIP: 48191"
+48192,STANDARD,Wyandotte,MI,Wayne County,42.21,-83.15,22090,"City: Wyandotte, ZIP: 48192"
+48193,STANDARD,Riverview,MI,Wayne County,42.16,-83.21,14070,"City: Riverview, ZIP: 48193"
+48195,STANDARD,Southgate,MI,Wayne County,42.2,-83.2,26570,"City: Southgate, ZIP: 48195"
+48197,STANDARD,Ypsilanti,MI,Washtenaw County,42.24,-83.62,52630,"City: Ypsilanti, ZIP: 48197"
+48198,STANDARD,Ypsilanti,MI,Washtenaw County,42.28,-83.59,33660,"City: Ypsilanti, ZIP: 48198"
+48201,STANDARD,Detroit,MI,Wayne County,42.35,-83.06,6570,"City: Detroit, ZIP: 48201"
+48202,STANDARD,Detroit,MI,Wayne County,42.37,-83.08,8270,"City: Detroit, ZIP: 48202"
+48203,STANDARD,Highland Park,MI,Wayne County,42.4,-83.09,13740,"City: Highland Park, ZIP: 48203"
+48204,STANDARD,Detroit,MI,Wayne County,42.37,-83.14,14560,"City: Detroit, ZIP: 48204"
+48205,STANDARD,Detroit,MI,Wayne County,42.43,-82.98,24880,"City: Detroit, ZIP: 48205"
+48206,STANDARD,Detroit,MI,Wayne County,42.38,-83.1,9970,"City: Detroit, ZIP: 48206"
+48207,STANDARD,Detroit,MI,Wayne County,42.35,-83.02,11670,"City: Detroit, ZIP: 48207"
+48208,STANDARD,Detroit,MI,Wayne County,42.35,-83.09,4690,"City: Detroit, ZIP: 48208"
+48209,STANDARD,Detroit,MI,Wayne County,42.31,-83.12,19620,"City: Detroit, ZIP: 48209"
+48210,STANDARD,Detroit,MI,Wayne County,42.34,-83.13,19900,"City: Detroit, ZIP: 48210"
+48211,STANDARD,Detroit,MI,Wayne County,42.38,-83.05,3980,"City: Detroit, ZIP: 48211"
+48212,STANDARD,Hamtramck,MI,Wayne County,42.39,-83.05,34760,"City: Hamtramck, ZIP: 48212"
+48213,STANDARD,Detroit,MI,Wayne County,42.4,-83,12670,"City: Detroit, ZIP: 48213"
+48214,STANDARD,Detroit,MI,Wayne County,42.37,-82.99,10660,"City: Detroit, ZIP: 48214"
+48215,STANDARD,Detroit,MI,Wayne County,42.38,-82.95,6530,"City: Detroit, ZIP: 48215"
+48216,STANDARD,Detroit,MI,Wayne County,42.33,-83.08,3130,"City: Detroit, ZIP: 48216"
+48217,STANDARD,Detroit,MI,Wayne County,42.28,-83.16,4360,"City: Detroit, ZIP: 48217"
+48218,STANDARD,River Rouge,MI,Wayne County,42.27,-83.13,5670,"City: River Rouge, ZIP: 48218"
+48219,STANDARD,Detroit,MI,Wayne County,42.43,-83.25,32680,"City: Detroit, ZIP: 48219"
+48220,STANDARD,Ferndale,MI,Oakland County,42.45,-83.13,17920,"City: Ferndale, ZIP: 48220"
+48221,STANDARD,Detroit,MI,Wayne County,42.43,-83.15,26960,"City: Detroit, ZIP: 48221"
+48222,UNIQUE,Detroit,MI,Wayne County,42.38,-83.1,24,"City: Detroit, ZIP: 48222"
+48223,STANDARD,Detroit,MI,Wayne County,42.39,-83.25,16910,"City: Detroit, ZIP: 48223"
+48224,STANDARD,Detroit,MI,Wayne County,42.41,-82.94,29180,"City: Detroit, ZIP: 48224"
+48225,STANDARD,Harper Woods,MI,Wayne County,42.43,-82.92,12730,"City: Harper Woods, ZIP: 48225"
+48226,STANDARD,Detroit,MI,Wayne County,42.33,-83.05,2960,"City: Detroit, ZIP: 48226"
+48227,STANDARD,Detroit,MI,Wayne County,42.39,-83.19,28010,"City: Detroit, ZIP: 48227"
+48228,STANDARD,Detroit,MI,Wayne County,42.36,-83.22,39520,"City: Detroit, ZIP: 48228"
+48229,STANDARD,Ecorse,MI,Wayne County,42.25,-83.14,6780,"City: Ecorse, ZIP: 48229"
+48230,STANDARD,Grosse Pointe,MI,Wayne County,42.38,-82.91,16160,"City: Grosse Pointe, ZIP: 48230"
+48231,PO BOX,Detroit,MI,Wayne County,42.38,-83.1,351,"City: Detroit, ZIP: 48231"
+48232,PO BOX,Detroit,MI,Wayne County,42.38,-83.1,377,"City: Detroit, ZIP: 48232"
+48234,STANDARD,Detroit,MI,Wayne County,42.43,-83.04,22190,"City: Detroit, ZIP: 48234"
+48235,STANDARD,Detroit,MI,Wayne County,42.43,-83.19,32410,"City: Detroit, ZIP: 48235"
+48236,STANDARD,Grosse Pointe,MI,Wayne County,42.43,-82.89,29680,"City: Grosse Pointe, ZIP: 48236"
+48237,STANDARD,Oak Park,MI,Oakland County,42.46,-83.18,25330,"City: Oak Park, ZIP: 48237"
+48238,STANDARD,Detroit,MI,Wayne County,42.4,-83.14,16950,"City: Detroit, ZIP: 48238"
+48239,STANDARD,Redford,MI,Wayne County,42.39,-83.29,31330,"City: Redford, ZIP: 48239"
+48240,STANDARD,Redford,MI,Wayne County,42.42,-83.3,15160,"City: Redford, ZIP: 48240"
+48242,STANDARD,Detroit,MI,Wayne County,42.22,-83.35,116,"City: Detroit, ZIP: 48242"
+48243,STANDARD,Detroit,MI,Wayne County,42.33,-83.04,198,"City: Detroit, ZIP: 48243"
+48244,PO BOX,Detroit,MI,Wayne County,42.38,-83.1,447,"City: Detroit, ZIP: 48244"
+48266,UNIQUE,Detroit,MI,Wayne County,42.38,-83.1,22,"City: Detroit, ZIP: 48266"
+48275,UNIQUE,Detroit,MI,Wayne County,42.38,-83.1,294,"City: Detroit, ZIP: 48275"
+48277,UNIQUE,Detroit,MI,Wayne County,42.38,-83.1,32,"City: Detroit, ZIP: 48277"
+48288,UNIQUE,Detroit,MI,Wayne County,42.38,-83.1,19,"City: Detroit, ZIP: 48288"
+48301,STANDARD,Bloomfield Hills,MI,Oakland County,42.54,-83.28,14250,"City: Bloomfield Hills, ZIP: 48301"
+48302,STANDARD,Bloomfield Hills,MI,Oakland County,42.59,-83.29,16340,"City: Bloomfield Hills, ZIP: 48302"
+48303,PO BOX,Bloomfield Hills,MI,Oakland County,42.57,-83.24,345,"City: Bloomfield Hills, ZIP: 48303"
+48304,STANDARD,Bloomfield Hills,MI,Oakland County,42.57,-83.24,16190,"City: Bloomfield Hills, ZIP: 48304"
+48306,STANDARD,Rochester,MI,Oakland County,42.72,-83.15,28190,"City: Rochester, ZIP: 48306"
+48307,STANDARD,Rochester,MI,Oakland County,42.68,-83.12,41010,"City: Rochester, ZIP: 48307"
+48308,PO BOX,Rochester,MI,Oakland County,42.68,-83.12,463,"City: Rochester, ZIP: 48308"
+48309,STANDARD,Rochester,MI,Oakland County,42.66,-83.18,27460,"City: Rochester, ZIP: 48309"
+48310,STANDARD,Sterling Heights,MI,Macomb County,42.56,-83.07,39940,"City: Sterling Heights, ZIP: 48310"
+48311,PO BOX,Sterling Heights,MI,Macomb County,42.58,-83.03,343,"City: Sterling Heights, ZIP: 48311"
+48312,STANDARD,Sterling Heights,MI,Macomb County,42.58,-83.03,32280,"City: Sterling Heights, ZIP: 48312"
+48313,STANDARD,Sterling Heights,MI,Macomb County,42.6,-83,31240,"City: Sterling Heights, ZIP: 48313"
+48314,STANDARD,Sterling Heights,MI,Macomb County,42.61,-83.05,19870,"City: Sterling Heights, ZIP: 48314"
+48315,STANDARD,Utica,MI,Macomb County,42.67,-83,27010,"City: Utica, ZIP: 48315"
+48316,STANDARD,Utica,MI,Macomb County,42.69,-83.06,27500,"City: Utica, ZIP: 48316"
+48317,STANDARD,Utica,MI,Macomb County,42.64,-83.05,24940,"City: Utica, ZIP: 48317"
+48318,PO BOX,Utica,MI,Macomb County,42.62,-83.02,341,"City: Utica, ZIP: 48318"
+48320,STANDARD,Keego Harbor,MI,Oakland County,42.61,-83.34,3800,"City: Keego Harbor, ZIP: 48320"
+48321,PO BOX,Auburn Hills,MI,Oakland County,42.67,-83.24,503,"City: Auburn Hills, ZIP: 48321"
+48322,STANDARD,West Bloomfield,MI,Oakland County,42.54,-83.38,29100,"City: West Bloomfield, ZIP: 48322"
+48323,STANDARD,West Bloomfield,MI,Oakland County,42.56,-83.38,17390,"City: West Bloomfield, ZIP: 48323"
+48324,STANDARD,West Bloomfield,MI,Oakland County,42.59,-83.39,16000,"City: West Bloomfield, ZIP: 48324"
+48325,PO BOX,West Bloomfield,MI,Oakland County,42.56,-83.38,368,"City: West Bloomfield, ZIP: 48325"
+48326,STANDARD,Auburn Hills,MI,Oakland County,42.67,-83.24,19350,"City: Auburn Hills, ZIP: 48326"
+48327,STANDARD,Waterford,MI,Oakland County,42.64,-83.41,19320,"City: Waterford, ZIP: 48327"
+48328,STANDARD,Waterford,MI,Oakland County,42.66,-83.38,20640,"City: Waterford, ZIP: 48328"
+48329,STANDARD,Waterford,MI,Oakland County,42.69,-83.39,22980,"City: Waterford, ZIP: 48329"
+48330,PO BOX,Drayton Plains,MI,Oakland County,42.68,-83.37,202,"City: Drayton Plains, ZIP: 48330"
+48331,STANDARD,Farmington,MI,Oakland County,42.5,-83.41,21860,"City: Farmington, ZIP: 48331"
+48332,PO BOX,Farmington,MI,Oakland County,42.46,-83.37,349,"City: Farmington, ZIP: 48332"
+48333,PO BOX,Farmington,MI,Oakland County,42.46,-83.37,316,"City: Farmington, ZIP: 48333"
+48334,STANDARD,Farmington,MI,Oakland County,42.5,-83.35,16080,"City: Farmington, ZIP: 48334"
+48335,STANDARD,Farmington,MI,Oakland County,42.46,-83.41,21350,"City: Farmington, ZIP: 48335"
+48336,STANDARD,Farmington,MI,Oakland County,42.46,-83.37,23180,"City: Farmington, ZIP: 48336"
+48340,STANDARD,Pontiac,MI,Oakland County,42.67,-83.29,19440,"City: Pontiac, ZIP: 48340"
+48341,STANDARD,Pontiac,MI,Oakland County,42.63,-83.3,11960,"City: Pontiac, ZIP: 48341"
+48342,STANDARD,Pontiac,MI,Oakland County,42.64,-83.28,13580,"City: Pontiac, ZIP: 48342"
+48343,PO BOX,Pontiac,MI,Oakland County,42.64,-83.28,899,"City: Pontiac, ZIP: 48343"
+48346,STANDARD,Clarkston,MI,Oakland County,42.73,-83.42,20910,"City: Clarkston, ZIP: 48346"
+48347,PO BOX,Clarkston,MI,Oakland County,42.73,-83.42,565,"City: Clarkston, ZIP: 48347"
+48348,STANDARD,Clarkston,MI,Oakland County,42.77,-83.4,25150,"City: Clarkston, ZIP: 48348"
+48350,STANDARD,Davisburg,MI,Oakland County,42.75,-83.54,7260,"City: Davisburg, ZIP: 48350"
+48353,STANDARD,Hartland,MI,Livingston County,42.65,-83.75,6110,"City: Hartland, ZIP: 48353"
+48356,STANDARD,Highland,MI,Oakland County,42.65,-83.59,7950,"City: Highland, ZIP: 48356"
+48357,STANDARD,Highland,MI,Oakland County,42.66,-83.65,7880,"City: Highland, ZIP: 48357"
+48359,STANDARD,Lake Orion,MI,Oakland County,42.72,-83.28,9540,"City: Lake Orion, ZIP: 48359"
+48360,STANDARD,Lake Orion,MI,Oakland County,42.75,-83.26,12520,"City: Lake Orion, ZIP: 48360"
+48361,PO BOX,Lake Orion,MI,Oakland County,42.78,-83.24,244,"City: Lake Orion, ZIP: 48361"
+48362,STANDARD,Lake Orion,MI,Oakland County,42.78,-83.24,14270,"City: Lake Orion, ZIP: 48362"
+48363,STANDARD,Oakland,MI,Oakland County,42.77,-83.16,7210,"City: Oakland, ZIP: 48363"
+48366,PO BOX,Lakeville,MI,Oakland County,42.81,-83.14,258,"City: Lakeville, ZIP: 48366"
+48367,STANDARD,Leonard,MI,Oakland County,42.86,-83.14,4160,"City: Leonard, ZIP: 48367"
+48370,STANDARD,Oxford,MI,Oakland County,42.84,-83.2,1710,"City: Oxford, ZIP: 48370"
+48371,STANDARD,Oxford,MI,Oakland County,42.82,-83.25,24270,"City: Oxford, ZIP: 48371"
+48374,STANDARD,Novi,MI,Oakland County,42.47,-83.52,17520,"City: Novi, ZIP: 48374"
+48375,STANDARD,Novi,MI,Oakland County,42.47,-83.49,22170,"City: Novi, ZIP: 48375"
+48376,PO BOX,Novi,MI,Oakland County,42.47,-83.49,391,"City: Novi, ZIP: 48376"
+48377,STANDARD,Novi,MI,Oakland County,42.5,-83.47,16600,"City: Novi, ZIP: 48377"
+48380,STANDARD,Milford,MI,Oakland County,42.58,-83.67,7540,"City: Milford, ZIP: 48380"
+48381,STANDARD,Milford,MI,Oakland County,42.58,-83.6,13320,"City: Milford, ZIP: 48381"
+48382,STANDARD,Commerce Township,MI,Oakland County,42.59,-83.5,22850,"City: Commerce Township, ZIP: 48382"
+48383,STANDARD,White Lake,MI,Oakland County,42.66,-83.53,12380,"City: White Lake, ZIP: 48383"
+48386,STANDARD,White Lake,MI,Oakland County,42.65,-83.5,16750,"City: White Lake, ZIP: 48386"
+48387,PO BOX,Union Lake,MI,Oakland County,42.61,-83.44,238,"City: Union Lake, ZIP: 48387"
+48390,STANDARD,Walled Lake,MI,Oakland County,42.53,-83.47,22500,"City: Walled Lake, ZIP: 48390"
+48393,STANDARD,Wixom,MI,Oakland County,42.52,-83.53,15790,"City: Wixom, ZIP: 48393"
+48401,STANDARD,Applegate,MI,Sanilac County,43.35,-82.63,1240,"City: Applegate, ZIP: 48401"
+48410,PO BOX,Argyle,MI,Sanilac County,43.57,-82.94,67,"City: Argyle, ZIP: 48410"
+48411,PO BOX,Atlas,MI,Genesee County,42.93,-83.53,214,"City: Atlas, ZIP: 48411"
+48412,STANDARD,Attica,MI,Lapeer County,43.03,-83.16,5430,"City: Attica, ZIP: 48412"
+48413,STANDARD,Bad Axe,MI,Huron County,43.8,-82.99,6340,"City: Bad Axe, ZIP: 48413"
+48414,STANDARD,Bancroft,MI,Shiawassee County,42.87,-84.06,2180,"City: Bancroft, ZIP: 48414"
+48415,STANDARD,Birch Run,MI,Saginaw County,43.25,-83.79,8560,"City: Birch Run, ZIP: 48415"
+48416,STANDARD,Brown City,MI,Sanilac County,43.21,-82.98,4350,"City: Brown City, ZIP: 48416"
+48417,STANDARD,Burt,MI,Saginaw County,43.23,-83.9,2430,"City: Burt, ZIP: 48417"
+48418,STANDARD,Byron,MI,Shiawassee County,42.82,-83.94,4050,"City: Byron, ZIP: 48418"
+48419,STANDARD,Carsonville,MI,Sanilac County,43.42,-82.67,2180,"City: Carsonville, ZIP: 48419"
+48420,STANDARD,Clio,MI,Genesee County,43.17,-83.73,19540,"City: Clio, ZIP: 48420"
+48421,STANDARD,Columbiaville,MI,Lapeer County,43.15,-83.4,6180,"City: Columbiaville, ZIP: 48421"
+48422,STANDARD,Croswell,MI,Sanilac County,43.27,-82.61,5540,"City: Croswell, ZIP: 48422"
+48423,STANDARD,Davison,MI,Genesee County,43.03,-83.51,31130,"City: Davison, ZIP: 48423"
+48426,STANDARD,Decker,MI,Sanilac County,43.51,-83.06,790,"City: Decker, ZIP: 48426"
+48427,STANDARD,Deckerville,MI,Sanilac County,43.52,-82.74,2290,"City: Deckerville, ZIP: 48427"
+48428,STANDARD,Dryden,MI,Lapeer County,42.94,-83.12,4910,"City: Dryden, ZIP: 48428"
+48429,STANDARD,Durand,MI,Shiawassee County,42.91,-83.98,7630,"City: Durand, ZIP: 48429"
+48430,STANDARD,Fenton,MI,Genesee County,42.8,-83.71,37290,"City: Fenton, ZIP: 48430"
+48432,STANDARD,Filion,MI,Huron County,43.9,-82.96,560,"City: Filion, ZIP: 48432"
+48433,STANDARD,Flushing,MI,Genesee County,43.06,-83.84,24990,"City: Flushing, ZIP: 48433"
+48434,PO BOX,Forestville,MI,Sanilac County,43.66,-82.61,80,"City: Forestville, ZIP: 48434"
+48435,STANDARD,Fostoria,MI,Tuscola County,43.25,-83.37,1940,"City: Fostoria, ZIP: 48435"
+48436,STANDARD,Gaines,MI,Genesee County,42.87,-83.91,3600,"City: Gaines, ZIP: 48436"
+48437,PO BOX,Genesee,MI,Genesee County,43.11,-83.62,775,"City: Genesee, ZIP: 48437"
+48438,STANDARD,Goodrich,MI,Genesee County,42.91,-83.5,6970,"City: Goodrich, ZIP: 48438"
+48439,STANDARD,Grand Blanc,MI,Genesee County,42.92,-83.61,48430,"City: Grand Blanc, ZIP: 48439"
+48440,PO BOX,Hadley,MI,Lapeer County,42.96,-83.41,390,"City: Hadley, ZIP: 48440"
+48441,STANDARD,Harbor Beach,MI,Huron County,43.84,-82.65,3560,"City: Harbor Beach, ZIP: 48441"
+48442,STANDARD,Holly,MI,Oakland County,42.79,-83.62,19770,"City: Holly, ZIP: 48442"
+48444,STANDARD,Imlay City,MI,Lapeer County,43.01,-83.07,8900,"City: Imlay City, ZIP: 48444"
+48445,STANDARD,Kinde,MI,Huron County,43.93,-82.99,1180,"City: Kinde, ZIP: 48445"
+48446,STANDARD,Lapeer,MI,Lapeer County,43.04,-83.32,26840,"City: Lapeer, ZIP: 48446"
+48449,STANDARD,Lennon,MI,Shiawassee County,42.98,-83.93,2570,"City: Lennon, ZIP: 48449"
+48450,STANDARD,Lexington,MI,Sanilac County,43.26,-82.53,4020,"City: Lexington, ZIP: 48450"
+48451,STANDARD,Linden,MI,Genesee County,42.81,-83.78,15220,"City: Linden, ZIP: 48451"
+48453,STANDARD,Marlette,MI,Sanilac County,43.32,-83.08,4280,"City: Marlette, ZIP: 48453"
+48454,STANDARD,Melvin,MI,Sanilac County,43.18,-82.86,1190,"City: Melvin, ZIP: 48454"
+48455,STANDARD,Metamora,MI,Lapeer County,42.94,-83.29,7760,"City: Metamora, ZIP: 48455"
+48456,STANDARD,Minden City,MI,Sanilac County,43.67,-82.77,730,"City: Minden City, ZIP: 48456"
+48457,STANDARD,Montrose,MI,Genesee County,43.17,-83.89,7310,"City: Montrose, ZIP: 48457"
+48458,STANDARD,Mount Morris,MI,Genesee County,43.11,-83.69,15690,"City: Mount Morris, ZIP: 48458"
+48460,STANDARD,New Lothrop,MI,Shiawassee County,43.11,-83.96,2200,"City: New Lothrop, ZIP: 48460"
+48461,STANDARD,North Branch,MI,Lapeer County,43.22,-83.19,7640,"City: North Branch, ZIP: 48461"
+48462,STANDARD,Ortonville,MI,Oakland County,42.85,-83.44,12620,"City: Ortonville, ZIP: 48462"
+48463,STANDARD,Otisville,MI,Genesee County,43.16,-83.52,4030,"City: Otisville, ZIP: 48463"
+48464,STANDARD,Otter Lake,MI,Lapeer County,43.21,-83.46,1880,"City: Otter Lake, ZIP: 48464"
+48465,STANDARD,Palms,MI,Sanilac County,43.62,-82.73,490,"City: Palms, ZIP: 48465"
+48466,STANDARD,Peck,MI,Sanilac County,43.25,-82.81,1380,"City: Peck, ZIP: 48466"
+48467,STANDARD,Port Austin,MI,Huron County,44.04,-82.99,2080,"City: Port Austin, ZIP: 48467"
+48468,STANDARD,Port Hope,MI,Huron County,43.93,-82.71,1140,"City: Port Hope, ZIP: 48468"
+48469,STANDARD,Port Sanilac,MI,Sanilac County,43.43,-82.54,1220,"City: Port Sanilac, ZIP: 48469"
+48470,STANDARD,Ruth,MI,Huron County,43.74,-82.75,730,"City: Ruth, ZIP: 48470"
+48471,STANDARD,Sandusky,MI,Sanilac County,43.42,-82.83,4730,"City: Sandusky, ZIP: 48471"
+48472,STANDARD,Snover,MI,Sanilac County,43.5,-82.97,1620,"City: Snover, ZIP: 48472"
+48473,STANDARD,Swartz Creek,MI,Genesee County,42.96,-83.82,20800,"City: Swartz Creek, ZIP: 48473"
+48475,STANDARD,Ubly,MI,Huron County,43.71,-82.93,2540,"City: Ubly, ZIP: 48475"
+48476,PO BOX,Vernon,MI,Shiawassee County,42.94,-84.03,744,"City: Vernon, ZIP: 48476"
+48480,PO BOX,Grand Blanc,MI,Genesee County,42.92,-83.63,282,"City: Grand Blanc, ZIP: 48480"
+48501,PO BOX,Flint,MI,Genesee County,43.02,-83.69,1137,"City: Flint, ZIP: 48501"
+48502,STANDARD,Flint,MI,Genesee County,43.01,-83.69,650,"City: Flint, ZIP: 48502"
+48503,STANDARD,Flint,MI,Genesee County,43.02,-83.69,15910,"City: Flint, ZIP: 48503"
+48504,STANDARD,Flint,MI,Genesee County,43.05,-83.74,18790,"City: Flint, ZIP: 48504"
+48505,STANDARD,Flint,MI,Genesee County,43.07,-83.69,12530,"City: Flint, ZIP: 48505"
+48506,STANDARD,Flint,MI,Genesee County,43.07,-83.62,19570,"City: Flint, ZIP: 48506"
+48507,STANDARD,Flint,MI,Genesee County,42.97,-83.72,23860,"City: Flint, ZIP: 48507"
+48509,STANDARD,Burton,MI,Genesee County,43.02,-83.61,8710,"City: Burton, ZIP: 48509"
+48519,STANDARD,Burton,MI,Genesee County,42.99,-83.61,6810,"City: Burton, ZIP: 48519"
+48529,STANDARD,Burton,MI,Genesee County,42.97,-83.66,7540,"City: Burton, ZIP: 48529"
+48531,PO BOX,Flint,MI,Genesee County,43.02,-83.69,563,"City: Flint, ZIP: 48531"
+48532,STANDARD,Flint,MI,Genesee County,43.01,-83.79,15980,"City: Flint, ZIP: 48532"
+48601,STANDARD,Saginaw,MI,Saginaw County,43.41,-83.94,26060,"City: Saginaw, ZIP: 48601"
+48602,STANDARD,Saginaw,MI,Saginaw County,43.42,-83.97,22000,"City: Saginaw, ZIP: 48602"
+48603,STANDARD,Saginaw,MI,Saginaw County,43.46,-84.03,24660,"City: Saginaw, ZIP: 48603"
+48604,STANDARD,Saginaw,MI,Saginaw County,43.5,-83.97,8410,"City: Saginaw, ZIP: 48604"
+48605,PO BOX,Saginaw,MI,Saginaw County,43.41,-83.94,429,"City: Saginaw, ZIP: 48605"
+48606,PO BOX,Saginaw,MI,Saginaw County,43.41,-83.94,423,"City: Saginaw, ZIP: 48606"
+48607,STANDARD,Saginaw,MI,Saginaw County,43.43,-83.93,790,"City: Saginaw, ZIP: 48607"
+48608,PO BOX,Saginaw,MI,Saginaw County,43.41,-83.94,273,"City: Saginaw, ZIP: 48608"
+48609,STANDARD,Saginaw,MI,Saginaw County,43.39,-84.09,11320,"City: Saginaw, ZIP: 48609"
+48610,STANDARD,Alger,MI,Ogemaw County,44.11,-84.11,2660,"City: Alger, ZIP: 48610"
+48611,STANDARD,Auburn,MI,Bay County,43.6,-84.07,6210,"City: Auburn, ZIP: 48611"
+48612,STANDARD,Beaverton,MI,Gladwin County,43.88,-84.48,8010,"City: Beaverton, ZIP: 48612"
+48613,STANDARD,Bentley,MI,Bay County,43.94,-84.13,930,"City: Bentley, ZIP: 48613"
+48614,STANDARD,Brant,MI,Saginaw County,43.25,-84.29,1030,"City: Brant, ZIP: 48614"
+48615,STANDARD,Breckenridge,MI,Gratiot County,43.4,-84.47,2660,"City: Breckenridge, ZIP: 48615"
+48616,STANDARD,Chesaning,MI,Saginaw County,43.18,-84.11,6770,"City: Chesaning, ZIP: 48616"
+48617,STANDARD,Clare,MI,Clare County,43.82,-84.76,7870,"City: Clare, ZIP: 48617"
+48618,STANDARD,Coleman,MI,Midland County,43.75,-84.58,4600,"City: Coleman, ZIP: 48618"
+48619,STANDARD,Comins,MI,Oscoda County,44.8,-84.05,390,"City: Comins, ZIP: 48619"
+48620,PO BOX,Edenville,MI,Midland County,43.81,-84.38,103,"City: Edenville, ZIP: 48620"
+48621,STANDARD,Fairview,MI,Oscoda County,44.71,-84.05,1180,"City: Fairview, ZIP: 48621"
+48622,STANDARD,Farwell,MI,Clare County,43.83,-84.86,5690,"City: Farwell, ZIP: 48622"
+48623,STANDARD,Freeland,MI,Saginaw County,43.52,-84.11,13510,"City: Freeland, ZIP: 48623"
+48624,STANDARD,Gladwin,MI,Gladwin County,43.98,-84.49,13500,"City: Gladwin, ZIP: 48624"
+48625,STANDARD,Harrison,MI,Clare County,44.01,-84.8,10480,"City: Harrison, ZIP: 48625"
+48626,STANDARD,Hemlock,MI,Saginaw County,43.41,-84.23,5540,"City: Hemlock, ZIP: 48626"
+48627,PO BOX,Higgins Lake,MI,Roscommon County,44.46,-84.75,510,"City: Higgins Lake, ZIP: 48627"
+48628,STANDARD,Hope,MI,Midland County,43.79,-84.32,1830,"City: Hope, ZIP: 48628"
+48629,STANDARD,Houghton Lake,MI,Roscommon County,44.31,-84.76,6280,"City: Houghton Lake, ZIP: 48629"
+48630,PO BOX,Houghton Lake Heights,MI,Roscommon County,44.33,-84.77,270,"City: Houghton Lake Heights, ZIP: 48630"
+48631,STANDARD,Kawkawlin,MI,Bay County,43.69,-84,4080,"City: Kawkawlin, ZIP: 48631"
+48632,STANDARD,Lake,MI,Clare County,43.85,-85,4290,"City: Lake, ZIP: 48632"
+48633,PO BOX,Lake George,MI,Clare County,43.94,-84.93,356,"City: Lake George, ZIP: 48633"
+48634,STANDARD,Linwood,MI,Bay County,43.73,-83.97,3870,"City: Linwood, ZIP: 48634"
+48635,STANDARD,Lupton,MI,Ogemaw County,44.43,-84.01,1290,"City: Lupton, ZIP: 48635"
+48636,STANDARD,Luzerne,MI,Oscoda County,44.61,-84.26,690,"City: Luzerne, ZIP: 48636"
+48637,STANDARD,Merrill,MI,Saginaw County,43.4,-84.33,3070,"City: Merrill, ZIP: 48637"
+48638,STANDARD,Saginaw,MI,Saginaw County,43.41,-84.02,11330,"City: Saginaw, ZIP: 48638"
+48640,STANDARD,Midland,MI,Midland County,43.62,-84.22,28600,"City: Midland, ZIP: 48640"
+48641,PO BOX,Midland,MI,Midland County,43.62,-84.22,705,"City: Midland, ZIP: 48641"
+48642,STANDARD,Midland,MI,Midland County,43.71,-84.24,31140,"City: Midland, ZIP: 48642"
+48647,STANDARD,Mio,MI,Oscoda County,44.66,-84.14,3650,"City: Mio, ZIP: 48647"
+48649,STANDARD,Oakley,MI,Saginaw County,43.14,-84.16,1500,"City: Oakley, ZIP: 48649"
+48650,STANDARD,Pinconning,MI,Bay County,43.85,-83.96,6220,"City: Pinconning, ZIP: 48650"
+48651,STANDARD,Prudenville,MI,Roscommon County,44.3,-84.66,3910,"City: Prudenville, ZIP: 48651"
+48652,STANDARD,Rhodes,MI,Gladwin County,43.9,-84.18,1490,"City: Rhodes, ZIP: 48652"
+48653,STANDARD,Roscommon,MI,Roscommon County,44.49,-84.58,8460,"City: Roscommon, ZIP: 48653"
+48654,STANDARD,Rose City,MI,Ogemaw County,44.42,-84.11,2040,"City: Rose City, ZIP: 48654"
+48655,STANDARD,Saint Charles,MI,Saginaw County,43.29,-84.14,5480,"City: Saint Charles, ZIP: 48655"
+48656,STANDARD,Saint Helen,MI,Roscommon County,44.36,-84.41,3090,"City: Saint Helen, ZIP: 48656"
+48657,STANDARD,Sanford,MI,Midland County,43.67,-84.38,7000,"City: Sanford, ZIP: 48657"
+48658,STANDARD,Standish,MI,Arenac County,43.98,-83.96,4270,"City: Standish, ZIP: 48658"
+48659,STANDARD,Sterling,MI,Arenac County,44.03,-84.02,2430,"City: Sterling, ZIP: 48659"
+48661,STANDARD,West Branch,MI,Ogemaw County,44.27,-84.23,9430,"City: West Branch, ZIP: 48661"
+48662,STANDARD,Wheeler,MI,Gratiot County,43.41,-84.43,1240,"City: Wheeler, ZIP: 48662"
+48686,UNIQUE,Midland,MI,Midland County,43.62,-84.22,60,"City: Midland, ZIP: 48686"
+48701,STANDARD,Akron,MI,Tuscola County,43.56,-83.51,1140,"City: Akron, ZIP: 48701"
+48703,STANDARD,Au Gres,MI,Arenac County,44.04,-83.69,2780,"City: Au Gres, ZIP: 48703"
+48705,STANDARD,Barton City,MI,Alcona County,44.68,-83.6,440,"City: Barton City, ZIP: 48705"
+48706,STANDARD,Bay City,MI,Bay County,43.6,-83.95,35580,"City: Bay City, ZIP: 48706"
+48707,PO BOX,Bay City,MI,Bay County,43.59,-83.88,298,"City: Bay City, ZIP: 48707"
+48708,STANDARD,Bay City,MI,Bay County,43.59,-83.88,21820,"City: Bay City, ZIP: 48708"
+48710,UNIQUE,University Center,MI,Bay County,43.56,-83.99,17,"City: University Center, ZIP: 48710"
+48720,STANDARD,Bay Port,MI,Huron County,43.84,-83.37,910,"City: Bay Port, ZIP: 48720"
+48721,STANDARD,Black River,MI,Alcona County,44.81,-83.31,360,"City: Black River, ZIP: 48721"
+48722,STANDARD,Bridgeport,MI,Saginaw County,43.37,-83.88,2820,"City: Bridgeport, ZIP: 48722"
+48723,STANDARD,Caro,MI,Tuscola County,43.48,-83.4,10130,"City: Caro, ZIP: 48723"
+48724,PO BOX,Carrollton,MI,Saginaw County,43.46,-83.93,519,"City: Carrollton, ZIP: 48724"
+48725,STANDARD,Caseville,MI,Huron County,43.94,-83.27,1950,"City: Caseville, ZIP: 48725"
+48726,STANDARD,Cass City,MI,Tuscola County,43.6,-83.17,5590,"City: Cass City, ZIP: 48726"
+48727,STANDARD,Clifford,MI,Lapeer County,43.31,-83.17,1080,"City: Clifford, ZIP: 48727"
+48728,STANDARD,Curran,MI,Alcona County,44.71,-83.8,280,"City: Curran, ZIP: 48728"
+48729,STANDARD,Deford,MI,Tuscola County,43.51,-83.18,1390,"City: Deford, ZIP: 48729"
+48730,STANDARD,East Tawas,MI,Iosco County,44.28,-83.48,3810,"City: East Tawas, ZIP: 48730"
+48731,STANDARD,Elkton,MI,Huron County,43.81,-83.18,1490,"City: Elkton, ZIP: 48731"
+48732,STANDARD,Essexville,MI,Bay County,43.61,-83.84,9720,"City: Essexville, ZIP: 48732"
+48733,STANDARD,Fairgrove,MI,Tuscola County,43.52,-83.54,1470,"City: Fairgrove, ZIP: 48733"
+48734,STANDARD,Frankenmuth,MI,Saginaw County,43.33,-83.74,7000,"City: Frankenmuth, ZIP: 48734"
+48735,STANDARD,Gagetown,MI,Tuscola County,43.67,-83.27,800,"City: Gagetown, ZIP: 48735"
+48737,STANDARD,Glennie,MI,Alcona County,44.56,-83.71,940,"City: Glennie, ZIP: 48737"
+48738,STANDARD,Greenbush,MI,Alcona County,44.54,-83.35,1040,"City: Greenbush, ZIP: 48738"
+48739,STANDARD,Hale,MI,Iosco County,44.38,-83.8,3160,"City: Hale, ZIP: 48739"
+48740,STANDARD,Harrisville,MI,Alcona County,44.65,-83.29,2100,"City: Harrisville, ZIP: 48740"
+48741,STANDARD,Kingston,MI,Tuscola County,43.41,-83.18,1730,"City: Kingston, ZIP: 48741"
+48742,STANDARD,Lincoln,MI,Alcona County,44.68,-83.41,1560,"City: Lincoln, ZIP: 48742"
+48743,STANDARD,Long Lake,MI,Iosco County,44.44,-83.86,154,"City: Long Lake, ZIP: 48743"
+48744,STANDARD,Mayville,MI,Tuscola County,43.33,-83.35,4070,"City: Mayville, ZIP: 48744"
+48745,STANDARD,Mikado,MI,Alcona County,44.56,-83.41,1030,"City: Mikado, ZIP: 48745"
+48746,STANDARD,Millington,MI,Tuscola County,43.28,-83.52,7430,"City: Millington, ZIP: 48746"
+48747,STANDARD,Munger,MI,Bay County,43.52,-83.77,1380,"City: Munger, ZIP: 48747"
+48748,STANDARD,National City,MI,Iosco County,44.23,-83.71,1460,"City: National City, ZIP: 48748"
+48749,STANDARD,Omer,MI,Arenac County,44.04,-83.85,970,"City: Omer, ZIP: 48749"
+48750,STANDARD,Oscoda,MI,Iosco County,44.42,-83.33,7690,"City: Oscoda, ZIP: 48750"
+48754,STANDARD,Owendale,MI,Huron County,43.72,-83.26,820,"City: Owendale, ZIP: 48754"
+48755,STANDARD,Pigeon,MI,Huron County,43.82,-83.27,2940,"City: Pigeon, ZIP: 48755"
+48756,STANDARD,Prescott,MI,Ogemaw County,44.19,-83.93,3100,"City: Prescott, ZIP: 48756"
+48757,STANDARD,Reese,MI,Tuscola County,43.45,-83.68,3310,"City: Reese, ZIP: 48757"
+48758,PO BOX,Richville,MI,Tuscola County,43.41,-83.64,210,"City: Richville, ZIP: 48758"
+48759,STANDARD,Sebewaing,MI,Huron County,43.73,-83.45,2920,"City: Sebewaing, ZIP: 48759"
+48760,STANDARD,Silverwood,MI,Tuscola County,43.3,-83.27,1050,"City: Silverwood, ZIP: 48760"
+48761,STANDARD,South Branch,MI,Iosco County,44.46,-83.88,720,"City: South Branch, ZIP: 48761"
+48762,STANDARD,Spruce,MI,Alcona County,44.83,-83.46,1000,"City: Spruce, ZIP: 48762"
+48763,STANDARD,Tawas City,MI,Iosco County,44.27,-83.51,4230,"City: Tawas City, ZIP: 48763"
+48764,PO BOX,Tawas City,MI,Iosco County,44.27,-83.51,341,"City: Tawas City, ZIP: 48764"
+48765,STANDARD,Turner,MI,Arenac County,44.14,-83.78,610,"City: Turner, ZIP: 48765"
+48766,STANDARD,Twining,MI,Arenac County,44.11,-83.8,950,"City: Twining, ZIP: 48766"
+48767,STANDARD,Unionville,MI,Tuscola County,43.65,-83.46,1860,"City: Unionville, ZIP: 48767"
+48768,STANDARD,Vassar,MI,Tuscola County,43.37,-83.57,8490,"City: Vassar, ZIP: 48768"
+48769,STANDARD,Vassar,MI,Tuscola County,43.33,-83.34,14,"City: Vassar, ZIP: 48769"
+48770,STANDARD,Whittemore,MI,Iosco County,44.23,-83.8,1540,"City: Whittemore, ZIP: 48770"
+48801,STANDARD,Alma,MI,Gratiot County,43.37,-84.65,9930,"City: Alma, ZIP: 48801"
+48804,PO BOX,Mount Pleasant,MI,Isabella County,43.59,-84.77,880,"City: Mount Pleasant, ZIP: 48804"
+48805,PO BOX,Okemos,MI,Ingham County,42.7,-84.41,251,"City: Okemos, ZIP: 48805"
+48806,STANDARD,Ashley,MI,Gratiot County,43.18,-84.47,1430,"City: Ashley, ZIP: 48806"
+48807,STANDARD,Bannister,MI,Gratiot County,43.13,-84.42,730,"City: Bannister, ZIP: 48807"
+48808,STANDARD,Bath,MI,Clinton County,42.81,-84.44,5300,"City: Bath, ZIP: 48808"
+48809,STANDARD,Belding,MI,Ionia County,43.09,-85.23,10090,"City: Belding, ZIP: 48809"
+48811,STANDARD,Carson City,MI,Montcalm County,43.17,-84.84,3160,"City: Carson City, ZIP: 48811"
+48812,PO BOX,Cedar Lake,MI,Montcalm County,43.4,-84.97,192,"City: Cedar Lake, ZIP: 48812"
+48813,STANDARD,Charlotte,MI,Eaton County,42.56,-84.83,18930,"City: Charlotte, ZIP: 48813"
+48815,STANDARD,Clarksville,MI,Ionia County,42.84,-85.24,2280,"City: Clarksville, ZIP: 48815"
+48816,PO BOX,Cohoctah,MI,Livingston County,42.77,-83.96,194,"City: Cohoctah, ZIP: 48816"
+48817,STANDARD,Corunna,MI,Shiawassee County,42.98,-84.11,5090,"City: Corunna, ZIP: 48817"
+48818,STANDARD,Crystal,MI,Montcalm County,43.26,-84.91,2010,"City: Crystal, ZIP: 48818"
+48819,STANDARD,Dansville,MI,Ingham County,42.55,-84.3,2540,"City: Dansville, ZIP: 48819"
+48820,STANDARD,Dewitt,MI,Clinton County,42.86,-84.59,18100,"City: Dewitt, ZIP: 48820"
+48821,STANDARD,Dimondale,MI,Eaton County,42.64,-84.64,5530,"City: Dimondale, ZIP: 48821"
+48822,STANDARD,Eagle,MI,Clinton County,42.8,-84.79,2830,"City: Eagle, ZIP: 48822"
+48823,STANDARD,East Lansing,MI,Ingham County,42.76,-84.46,30350,"City: East Lansing, ZIP: 48823"
+48824,STANDARD,East Lansing,MI,Ingham County,42.73,-84.48,35,"City: East Lansing, ZIP: 48824"
+48825,STANDARD,East Lansing,MI,Ingham County,42.73,-84.49,308,"City: East Lansing, ZIP: 48825"
+48826,PO BOX,East Lansing,MI,Ingham County,42.73,-84.48,570,"City: East Lansing, ZIP: 48826"
+48827,STANDARD,Eaton Rapids,MI,Eaton County,42.51,-84.65,14630,"City: Eaton Rapids, ZIP: 48827"
+48829,STANDARD,Edmore,MI,Montcalm County,43.4,-85.03,2790,"City: Edmore, ZIP: 48829"
+48830,PO BOX,Elm Hall,MI,Gratiot County,43.36,-84.83,72,"City: Elm Hall, ZIP: 48830"
+48831,STANDARD,Elsie,MI,Clinton County,43.08,-84.39,3030,"City: Elsie, ZIP: 48831"
+48832,STANDARD,Elwell,MI,Gratiot County,43.42,-84.76,1250,"City: Elwell, ZIP: 48832"
+48833,PO BOX,Eureka,MI,Clinton County,43.1,-84.51,96,"City: Eureka, ZIP: 48833"
+48834,STANDARD,Fenwick,MI,Montcalm County,43.14,-85.08,2130,"City: Fenwick, ZIP: 48834"
+48835,STANDARD,Fowler,MI,Clinton County,43,-84.74,2520,"City: Fowler, ZIP: 48835"
+48836,STANDARD,Fowlerville,MI,Livingston County,42.66,-84.07,13200,"City: Fowlerville, ZIP: 48836"
+48837,STANDARD,Grand Ledge,MI,Eaton County,42.75,-84.74,18290,"City: Grand Ledge, ZIP: 48837"
+48838,STANDARD,Greenville,MI,Montcalm County,43.17,-85.25,16950,"City: Greenville, ZIP: 48838"
+48840,STANDARD,Haslett,MI,Ingham County,42.75,-84.4,11230,"City: Haslett, ZIP: 48840"
+48841,STANDARD,Henderson,MI,Shiawassee County,43.11,-84.24,690,"City: Henderson, ZIP: 48841"
+48842,STANDARD,Holt,MI,Ingham County,42.63,-84.52,20100,"City: Holt, ZIP: 48842"
+48843,STANDARD,Howell,MI,Livingston County,42.6,-83.93,44810,"City: Howell, ZIP: 48843"
+48844,PO BOX,Howell,MI,Livingston County,42.6,-83.93,842,"City: Howell, ZIP: 48844"
+48845,STANDARD,Hubbardston,MI,Ionia County,43.09,-84.84,830,"City: Hubbardston, ZIP: 48845"
+48846,STANDARD,Ionia,MI,Ionia County,42.98,-85.05,14410,"City: Ionia, ZIP: 48846"
+48847,STANDARD,Ithaca,MI,Gratiot County,43.29,-84.6,5160,"City: Ithaca, ZIP: 48847"
+48848,STANDARD,Laingsburg,MI,Shiawassee County,42.89,-84.34,7510,"City: Laingsburg, ZIP: 48848"
+48849,STANDARD,Lake Odessa,MI,Ionia County,42.78,-85.13,5470,"City: Lake Odessa, ZIP: 48849"
+48850,STANDARD,Lakeview,MI,Montcalm County,43.44,-85.27,4110,"City: Lakeview, ZIP: 48850"
+48851,STANDARD,Lyons,MI,Ionia County,42.98,-84.94,2130,"City: Lyons, ZIP: 48851"
+48852,PO BOX,Mcbrides,MI,Montcalm County,43.35,-85.05,210,"City: Mcbrides, ZIP: 48852"
+48853,PO BOX,Maple Rapids,MI,Clinton County,43.1,-84.69,604,"City: Maple Rapids, ZIP: 48853"
+48854,STANDARD,Mason,MI,Ingham County,42.58,-84.44,18310,"City: Mason, ZIP: 48854"
+48855,STANDARD,Howell,MI,Livingston County,42.69,-83.88,16100,"City: Howell, ZIP: 48855"
+48856,STANDARD,Middleton,MI,Gratiot County,43.16,-84.77,680,"City: Middleton, ZIP: 48856"
+48857,STANDARD,Morrice,MI,Shiawassee County,42.83,-84.17,2350,"City: Morrice, ZIP: 48857"
+48858,STANDARD,Mount Pleasant,MI,Isabella County,43.59,-84.77,30440,"City: Mount Pleasant, ZIP: 48858"
+48859,UNIQUE,Mount Pleasant,MI,Isabella County,43.59,-84.77,34,"City: Mount Pleasant, ZIP: 48859"
+48860,STANDARD,Muir,MI,Ionia County,43.05,-84.91,1180,"City: Muir, ZIP: 48860"
+48861,STANDARD,Mulliken,MI,Eaton County,42.76,-84.89,1490,"City: Mulliken, ZIP: 48861"
+48862,PO BOX,North Star,MI,Gratiot County,43.25,-84.55,73,"City: North Star, ZIP: 48862"
+48863,STANDARD,Howell,MI,Livingston County,42.63,-83.91,52,"City: Howell, ZIP: 48863"
+48864,STANDARD,Okemos,MI,Ingham County,42.7,-84.41,20820,"City: Okemos, ZIP: 48864"
+48865,STANDARD,Orleans,MI,Ionia County,43.06,-85.13,1550,"City: Orleans, ZIP: 48865"
+48866,STANDARD,Ovid,MI,Clinton County,43,-84.37,4270,"City: Ovid, ZIP: 48866"
+48867,STANDARD,Owosso,MI,Shiawassee County,42.99,-84.17,24460,"City: Owosso, ZIP: 48867"
+48870,PO BOX,Palo,MI,Ionia County,43.11,-84.98,127,"City: Palo, ZIP: 48870"
+48871,STANDARD,Perrinton,MI,Gratiot County,43.18,-84.67,1900,"City: Perrinton, ZIP: 48871"
+48872,STANDARD,Perry,MI,Shiawassee County,42.82,-84.22,6880,"City: Perry, ZIP: 48872"
+48873,STANDARD,Pewamo,MI,Ionia County,43,-84.84,1450,"City: Pewamo, ZIP: 48873"
+48874,PO BOX,Pompeii,MI,Gratiot County,43.19,-84.59,178,"City: Pompeii, ZIP: 48874"
+48875,STANDARD,Portland,MI,Ionia County,42.87,-84.9,10050,"City: Portland, ZIP: 48875"
+48876,STANDARD,Potterville,MI,Eaton County,42.64,-84.73,4020,"City: Potterville, ZIP: 48876"
+48877,STANDARD,Riverdale,MI,Gratiot County,43.38,-84.83,1970,"City: Riverdale, ZIP: 48877"
+48878,STANDARD,Rosebush,MI,Isabella County,43.69,-84.76,1550,"City: Rosebush, ZIP: 48878"
+48879,STANDARD,Saint Johns,MI,Clinton County,43,-84.55,16820,"City: Saint Johns, ZIP: 48879"
+48880,STANDARD,Saint Louis,MI,Gratiot County,43.4,-84.61,6200,"City: Saint Louis, ZIP: 48880"
+48881,STANDARD,Saranac,MI,Ionia County,42.92,-85.2,4950,"City: Saranac, ZIP: 48881"
+48882,PO BOX,Shaftsburg,MI,Shiawassee County,42.8,-84.29,212,"City: Shaftsburg, ZIP: 48882"
+48883,STANDARD,Shepherd,MI,Isabella County,43.52,-84.69,6340,"City: Shepherd, ZIP: 48883"
+48884,STANDARD,Sheridan,MI,Montcalm County,43.21,-85.07,3950,"City: Sheridan, ZIP: 48884"
+48885,STANDARD,Sidney,MI,Montcalm County,43.25,-85.13,890,"City: Sidney, ZIP: 48885"
+48886,STANDARD,Six Lakes,MI,Montcalm County,43.42,-85.15,1930,"City: Six Lakes, ZIP: 48886"
+48888,STANDARD,Stanton,MI,Montcalm County,43.29,-85.07,5480,"City: Stanton, ZIP: 48888"
+48889,STANDARD,Sumner,MI,Gratiot County,43.3,-84.81,1180,"City: Sumner, ZIP: 48889"
+48890,STANDARD,Sunfield,MI,Eaton County,42.76,-84.99,1870,"City: Sunfield, ZIP: 48890"
+48891,STANDARD,Vestaburg,MI,Montcalm County,43.39,-84.9,2420,"City: Vestaburg, ZIP: 48891"
+48892,STANDARD,Webberville,MI,Ingham County,42.66,-84.18,4400,"City: Webberville, ZIP: 48892"
+48893,STANDARD,Weidman,MI,Isabella County,43.69,-84.97,4920,"City: Weidman, ZIP: 48893"
+48894,STANDARD,Westphalia,MI,Clinton County,42.92,-84.79,2480,"City: Westphalia, ZIP: 48894"
+48895,STANDARD,Williamston,MI,Ingham County,42.68,-84.28,10860,"City: Williamston, ZIP: 48895"
+48896,PO BOX,Winn,MI,Isabella County,43.52,-84.9,160,"City: Winn, ZIP: 48896"
+48897,STANDARD,Woodland,MI,Barry County,42.72,-85.13,1410,"City: Woodland, ZIP: 48897"
+48901,PO BOX,Lansing,MI,Ingham County,42.7,-84.55,726,"City: Lansing, ZIP: 48901"
+48906,STANDARD,Lansing,MI,Ingham County,42.79,-84.59,21500,"City: Lansing, ZIP: 48906"
+48908,PO BOX,Lansing,MI,Ingham County,42.7,-84.55,359,"City: Lansing, ZIP: 48908"
+48909,PO BOX,Lansing,MI,Ingham County,42.7,-84.55,519,"City: Lansing, ZIP: 48909"
+48910,STANDARD,Lansing,MI,Ingham County,42.7,-84.55,27250,"City: Lansing, ZIP: 48910"
+48911,STANDARD,Lansing,MI,Ingham County,42.67,-84.57,34250,"City: Lansing, ZIP: 48911"
+48912,STANDARD,Lansing,MI,Ingham County,42.74,-84.52,13150,"City: Lansing, ZIP: 48912"
+48915,STANDARD,Lansing,MI,Ingham County,42.74,-84.57,7220,"City: Lansing, ZIP: 48915"
+48916,UNIQUE,Lansing,MI,Ingham County,42.7,-84.55,20,"City: Lansing, ZIP: 48916"
+48917,STANDARD,Lansing,MI,Eaton County,42.73,-84.64,29360,"City: Lansing, ZIP: 48917"
+48933,STANDARD,Lansing,MI,Ingham County,42.73,-84.55,1610,"City: Lansing, ZIP: 48933"
+49001,STANDARD,Kalamazoo,MI,Kalamazoo County,42.27,-85.58,17860,"City: Kalamazoo, ZIP: 49001"
+49002,STANDARD,Portage,MI,Kalamazoo County,42.2,-85.56,17670,"City: Portage, ZIP: 49002"
+49003,PO BOX,Kalamazoo,MI,Kalamazoo County,42.27,-85.58,433,"City: Kalamazoo, ZIP: 49003"
+49004,STANDARD,Kalamazoo,MI,Kalamazoo County,42.35,-85.56,14660,"City: Kalamazoo, ZIP: 49004"
+49005,PO BOX,Kalamazoo,MI,Kalamazoo County,42.27,-85.58,168,"City: Kalamazoo, ZIP: 49005"
+49006,STANDARD,Kalamazoo,MI,Kalamazoo County,42.29,-85.63,15720,"City: Kalamazoo, ZIP: 49006"
+49007,STANDARD,Kalamazoo,MI,Kalamazoo County,42.3,-85.59,7300,"City: Kalamazoo, ZIP: 49007"
+49008,STANDARD,Kalamazoo,MI,Kalamazoo County,42.26,-85.62,12830,"City: Kalamazoo, ZIP: 49008"
+49009,STANDARD,Kalamazoo,MI,Kalamazoo County,42.3,-85.7,41900,"City: Kalamazoo, ZIP: 49009"
+49010,STANDARD,Allegan,MI,Allegan County,42.52,-85.84,16420,"City: Allegan, ZIP: 49010"
+49011,STANDARD,Athens,MI,Calhoun County,42.08,-85.23,1950,"City: Athens, ZIP: 49011"
+49012,STANDARD,Augusta,MI,Kalamazoo County,42.33,-85.35,3320,"City: Augusta, ZIP: 49012"
+49013,STANDARD,Bangor,MI,Van Buren County,42.31,-86.11,4550,"City: Bangor, ZIP: 49013"
+49014,STANDARD,Battle Creek,MI,Calhoun County,42.31,-85.11,18220,"City: Battle Creek, ZIP: 49014"
+49015,STANDARD,Battle Creek,MI,Calhoun County,42.29,-85.22,24560,"City: Battle Creek, ZIP: 49015"
+49016,PO BOX,Battle Creek,MI,Calhoun County,42.29,-85.22,812,"City: Battle Creek, ZIP: 49016"
+49017,STANDARD,Battle Creek,MI,Calhoun County,42.4,-85.22,17800,"City: Battle Creek, ZIP: 49017"
+49019,PO BOX,Kalamazoo,MI,Kalamazoo County,42.27,-85.58,404,"City: Kalamazoo, ZIP: 49019"
+49020,PO BOX,Bedford,MI,Calhoun County,42.32,-85.12,125,"City: Bedford, ZIP: 49020"
+49021,STANDARD,Bellevue,MI,Eaton County,42.44,-85.01,5660,"City: Bellevue, ZIP: 49021"
+49022,STANDARD,Benton Harbor,MI,Berrien County,42.11,-86.44,24480,"City: Benton Harbor, ZIP: 49022"
+49023,PO BOX,Benton Harbor,MI,Berrien County,42.11,-86.44,768,"City: Benton Harbor, ZIP: 49023"
+49024,STANDARD,Portage,MI,Kalamazoo County,42.21,-85.62,27900,"City: Portage, ZIP: 49024"
+49026,STANDARD,Bloomingdale,MI,Van Buren County,42.38,-85.95,1890,"City: Bloomingdale, ZIP: 49026"
+49027,PO BOX,Breedsville,MI,Van Buren County,42.35,-86.07,173,"City: Breedsville, ZIP: 49027"
+49028,STANDARD,Bronson,MI,Branch County,41.87,-85.19,5410,"City: Bronson, ZIP: 49028"
+49029,STANDARD,Burlington,MI,Calhoun County,42.1,-85.07,1430,"City: Burlington, ZIP: 49029"
+49030,STANDARD,Burr Oak,MI,St. Joseph County,41.84,-85.32,2350,"City: Burr Oak, ZIP: 49030"
+49031,STANDARD,Cassopolis,MI,Cass County,41.91,-86,6570,"City: Cassopolis, ZIP: 49031"
+49032,STANDARD,Centreville,MI,St. Joseph County,41.92,-85.52,2790,"City: Centreville, ZIP: 49032"
+49033,STANDARD,Ceresco,MI,Calhoun County,42.27,-85.06,1790,"City: Ceresco, ZIP: 49033"
+49034,STANDARD,Climax,MI,Kalamazoo County,42.23,-85.33,2060,"City: Climax, ZIP: 49034"
+49035,PO BOX,Cloverdale,MI,Barry County,42.63,-85.3,121,"City: Cloverdale, ZIP: 49035"
+49036,STANDARD,Coldwater,MI,Branch County,41.94,-85,20960,"City: Coldwater, ZIP: 49036"
+49037,STANDARD,Battle Creek,MI,Calhoun County,42.32,-85.26,16990,"City: Battle Creek, ZIP: 49037"
+49038,STANDARD,Coloma,MI,Berrien County,42.18,-86.3,8000,"City: Coloma, ZIP: 49038"
+49040,STANDARD,Colon,MI,St. Joseph County,41.95,-85.32,2920,"City: Colon, ZIP: 49040"
+49041,PO BOX,Comstock,MI,Kalamazoo County,42.28,-85.51,218,"City: Comstock, ZIP: 49041"
+49042,STANDARD,Constantine,MI,St. Joseph County,41.83,-85.66,4220,"City: Constantine, ZIP: 49042"
+49043,STANDARD,Covert,MI,Van Buren County,42.29,-86.26,1880,"City: Covert, ZIP: 49043"
+49045,STANDARD,Decatur,MI,Van Buren County,42.1,-85.97,4670,"City: Decatur, ZIP: 49045"
+49046,STANDARD,Delton,MI,Barry County,42.49,-85.4,6410,"City: Delton, ZIP: 49046"
+49047,STANDARD,Dowagiac,MI,Cass County,41.98,-86.11,12210,"City: Dowagiac, ZIP: 49047"
+49048,STANDARD,Kalamazoo,MI,Kalamazoo County,42.24,-85.48,21010,"City: Kalamazoo, ZIP: 49048"
+49050,STANDARD,Dowling,MI,Barry County,42.5,-85.25,1450,"City: Dowling, ZIP: 49050"
+49051,STANDARD,East Leroy,MI,Calhoun County,42.19,-85.24,2320,"City: East Leroy, ZIP: 49051"
+49052,STANDARD,Fulton,MI,Kalamazoo County,42.11,-85.35,870,"City: Fulton, ZIP: 49052"
+49053,STANDARD,Galesburg,MI,Kalamazoo County,42.29,-85.41,6800,"City: Galesburg, ZIP: 49053"
+49055,STANDARD,Gobles,MI,Van Buren County,42.36,-85.87,5530,"City: Gobles, ZIP: 49055"
+49056,STANDARD,Grand Junction,MI,Van Buren County,42.4,-86.07,3280,"City: Grand Junction, ZIP: 49056"
+49057,STANDARD,Hartford,MI,Van Buren County,42.2,-86.16,5840,"City: Hartford, ZIP: 49057"
+49058,STANDARD,Hastings,MI,Barry County,42.65,-85.28,17980,"City: Hastings, ZIP: 49058"
+49060,STANDARD,Hickory Corners,MI,Barry County,42.44,-85.37,1730,"City: Hickory Corners, ZIP: 49060"
+49061,STANDARD,Jones,MI,Cass County,41.91,-85.81,1500,"City: Jones, ZIP: 49061"
+49062,PO BOX,Kendall,MI,Van Buren County,42.36,-85.81,82,"City: Kendall, ZIP: 49062"
+49063,PO BOX,Lacota,MI,Van Buren County,42.41,-86.14,89,"City: Lacota, ZIP: 49063"
+49064,STANDARD,Lawrence,MI,Van Buren County,42.21,-86.05,3400,"City: Lawrence, ZIP: 49064"
+49065,STANDARD,Lawton,MI,Van Buren County,42.16,-85.84,6280,"City: Lawton, ZIP: 49065"
+49066,STANDARD,Leonidas,MI,St. Joseph County,42.03,-85.35,620,"City: Leonidas, ZIP: 49066"
+49067,STANDARD,Marcellus,MI,Cass County,42.02,-85.81,4010,"City: Marcellus, ZIP: 49067"
+49068,STANDARD,Marshall,MI,Calhoun County,42.26,-84.95,13340,"City: Marshall, ZIP: 49068"
+49070,STANDARD,Martin,MI,Allegan County,42.53,-85.63,2360,"City: Martin, ZIP: 49070"
+49071,STANDARD,Mattawan,MI,Van Buren County,42.21,-85.78,10680,"City: Mattawan, ZIP: 49071"
+49072,STANDARD,Mendon,MI,St. Joseph County,42,-85.45,2880,"City: Mendon, ZIP: 49072"
+49073,STANDARD,Nashville,MI,Barry County,42.6,-85.09,4430,"City: Nashville, ZIP: 49073"
+49074,PO BOX,Nazareth,MI,Kalamazoo County,42.32,-85.54,93,"City: Nazareth, ZIP: 49074"
+49075,PO BOX,Nottawa,MI,St. Joseph County,41.92,-85.45,323,"City: Nottawa, ZIP: 49075"
+49076,STANDARD,Olivet,MI,Eaton County,42.44,-84.92,3530,"City: Olivet, ZIP: 49076"
+49077,PO BOX,Oshtemo,MI,Kalamazoo County,42.25,-85.67,188,"City: Oshtemo, ZIP: 49077"
+49078,STANDARD,Otsego,MI,Allegan County,42.45,-85.69,8690,"City: Otsego, ZIP: 49078"
+49079,STANDARD,Paw Paw,MI,Van Buren County,42.21,-85.89,12550,"City: Paw Paw, ZIP: 49079"
+49080,STANDARD,Plainwell,MI,Allegan County,42.44,-85.64,14530,"City: Plainwell, ZIP: 49080"
+49081,PO BOX,Portage,MI,Kalamazoo County,42.2,-85.59,546,"City: Portage, ZIP: 49081"
+49082,STANDARD,Quincy,MI,Branch County,41.94,-84.88,5390,"City: Quincy, ZIP: 49082"
+49083,STANDARD,Richland,MI,Kalamazoo County,42.37,-85.45,7890,"City: Richland, ZIP: 49083"
+49084,PO BOX,Riverside,MI,Berrien County,42.18,-86.39,189,"City: Riverside, ZIP: 49084"
+49085,STANDARD,Saint Joseph,MI,Berrien County,42.03,-86.45,22430,"City: Saint Joseph, ZIP: 49085"
+49087,STANDARD,Schoolcraft,MI,Kalamazoo County,42.11,-85.63,6220,"City: Schoolcraft, ZIP: 49087"
+49088,STANDARD,Scotts,MI,Kalamazoo County,42.19,-85.41,3670,"City: Scotts, ZIP: 49088"
+49089,STANDARD,Sherwood,MI,Branch County,42,-85.24,1430,"City: Sherwood, ZIP: 49089"
+49090,STANDARD,South Haven,MI,Van Buren County,42.4,-86.27,11480,"City: South Haven, ZIP: 49090"
+49091,STANDARD,Sturgis,MI,St. Joseph County,41.8,-85.42,17630,"City: Sturgis, ZIP: 49091"
+49092,STANDARD,Tekonsha,MI,Calhoun County,42.09,-84.98,1820,"City: Tekonsha, ZIP: 49092"
+49093,STANDARD,Three Rivers,MI,St. Joseph County,41.94,-85.63,15920,"City: Three Rivers, ZIP: 49093"
+49094,STANDARD,Union City,MI,Branch County,42.06,-85.14,3520,"City: Union City, ZIP: 49094"
+49095,STANDARD,Vandalia,MI,Cass County,41.91,-85.91,1710,"City: Vandalia, ZIP: 49095"
+49096,STANDARD,Vermontville,MI,Eaton County,42.62,-85.02,2930,"City: Vermontville, ZIP: 49096"
+49097,STANDARD,Vicksburg,MI,Kalamazoo County,42.12,-85.53,11000,"City: Vicksburg, ZIP: 49097"
+49098,STANDARD,Watervliet,MI,Berrien County,42.18,-86.25,5410,"City: Watervliet, ZIP: 49098"
+49099,STANDARD,White Pigeon,MI,St. Joseph County,41.79,-85.64,4920,"City: White Pigeon, ZIP: 49099"
+49101,STANDARD,Baroda,MI,Berrien County,41.95,-86.48,2930,"City: Baroda, ZIP: 49101"
+49102,STANDARD,Berrien Center,MI,Berrien County,41.94,-86.26,1190,"City: Berrien Center, ZIP: 49102"
+49103,STANDARD,Berrien Springs,MI,Berrien County,41.94,-86.34,9340,"City: Berrien Springs, ZIP: 49103"
+49104,UNIQUE,Berrien Springs,MI,Berrien County,41.96,-86.36,96,"City: Berrien Springs, ZIP: 49104"
+49106,STANDARD,Bridgman,MI,Berrien County,41.94,-86.56,4370,"City: Bridgman, ZIP: 49106"
+49107,STANDARD,Buchanan,MI,Berrien County,41.82,-86.36,8660,"City: Buchanan, ZIP: 49107"
+49111,STANDARD,Eau Claire,MI,Berrien County,41.98,-86.3,3110,"City: Eau Claire, ZIP: 49111"
+49112,STANDARD,Edwardsburg,MI,Cass County,41.79,-86.08,9370,"City: Edwardsburg, ZIP: 49112"
+49113,STANDARD,Galien,MI,Berrien County,41.8,-86.49,1620,"City: Galien, ZIP: 49113"
+49115,PO BOX,Harbert,MI,Berrien County,41.88,-86.63,245,"City: Harbert, ZIP: 49115"
+49116,STANDARD,Lakeside,MI,Berrien County,41.85,-86.67,190,"City: Lakeside, ZIP: 49116"
+49117,STANDARD,New Buffalo,MI,Berrien County,41.79,-86.74,3180,"City: New Buffalo, ZIP: 49117"
+49119,PO BOX,New Troy,MI,Berrien County,41.88,-86.55,184,"City: New Troy, ZIP: 49119"
+49120,STANDARD,Niles,MI,Berrien County,41.83,-86.24,32280,"City: Niles, ZIP: 49120"
+49125,STANDARD,Sawyer,MI,Berrien County,41.89,-86.58,1720,"City: Sawyer, ZIP: 49125"
+49126,STANDARD,Sodus,MI,Berrien County,42.03,-86.38,1670,"City: Sodus, ZIP: 49126"
+49127,STANDARD,Stevensville,MI,Berrien County,42.01,-86.52,10060,"City: Stevensville, ZIP: 49127"
+49128,STANDARD,Three Oaks,MI,Berrien County,41.79,-86.61,2920,"City: Three Oaks, ZIP: 49128"
+49129,STANDARD,Union Pier,MI,Berrien County,41.81,-86.68,590,"City: Union Pier, ZIP: 49129"
+49130,STANDARD,Union,MI,Cass County,41.78,-85.86,1580,"City: Union, ZIP: 49130"
+49201,STANDARD,Jackson,MI,Jackson County,42.19,-84.3,36350,"City: Jackson, ZIP: 49201"
+49202,STANDARD,Jackson,MI,Jackson County,42.27,-84.41,15240,"City: Jackson, ZIP: 49202"
+49203,STANDARD,Jackson,MI,Jackson County,42.24,-84.4,31440,"City: Jackson, ZIP: 49203"
+49204,PO BOX,Jackson,MI,Jackson County,42.24,-84.4,1029,"City: Jackson, ZIP: 49204"
+49220,STANDARD,Addison,MI,Lenawee County,41.98,-84.34,2130,"City: Addison, ZIP: 49220"
+49221,STANDARD,Adrian,MI,Lenawee County,41.89,-84.04,32350,"City: Adrian, ZIP: 49221"
+49224,STANDARD,Albion,MI,Calhoun County,42.24,-84.75,9830,"City: Albion, ZIP: 49224"
+49227,STANDARD,Allen,MI,Hillsdale County,41.95,-84.76,1150,"City: Allen, ZIP: 49227"
+49228,STANDARD,Blissfield,MI,Lenawee County,41.83,-83.86,5090,"City: Blissfield, ZIP: 49228"
+49229,STANDARD,Britton,MI,Lenawee County,41.98,-83.83,2940,"City: Britton, ZIP: 49229"
+49230,STANDARD,Brooklyn,MI,Jackson County,42.1,-84.24,9860,"City: Brooklyn, ZIP: 49230"
+49232,STANDARD,Camden,MI,Hillsdale County,41.75,-84.75,2520,"City: Camden, ZIP: 49232"
+49233,STANDARD,Cement City,MI,Hillsdale County,42.06,-84.32,2630,"City: Cement City, ZIP: 49233"
+49234,STANDARD,Clarklake,MI,Jackson County,42.12,-84.36,2460,"City: Clarklake, ZIP: 49234"
+49235,STANDARD,Clayton,MI,Lenawee County,41.86,-84.23,1810,"City: Clayton, ZIP: 49235"
+49236,STANDARD,Clinton,MI,Lenawee County,42.06,-83.97,4570,"City: Clinton, ZIP: 49236"
+49237,STANDARD,Concord,MI,Jackson County,42.17,-84.64,2770,"City: Concord, ZIP: 49237"
+49238,STANDARD,Deerfield,MI,Lenawee County,41.89,-83.77,1490,"City: Deerfield, ZIP: 49238"
+49239,PO BOX,Frontier,MI,Hillsdale County,41.79,-84.62,109,"City: Frontier, ZIP: 49239"
+49240,STANDARD,Grass Lake,MI,Jackson County,42.25,-84.2,8820,"City: Grass Lake, ZIP: 49240"
+49241,STANDARD,Hanover,MI,Jackson County,42.1,-84.55,2100,"City: Hanover, ZIP: 49241"
+49242,STANDARD,Hillsdale,MI,Hillsdale County,41.92,-84.63,11900,"City: Hillsdale, ZIP: 49242"
+49245,STANDARD,Homer,MI,Calhoun County,42.14,-84.81,3980,"City: Homer, ZIP: 49245"
+49246,STANDARD,Horton,MI,Jackson County,42.15,-84.51,3030,"City: Horton, ZIP: 49246"
+49247,STANDARD,Hudson,MI,Lenawee County,41.85,-84.34,4990,"City: Hudson, ZIP: 49247"
+49248,STANDARD,Jasper,MI,Lenawee County,41.74,-83.94,790,"City: Jasper, ZIP: 49248"
+49249,STANDARD,Jerome,MI,Hillsdale County,42.03,-84.45,3090,"City: Jerome, ZIP: 49249"
+49250,STANDARD,Jonesville,MI,Hillsdale County,41.98,-84.66,5310,"City: Jonesville, ZIP: 49250"
+49251,STANDARD,Leslie,MI,Ingham County,42.45,-84.43,5770,"City: Leslie, ZIP: 49251"
+49252,STANDARD,Litchfield,MI,Hillsdale County,42.04,-84.75,2260,"City: Litchfield, ZIP: 49252"
+49253,STANDARD,Manitou Beach,MI,Lenawee County,41.95,-84.26,2780,"City: Manitou Beach, ZIP: 49253"
+49254,STANDARD,Michigan Center,MI,Jackson County,42.22,-84.32,2860,"City: Michigan Center, ZIP: 49254"
+49255,STANDARD,Montgomery,MI,Branch County,41.77,-84.8,1140,"City: Montgomery, ZIP: 49255"
+49256,STANDARD,Morenci,MI,Lenawee County,41.72,-84.21,3270,"City: Morenci, ZIP: 49256"
+49257,PO BOX,Moscow,MI,Hillsdale County,42.02,-84.55,97,"City: Moscow, ZIP: 49257"
+49258,PO BOX,Mosherville,MI,Hillsdale County,42.06,-84.66,137,"City: Mosherville, ZIP: 49258"
+49259,STANDARD,Munith,MI,Jackson County,42.39,-84.25,2270,"City: Munith, ZIP: 49259"
+49261,PO BOX,Napoleon,MI,Jackson County,42.16,-84.24,577,"City: Napoleon, ZIP: 49261"
+49262,STANDARD,North Adams,MI,Hillsdale County,41.97,-84.52,1120,"City: North Adams, ZIP: 49262"
+49263,PO BOX,Norvell,MI,Jackson County,42.16,-84.18,165,"City: Norvell, ZIP: 49263"
+49264,STANDARD,Onondaga,MI,Ingham County,42.44,-84.56,1730,"City: Onondaga, ZIP: 49264"
+49265,STANDARD,Onsted,MI,Lenawee County,42,-84.19,4870,"City: Onsted, ZIP: 49265"
+49266,STANDARD,Osseo,MI,Hillsdale County,41.82,-84.53,2530,"City: Osseo, ZIP: 49266"
+49267,STANDARD,Ottawa Lake,MI,Monroe County,41.76,-83.74,3820,"City: Ottawa Lake, ZIP: 49267"
+49268,STANDARD,Palmyra,MI,Lenawee County,41.87,-83.94,970,"City: Palmyra, ZIP: 49268"
+49269,STANDARD,Parma,MI,Jackson County,42.25,-84.59,5410,"City: Parma, ZIP: 49269"
+49270,STANDARD,Petersburg,MI,Monroe County,41.89,-83.71,5680,"City: Petersburg, ZIP: 49270"
+49271,STANDARD,Pittsford,MI,Hillsdale County,41.9,-84.43,1950,"City: Pittsford, ZIP: 49271"
+49272,STANDARD,Pleasant Lake,MI,Jackson County,42.39,-84.34,2280,"City: Pleasant Lake, ZIP: 49272"
+49274,STANDARD,Reading,MI,Hillsdale County,41.83,-84.74,2970,"City: Reading, ZIP: 49274"
+49276,STANDARD,Riga,MI,Lenawee County,41.78,-83.79,940,"City: Riga, ZIP: 49276"
+49277,STANDARD,Rives Junction,MI,Jackson County,42.38,-84.46,3030,"City: Rives Junction, ZIP: 49277"
+49279,STANDARD,Sand Creek,MI,Lenawee County,41.78,-84.1,790,"City: Sand Creek, ZIP: 49279"
+49281,PO BOX,Somerset,MI,Hillsdale County,42.03,-84.38,89,"City: Somerset, ZIP: 49281"
+49282,STANDARD,Somerset Center,MI,Hillsdale County,42.03,-84.4,300,"City: Somerset Center, ZIP: 49282"
+49283,STANDARD,Spring Arbor,MI,Jackson County,42.2,-84.55,2940,"City: Spring Arbor, ZIP: 49283"
+49284,STANDARD,Springport,MI,Jackson County,42.37,-84.69,2680,"City: Springport, ZIP: 49284"
+49285,STANDARD,Stockbridge,MI,Ingham County,42.45,-84.17,5160,"City: Stockbridge, ZIP: 49285"
+49286,STANDARD,Tecumseh,MI,Lenawee County,42,-83.94,14130,"City: Tecumseh, ZIP: 49286"
+49287,STANDARD,Tipton,MI,Lenawee County,42.01,-84.06,1970,"City: Tipton, ZIP: 49287"
+49288,STANDARD,Waldron,MI,Hillsdale County,41.72,-84.41,1180,"City: Waldron, ZIP: 49288"
+49289,PO BOX,Weston,MI,Lenawee County,41.77,-84.11,163,"City: Weston, ZIP: 49289"
+49301,STANDARD,Ada,MI,Kent County,42.95,-85.48,21010,"City: Ada, ZIP: 49301"
+49302,STANDARD,Alto,MI,Kent County,42.85,-85.38,8910,"City: Alto, ZIP: 49302"
+49303,STANDARD,Bailey,MI,Muskegon County,43.27,-85.81,1090,"City: Bailey, ZIP: 49303"
+49304,STANDARD,Baldwin,MI,Lake County,43.89,-85.85,2970,"City: Baldwin, ZIP: 49304"
+49305,STANDARD,Barryton,MI,Mecosta County,43.74,-85.14,1880,"City: Barryton, ZIP: 49305"
+49306,STANDARD,Belmont,MI,Kent County,43.07,-85.6,10380,"City: Belmont, ZIP: 49306"
+49307,STANDARD,Big Rapids,MI,Mecosta County,43.7,-85.48,12710,"City: Big Rapids, ZIP: 49307"
+49309,STANDARD,Bitely,MI,Newaygo County,43.74,-85.86,1490,"City: Bitely, ZIP: 49309"
+49310,STANDARD,Blanchard,MI,Isabella County,43.51,-85.08,2410,"City: Blanchard, ZIP: 49310"
+49311,PO BOX,Bradley,MI,Allegan County,42.63,-85.64,64,"City: Bradley, ZIP: 49311"
+49312,PO BOX,Brohman,MI,Newaygo County,43.67,-85.82,230,"City: Brohman, ZIP: 49312"
+49314,PO BOX,Burnips,MI,Allegan County,42.73,-85.83,166,"City: Burnips, ZIP: 49314"
+49315,STANDARD,Byron Center,MI,Kent County,42.81,-85.72,26400,"City: Byron Center, ZIP: 49315"
+49316,STANDARD,Caledonia,MI,Kent County,42.79,-85.51,24400,"City: Caledonia, ZIP: 49316"
+49317,PO BOX,Cannonsburg,MI,Kent County,43.05,-85.46,38,"City: Cannonsburg, ZIP: 49317"
+49318,STANDARD,Casnovia,MI,Muskegon County,43.23,-85.79,1420,"City: Casnovia, ZIP: 49318"
+49319,STANDARD,Cedar Springs,MI,Kent County,43.22,-85.55,16310,"City: Cedar Springs, ZIP: 49319"
+49320,PO BOX,Chippewa Lake,MI,Mecosta County,43.75,-85.28,337,"City: Chippewa Lake, ZIP: 49320"
+49321,STANDARD,Comstock Park,MI,Kent County,43.04,-85.67,15610,"City: Comstock Park, ZIP: 49321"
+49322,STANDARD,Coral,MI,Montcalm County,43.36,-85.4,950,"City: Coral, ZIP: 49322"
+49323,STANDARD,Dorr,MI,Allegan County,42.72,-85.72,10040,"City: Dorr, ZIP: 49323"
+49325,STANDARD,Freeport,MI,Barry County,42.76,-85.31,2010,"City: Freeport, ZIP: 49325"
+49326,STANDARD,Gowen,MI,Kent County,43.25,-85.3,3680,"City: Gowen, ZIP: 49326"
+49327,STANDARD,Grant,MI,Newaygo County,43.33,-85.81,7720,"City: Grant, ZIP: 49327"
+49328,STANDARD,Hopkins,MI,Allegan County,42.62,-85.76,3710,"City: Hopkins, ZIP: 49328"
+49329,STANDARD,Howard City,MI,Montcalm County,43.39,-85.46,7930,"City: Howard City, ZIP: 49329"
+49330,STANDARD,Kent City,MI,Kent County,43.21,-85.75,5380,"City: Kent City, ZIP: 49330"
+49331,STANDARD,Lowell,MI,Kent County,42.93,-85.34,17340,"City: Lowell, ZIP: 49331"
+49332,STANDARD,Mecosta,MI,Mecosta County,43.61,-85.23,2430,"City: Mecosta, ZIP: 49332"
+49333,STANDARD,Middleville,MI,Barry County,42.71,-85.46,13240,"City: Middleville, ZIP: 49333"
+49335,PO BOX,Moline,MI,Allegan County,42.74,-85.67,503,"City: Moline, ZIP: 49335"
+49336,STANDARD,Morley,MI,Mecosta County,43.49,-85.44,3540,"City: Morley, ZIP: 49336"
+49337,STANDARD,Newaygo,MI,Newaygo County,43.42,-85.8,11630,"City: Newaygo, ZIP: 49337"
+49338,STANDARD,Paris,MI,Mecosta County,43.77,-85.6,1690,"City: Paris, ZIP: 49338"
+49339,STANDARD,Pierson,MI,Montcalm County,43.31,-85.49,2270,"City: Pierson, ZIP: 49339"
+49340,STANDARD,Remus,MI,Mecosta County,43.61,-85.1,2570,"City: Remus, ZIP: 49340"
+49341,STANDARD,Rockford,MI,Kent County,43.12,-85.55,37940,"City: Rockford, ZIP: 49341"
+49342,STANDARD,Rodney,MI,Mecosta County,43.67,-85.32,1450,"City: Rodney, ZIP: 49342"
+49343,STANDARD,Sand Lake,MI,Kent County,43.29,-85.51,5370,"City: Sand Lake, ZIP: 49343"
+49344,STANDARD,Shelbyville,MI,Allegan County,42.59,-85.63,3420,"City: Shelbyville, ZIP: 49344"
+49345,STANDARD,Sparta,MI,Kent County,43.15,-85.7,12870,"City: Sparta, ZIP: 49345"
+49346,STANDARD,Stanwood,MI,Mecosta County,43.58,-85.44,5620,"City: Stanwood, ZIP: 49346"
+49347,STANDARD,Trufant,MI,Montcalm County,43.31,-85.35,1250,"City: Trufant, ZIP: 49347"
+49348,STANDARD,Wayland,MI,Allegan County,42.67,-85.64,13890,"City: Wayland, ZIP: 49348"
+49349,STANDARD,White Cloud,MI,Newaygo County,43.55,-85.77,6910,"City: White Cloud, ZIP: 49349"
+49401,STANDARD,Allendale,MI,Ottawa County,42.98,-85.95,16020,"City: Allendale, ZIP: 49401"
+49402,STANDARD,Branch,MI,Mason County,43.93,-86.03,1240,"City: Branch, ZIP: 49402"
+49403,STANDARD,Conklin,MI,Ottawa County,43.14,-85.85,2430,"City: Conklin, ZIP: 49403"
+49404,STANDARD,Coopersville,MI,Ottawa County,43.06,-85.93,8500,"City: Coopersville, ZIP: 49404"
+49405,STANDARD,Custer,MI,Mason County,43.95,-86.21,1450,"City: Custer, ZIP: 49405"
+49406,PO BOX,Douglas,MI,Allegan County,42.64,-86.21,978,"City: Douglas, ZIP: 49406"
+49408,STANDARD,Fennville,MI,Allegan County,42.59,-86.1,8670,"City: Fennville, ZIP: 49408"
+49409,PO BOX,Ferrysburg,MI,Ottawa County,43.08,-86.22,199,"City: Ferrysburg, ZIP: 49409"
+49410,STANDARD,Fountain,MI,Mason County,44.04,-86.17,1670,"City: Fountain, ZIP: 49410"
+49411,STANDARD,Free Soil,MI,Mason County,44.1,-86.21,1410,"City: Free Soil, ZIP: 49411"
+49412,STANDARD,Fremont,MI,Newaygo County,43.46,-85.95,10440,"City: Fremont, ZIP: 49412"
+49415,STANDARD,Fruitport,MI,Muskegon County,43.12,-86.15,6230,"City: Fruitport, ZIP: 49415"
+49416,PO BOX,Glenn,MI,Allegan County,42.52,-86.22,217,"City: Glenn, ZIP: 49416"
+49417,STANDARD,Grand Haven,MI,Ottawa County,43.05,-86.22,30660,"City: Grand Haven, ZIP: 49417"
+49418,STANDARD,Grandville,MI,Kent County,42.9,-85.75,29980,"City: Grandville, ZIP: 49418"
+49419,STANDARD,Hamilton,MI,Allegan County,42.67,-86,8700,"City: Hamilton, ZIP: 49419"
+49420,STANDARD,Hart,MI,Oceana County,43.69,-86.36,5800,"City: Hart, ZIP: 49420"
+49421,STANDARD,Hesperia,MI,Oceana County,43.56,-86.04,5100,"City: Hesperia, ZIP: 49421"
+49422,PO BOX,Holland,MI,Ottawa County,42.77,-86.1,953,"City: Holland, ZIP: 49422"
+49423,STANDARD,Holland,MI,Ottawa County,42.77,-86.1,41380,"City: Holland, ZIP: 49423"
+49424,STANDARD,Holland,MI,Ottawa County,42.84,-86.13,45970,"City: Holland, ZIP: 49424"
+49425,STANDARD,Holton,MI,Muskegon County,43.41,-86.07,3210,"City: Holton, ZIP: 49425"
+49426,STANDARD,Hudsonville,MI,Ottawa County,42.86,-85.86,40480,"City: Hudsonville, ZIP: 49426"
+49427,PO BOX,Jamestown,MI,Ottawa County,42.82,-85.84,171,"City: Jamestown, ZIP: 49427"
+49428,STANDARD,Jenison,MI,Ottawa County,42.9,-85.82,26370,"City: Jenison, ZIP: 49428"
+49429,PO BOX,Jenison,MI,Ottawa County,42.9,-85.82,302,"City: Jenison, ZIP: 49429"
+49430,PO BOX,Lamont,MI,Ottawa County,43.01,-85.9,128,"City: Lamont, ZIP: 49430"
+49431,STANDARD,Ludington,MI,Mason County,43.95,-86.44,15890,"City: Ludington, ZIP: 49431"
+49434,PO BOX,Macatawa,MI,Ottawa County,42.77,-86.21,173,"City: Macatawa, ZIP: 49434"
+49435,STANDARD,Marne,MI,Ottawa County,43.03,-85.82,3600,"City: Marne, ZIP: 49435"
+49436,STANDARD,Mears,MI,Oceana County,43.68,-86.41,1590,"City: Mears, ZIP: 49436"
+49437,STANDARD,Montague,MI,Muskegon County,43.46,-86.39,6500,"City: Montague, ZIP: 49437"
+49440,STANDARD,Muskegon,MI,Muskegon County,43.24,-86.25,950,"City: Muskegon, ZIP: 49440"
+49441,STANDARD,Muskegon,MI,Muskegon County,43.22,-86.25,32440,"City: Muskegon, ZIP: 49441"
+49442,STANDARD,Muskegon,MI,Muskegon County,43.24,-86.14,34370,"City: Muskegon, ZIP: 49442"
+49443,PO BOX,Muskegon,MI,Muskegon County,43.22,-86.24,409,"City: Muskegon, ZIP: 49443"
+49444,STANDARD,Muskegon,MI,Muskegon County,43.18,-86.2,22380,"City: Muskegon, ZIP: 49444"
+49445,STANDARD,Muskegon,MI,Muskegon County,43.29,-86.29,20020,"City: Muskegon, ZIP: 49445"
+49446,STANDARD,New Era,MI,Oceana County,43.55,-86.34,2080,"City: New Era, ZIP: 49446"
+49448,STANDARD,Nunica,MI,Ottawa County,43.07,-86.06,3890,"City: Nunica, ZIP: 49448"
+49449,STANDARD,Pentwater,MI,Oceana County,43.78,-86.43,2580,"City: Pentwater, ZIP: 49449"
+49450,STANDARD,Pullman,MI,Allegan County,42.48,-86.09,2620,"City: Pullman, ZIP: 49450"
+49451,STANDARD,Ravenna,MI,Muskegon County,43.18,-85.94,5750,"City: Ravenna, ZIP: 49451"
+49452,STANDARD,Rothbury,MI,Oceana County,43.51,-86.26,1750,"City: Rothbury, ZIP: 49452"
+49453,STANDARD,Saugatuck,MI,Allegan County,42.65,-86.2,2980,"City: Saugatuck, ZIP: 49453"
+49454,STANDARD,Scottville,MI,Mason County,43.95,-86.28,4120,"City: Scottville, ZIP: 49454"
+49455,STANDARD,Shelby,MI,Oceana County,43.61,-86.35,4730,"City: Shelby, ZIP: 49455"
+49456,STANDARD,Spring Lake,MI,Ottawa County,43.07,-86.19,18910,"City: Spring Lake, ZIP: 49456"
+49457,STANDARD,Twin Lake,MI,Muskegon County,43.36,-86.17,9810,"City: Twin Lake, ZIP: 49457"
+49458,PO BOX,Walhalla,MI,Mason County,43.95,-86.11,324,"City: Walhalla, ZIP: 49458"
+49459,STANDARD,Walkerville,MI,Oceana County,43.71,-86.12,1170,"City: Walkerville, ZIP: 49459"
+49460,STANDARD,West Olive,MI,Ottawa County,42.93,-86.15,9170,"City: West Olive, ZIP: 49460"
+49461,STANDARD,Whitehall,MI,Muskegon County,43.39,-86.34,8470,"City: Whitehall, ZIP: 49461"
+49464,STANDARD,Zeeland,MI,Ottawa County,42.81,-86.01,29110,"City: Zeeland, ZIP: 49464"
+49468,PO BOX,Grandville,MI,Kent County,42.9,-85.75,163,"City: Grandville, ZIP: 49468"
+49501,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,983,"City: Grand Rapids, ZIP: 49501"
+49502,UNIQUE,Grand Rapids,MI,Kent County,42.96,-85.65,22,"City: Grand Rapids, ZIP: 49502"
+49503,STANDARD,Grand Rapids,MI,Kent County,42.96,-85.65,28970,"City: Grand Rapids, ZIP: 49503"
+49504,STANDARD,Grand Rapids,MI,Kent County,42.98,-85.71,33860,"City: Grand Rapids, ZIP: 49504"
+49505,STANDARD,Grand Rapids,MI,Kent County,43,-85.64,26960,"City: Grand Rapids, ZIP: 49505"
+49506,STANDARD,Grand Rapids,MI,Kent County,42.95,-85.61,29210,"City: Grand Rapids, ZIP: 49506"
+49507,STANDARD,Grand Rapids,MI,Kent County,42.93,-85.66,32050,"City: Grand Rapids, ZIP: 49507"
+49508,STANDARD,Grand Rapids,MI,Kent County,42.87,-85.62,37800,"City: Grand Rapids, ZIP: 49508"
+49509,STANDARD,Wyoming,MI,Kent County,42.9,-85.69,26100,"City: Wyoming, ZIP: 49509"
+49510,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,252,"City: Grand Rapids, ZIP: 49510"
+49512,STANDARD,Grand Rapids,MI,Kent County,42.88,-85.53,16170,"City: Grand Rapids, ZIP: 49512"
+49514,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,308,"City: Grand Rapids, ZIP: 49514"
+49515,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,210,"City: Grand Rapids, ZIP: 49515"
+49516,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,285,"City: Grand Rapids, ZIP: 49516"
+49518,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,298,"City: Grand Rapids, ZIP: 49518"
+49519,STANDARD,Wyoming,MI,Kent County,42.89,-85.72,24680,"City: Wyoming, ZIP: 49519"
+49523,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,37,"City: Grand Rapids, ZIP: 49523"
+49525,STANDARD,Grand Rapids,MI,Kent County,43.02,-85.59,27960,"City: Grand Rapids, ZIP: 49525"
+49528,PO BOX,Grand Rapids,MI,Kent County,42.9,-85.67,47,"City: Grand Rapids, ZIP: 49528"
+49534,STANDARD,Grand Rapids,MI,Kent County,42.97,-85.77,22060,"City: Grand Rapids, ZIP: 49534"
+49544,STANDARD,Grand Rapids,MI,Kent County,43.04,-85.75,8500,"City: Grand Rapids, ZIP: 49544"
+49546,STANDARD,Grand Rapids,MI,Kent County,42.93,-85.54,29880,"City: Grand Rapids, ZIP: 49546"
+49548,STANDARD,Grand Rapids,MI,Kent County,42.87,-85.66,30710,"City: Grand Rapids, ZIP: 49548"
+49588,PO BOX,Grand Rapids,MI,Kent County,42.96,-85.65,107,"City: Grand Rapids, ZIP: 49588"
+49601,STANDARD,Cadillac,MI,Wexford County,44.24,-85.41,19200,"City: Cadillac, ZIP: 49601"
+49610,PO BOX,Acme,MI,Grand Traverse County,44.76,-85.48,363,"City: Acme, ZIP: 49610"
+49611,PO BOX,Alba,MI,Antrim County,44.97,-84.97,436,"City: Alba, ZIP: 49611"
+49612,STANDARD,Alden,MI,Antrim County,44.88,-85.26,1040,"City: Alden, ZIP: 49612"
+49613,STANDARD,Arcadia,MI,Manistee County,44.51,-86.23,660,"City: Arcadia, ZIP: 49613"
+49614,STANDARD,Bear Lake,MI,Manistee County,44.42,-86.14,2670,"City: Bear Lake, ZIP: 49614"
+49615,STANDARD,Bellaire,MI,Antrim County,44.97,-85.2,3940,"City: Bellaire, ZIP: 49615"
+49616,STANDARD,Benzonia,MI,Benzie County,44.61,-86.09,1930,"City: Benzonia, ZIP: 49616"
+49617,STANDARD,Beulah,MI,Benzie County,44.64,-86.03,3040,"City: Beulah, ZIP: 49617"
+49618,STANDARD,Boon,MI,Wexford County,44.28,-85.6,700,"City: Boon, ZIP: 49618"
+49619,STANDARD,Brethren,MI,Manistee County,44.3,-86.01,910,"City: Brethren, ZIP: 49619"
+49620,STANDARD,Buckley,MI,Wexford County,44.5,-85.67,2680,"City: Buckley, ZIP: 49620"
+49621,STANDARD,Cedar,MI,Leelanau County,44.85,-85.8,3000,"City: Cedar, ZIP: 49621"
+49622,STANDARD,Central Lake,MI,Antrim County,45.06,-85.26,2280,"City: Central Lake, ZIP: 49622"
+49623,STANDARD,Chase,MI,Lake County,43.88,-85.63,1000,"City: Chase, ZIP: 49623"
+49625,STANDARD,Copemish,MI,Manistee County,44.48,-85.92,1150,"City: Copemish, ZIP: 49625"
+49626,PO BOX,Eastlake,MI,Manistee County,44.24,-86.29,388,"City: Eastlake, ZIP: 49626"
+49627,PO BOX,Eastport,MI,Antrim County,45.11,-85.36,484,"City: Eastport, ZIP: 49627"
+49628,PO BOX,Elberta,MI,Benzie County,44.62,-86.24,399,"City: Elberta, ZIP: 49628"
+49629,STANDARD,Elk Rapids,MI,Antrim County,44.89,-85.4,2070,"City: Elk Rapids, ZIP: 49629"
+49630,STANDARD,Empire,MI,Leelanau County,44.81,-86.05,1420,"City: Empire, ZIP: 49630"
+49631,STANDARD,Evart,MI,Osceola County,43.9,-85.27,4980,"City: Evart, ZIP: 49631"
+49632,STANDARD,Falmouth,MI,Missaukee County,44.25,-85.08,1010,"City: Falmouth, ZIP: 49632"
+49633,STANDARD,Fife Lake,MI,Kalkaska County,44.57,-85.35,3520,"City: Fife Lake, ZIP: 49633"
+49634,PO BOX,Filer City,MI,Manistee County,44.21,-86.29,127,"City: Filer City, ZIP: 49634"
+49635,STANDARD,Frankfort,MI,Benzie County,44.63,-86.23,3090,"City: Frankfort, ZIP: 49635"
+49636,STANDARD,Glen Arbor,MI,Leelanau County,44.86,-85.96,660,"City: Glen Arbor, ZIP: 49636"
+49637,STANDARD,Grawn,MI,Grand Traverse County,44.66,-85.68,3330,"City: Grawn, ZIP: 49637"
+49638,STANDARD,Harrietta,MI,Wexford County,44.3,-85.7,740,"City: Harrietta, ZIP: 49638"
+49639,STANDARD,Hersey,MI,Osceola County,43.84,-85.44,2270,"City: Hersey, ZIP: 49639"
+49640,STANDARD,Honor,MI,Benzie County,44.66,-86.02,1460,"City: Honor, ZIP: 49640"
+49642,STANDARD,Idlewild,MI,Lake County,43.88,-85.8,560,"City: Idlewild, ZIP: 49642"
+49643,STANDARD,Interlochen,MI,Grand Traverse County,44.64,-85.83,6600,"City: Interlochen, ZIP: 49643"
+49644,STANDARD,Irons,MI,Lake County,44.14,-85.91,1600,"City: Irons, ZIP: 49644"
+49645,STANDARD,Kaleva,MI,Manistee County,44.37,-86.01,1610,"City: Kaleva, ZIP: 49645"
+49646,STANDARD,Kalkaska,MI,Kalkaska County,44.73,-85.17,7830,"City: Kalkaska, ZIP: 49646"
+49648,STANDARD,Kewadin,MI,Antrim County,44.93,-85.36,2130,"City: Kewadin, ZIP: 49648"
+49649,STANDARD,Kingsley,MI,Grand Traverse County,44.58,-85.53,6470,"City: Kingsley, ZIP: 49649"
+49650,STANDARD,Lake Ann,MI,Benzie County,44.72,-85.84,3150,"City: Lake Ann, ZIP: 49650"
+49651,STANDARD,Lake City,MI,Missaukee County,44.33,-85.2,7030,"City: Lake City, ZIP: 49651"
+49653,STANDARD,Lake Leelanau,MI,Leelanau County,44.97,-85.73,1900,"City: Lake Leelanau, ZIP: 49653"
+49654,STANDARD,Leland,MI,Leelanau County,45.01,-86.14,790,"City: Leland, ZIP: 49654"
+49655,STANDARD,Leroy,MI,Osceola County,44.03,-85.41,3020,"City: Leroy, ZIP: 49655"
+49656,STANDARD,Luther,MI,Lake County,44.03,-85.68,1290,"City: Luther, ZIP: 49656"
+49657,STANDARD,Mc Bain,MI,Missaukee County,44.22,-85.21,3270,"City: Mc Bain, ZIP: 49657"
+49659,STANDARD,Mancelona,MI,Antrim County,44.9,-85.06,6100,"City: Mancelona, ZIP: 49659"
+49660,STANDARD,Manistee,MI,Manistee County,44.24,-86.32,11550,"City: Manistee, ZIP: 49660"
+49663,STANDARD,Manton,MI,Wexford County,44.41,-85.4,5660,"City: Manton, ZIP: 49663"
+49664,STANDARD,Maple City,MI,Leelanau County,44.84,-85.86,2040,"City: Maple City, ZIP: 49664"
+49665,STANDARD,Marion,MI,Osceola County,44.1,-85.14,3660,"City: Marion, ZIP: 49665"
+49666,PO BOX,Mayfield,MI,Grand Traverse County,44.62,-85.55,260,"City: Mayfield, ZIP: 49666"
+49667,STANDARD,Merritt,MI,Missaukee County,44.31,-84.93,480,"City: Merritt, ZIP: 49667"
+49668,STANDARD,Mesick,MI,Wexford County,44.4,-85.71,3330,"City: Mesick, ZIP: 49668"
+49670,STANDARD,Northport,MI,Leelanau County,45.12,-85.62,1800,"City: Northport, ZIP: 49670"
+49673,PO BOX,Old Mission,MI,Grand Traverse County,44.96,-85.5,74,"City: Old Mission, ZIP: 49673"
+49674,PO BOX,Omena,MI,Leelanau County,45.05,-85.59,239,"City: Omena, ZIP: 49674"
+49675,STANDARD,Onekama,MI,Manistee County,44.36,-86.2,1040,"City: Onekama, ZIP: 49675"
+49676,STANDARD,Rapid City,MI,Kalkaska County,44.83,-85.28,3220,"City: Rapid City, ZIP: 49676"
+49677,STANDARD,Reed City,MI,Osceola County,43.87,-85.5,5960,"City: Reed City, ZIP: 49677"
+49679,STANDARD,Sears,MI,Osceola County,43.89,-85.18,1100,"City: Sears, ZIP: 49679"
+49680,STANDARD,South Boardman,MI,Kalkaska County,44.63,-85.25,1750,"City: South Boardman, ZIP: 49680"
+49682,STANDARD,Suttons Bay,MI,Leelanau County,44.97,-85.65,4190,"City: Suttons Bay, ZIP: 49682"
+49683,STANDARD,Thompsonville,MI,Benzie County,44.52,-85.93,1840,"City: Thompsonville, ZIP: 49683"
+49684,STANDARD,Traverse City,MI,Grand Traverse County,44.76,-85.7,19850,"City: Traverse City, ZIP: 49684"
+49685,STANDARD,Traverse City,MI,Grand Traverse County,44.7,-85.7,875,"City: Traverse City, ZIP: 49685"
+49686,STANDARD,Traverse City,MI,Grand Traverse County,44.75,-85.6,22890,"City: Traverse City, ZIP: 49686"
+49688,STANDARD,Tustin,MI,Osceola County,44.1,-85.45,2470,"City: Tustin, ZIP: 49688"
+49689,STANDARD,Wellston,MI,Manistee County,44.21,-85.95,1360,"City: Wellston, ZIP: 49689"
+49690,STANDARD,Williamsburg,MI,Grand Traverse County,44.76,-85.4,6260,"City: Williamsburg, ZIP: 49690"
+49696,STANDARD,Traverse City,MI,Grand Traverse County,44.67,-85.49,485,"City: Traverse City, ZIP: 49696"
+49701,STANDARD,Mackinaw City,MI,Emmet County,45.77,-84.74,1030,"City: Mackinaw City, ZIP: 49701"
+49705,STANDARD,Afton,MI,Cheboygan County,45.31,-84.45,680,"City: Afton, ZIP: 49705"
+49706,STANDARD,Alanson,MI,Emmet County,45.44,-84.78,4560,"City: Alanson, ZIP: 49706"
+49707,STANDARD,Alpena,MI,Alpena County,45.07,-83.43,19070,"City: Alpena, ZIP: 49707"
+49709,STANDARD,Atlanta,MI,Montmorency County,45,-84.15,3020,"City: Atlanta, ZIP: 49709"
+49710,STANDARD,Barbeau,MI,Chippewa County,46.28,-84.28,360,"City: Barbeau, ZIP: 49710"
+49711,PO BOX,Bay Shore,MI,Charlevoix County,45.34,-85.15,30,"City: Bay Shore, ZIP: 49711"
+49712,STANDARD,Boyne City,MI,Charlevoix County,45.21,-85.01,7490,"City: Boyne City, ZIP: 49712"
+49713,STANDARD,Boyne Falls,MI,Charlevoix County,45.16,-84.91,2040,"City: Boyne Falls, ZIP: 49713"
+49715,STANDARD,Brimley,MI,Chippewa County,46.4,-84.57,2830,"City: Brimley, ZIP: 49715"
+49716,STANDARD,Brutus,MI,Emmet County,45.5,-84.75,770,"City: Brutus, ZIP: 49716"
+49717,PO BOX,Burt Lake,MI,Cheboygan County,45.43,-84.69,110,"City: Burt Lake, ZIP: 49717"
+49718,STANDARD,Carp Lake,MI,Emmet County,45.69,-84.79,580,"City: Carp Lake, ZIP: 49718"
+49719,STANDARD,Cedarville,MI,Mackinac County,45.99,-84.36,1290,"City: Cedarville, ZIP: 49719"
+49720,STANDARD,Charlevoix,MI,Charlevoix County,45.31,-85.25,8570,"City: Charlevoix, ZIP: 49720"
+49721,STANDARD,Cheboygan,MI,Cheboygan County,45.64,-84.46,12170,"City: Cheboygan, ZIP: 49721"
+49722,PO BOX,Conway,MI,Emmet County,45.42,-84.87,420,"City: Conway, ZIP: 49722"
+49723,PO BOX,Cross Village,MI,Emmet County,45.63,-85.03,93,"City: Cross Village, ZIP: 49723"
+49724,STANDARD,Dafter,MI,Chippewa County,46.36,-84.43,1060,"City: Dafter, ZIP: 49724"
+49725,STANDARD,De Tour Village,MI,Chippewa County,45.99,-83.9,580,"City: De Tour Village, ZIP: 49725"
+49726,STANDARD,Drummond Island,MI,Chippewa County,46,-83.67,1000,"City: Drummond Island, ZIP: 49726"
+49727,STANDARD,East Jordan,MI,Charlevoix County,45.15,-85.13,6300,"City: East Jordan, ZIP: 49727"
+49728,STANDARD,Eckerman,MI,Chippewa County,46.36,-85.03,290,"City: Eckerman, ZIP: 49728"
+49729,STANDARD,Ellsworth,MI,Antrim County,45.16,-85.24,1470,"City: Ellsworth, ZIP: 49729"
+49730,STANDARD,Elmira,MI,Antrim County,45.06,-84.85,2110,"City: Elmira, ZIP: 49730"
+49733,STANDARD,Frederic,MI,Crawford County,44.78,-84.73,1640,"City: Frederic, ZIP: 49733"
+49734,PO BOX,Gaylord,MI,Otsego County,45.02,-84.67,1712,"City: Gaylord, ZIP: 49734"
+49735,STANDARD,Gaylord,MI,Otsego County,45.02,-84.67,17820,"City: Gaylord, ZIP: 49735"
+49736,STANDARD,Goetzville,MI,Chippewa County,46.08,-84.09,480,"City: Goetzville, ZIP: 49736"
+49737,PO BOX,Good Hart,MI,Emmet County,45.56,-85.11,31,"City: Good Hart, ZIP: 49737"
+49738,STANDARD,Grayling,MI,Crawford County,44.65,-84.7,8550,"City: Grayling, ZIP: 49738"
+49740,STANDARD,Harbor Springs,MI,Emmet County,45.43,-84.98,7060,"City: Harbor Springs, ZIP: 49740"
+49743,STANDARD,Hawks,MI,Presque Isle County,45.3,-83.9,750,"City: Hawks, ZIP: 49743"
+49744,STANDARD,Herron,MI,Alpena County,45,-83.66,800,"City: Herron, ZIP: 49744"
+49745,STANDARD,Hessel,MI,Mackinac County,46.03,-84.44,940,"City: Hessel, ZIP: 49745"
+49746,STANDARD,Hillman,MI,Montmorency County,45.06,-83.9,3010,"City: Hillman, ZIP: 49746"
+49747,STANDARD,Hubbard Lake,MI,Alpena County,44.8,-83.59,1540,"City: Hubbard Lake, ZIP: 49747"
+49748,PO BOX,Hulbert,MI,Chippewa County,46.35,-85.15,130,"City: Hulbert, ZIP: 49748"
+49749,STANDARD,Indian River,MI,Cheboygan County,45.41,-84.61,3860,"City: Indian River, ZIP: 49749"
+49751,STANDARD,Johannesburg,MI,Otsego County,44.98,-84.46,1920,"City: Johannesburg, ZIP: 49751"
+49752,STANDARD,Kinross,MI,Chippewa County,46.26,-84.51,460,"City: Kinross, ZIP: 49752"
+49753,STANDARD,Lachine,MI,Alpena County,45.08,-83.73,1770,"City: Lachine, ZIP: 49753"
+49755,STANDARD,Levering,MI,Emmet County,45.63,-84.76,1720,"City: Levering, ZIP: 49755"
+49756,STANDARD,Lewiston,MI,Montmorency County,44.88,-84.31,3420,"City: Lewiston, ZIP: 49756"
+49757,PO BOX,Mackinac Island,MI,Mackinac County,45.85,-84.62,941,"City: Mackinac Island, ZIP: 49757"
+49759,STANDARD,Millersburg,MI,Presque Isle County,45.33,-84.06,1290,"City: Millersburg, ZIP: 49759"
+49760,STANDARD,Moran,MI,Mackinac County,46.04,-84.9,600,"City: Moran, ZIP: 49760"
+49761,PO BOX,Mullett Lake,MI,Cheboygan County,45.57,-84.51,86,"City: Mullett Lake, ZIP: 49761"
+49762,STANDARD,Naubinway,MI,Mackinac County,46.11,-85.45,520,"City: Naubinway, ZIP: 49762"
+49764,PO BOX,Oden,MI,Emmet County,45.42,-84.83,265,"City: Oden, ZIP: 49764"
+49765,STANDARD,Onaway,MI,Presque Isle County,45.35,-84.22,3270,"City: Onaway, ZIP: 49765"
+49766,STANDARD,Ossineke,MI,Alpena County,44.9,-83.43,2140,"City: Ossineke, ZIP: 49766"
+49768,STANDARD,Paradise,MI,Chippewa County,46.62,-85.03,340,"City: Paradise, ZIP: 49768"
+49769,STANDARD,Pellston,MI,Emmet County,45.55,-84.78,1420,"City: Pellston, ZIP: 49769"
+49770,STANDARD,Petoskey,MI,Emmet County,45.36,-84.95,16180,"City: Petoskey, ZIP: 49770"
+49774,STANDARD,Pickford,MI,Chippewa County,46.16,-84.36,1680,"City: Pickford, ZIP: 49774"
+49775,STANDARD,Pointe Aux Pins,MI,Mackinac County,45.76,-84.46,61,"City: Pointe Aux Pins, ZIP: 49775"
+49776,STANDARD,Posen,MI,Presque Isle County,45.26,-83.69,1610,"City: Posen, ZIP: 49776"
+49777,STANDARD,Presque Isle,MI,Presque Isle County,45.3,-83.46,1740,"City: Presque Isle, ZIP: 49777"
+49779,STANDARD,Rogers City,MI,Presque Isle County,45.42,-83.81,4010,"City: Rogers City, ZIP: 49779"
+49780,STANDARD,Rudyard,MI,Chippewa County,46.23,-84.6,1650,"City: Rudyard, ZIP: 49780"
+49781,STANDARD,Saint Ignace,MI,Mackinac County,45.86,-84.72,3540,"City: Saint Ignace, ZIP: 49781"
+49782,STANDARD,Beaver Island,MI,Charlevoix County,45.65,-85.55,540,"City: Beaver Island, ZIP: 49782"
+49783,STANDARD,Sault Sainte Marie,MI,Chippewa County,46.48,-84.36,15380,"City: Sault Sainte Marie, ZIP: 49783"
+49786,UNIQUE,Kincheloe,MI,Chippewa County,46.24,-84.49,18,"City: Kincheloe, ZIP: 49786"
+49788,STANDARD,Kincheloe,MI,Chippewa County,46.27,-84.47,2590,"City: Kincheloe, ZIP: 49788"
+49791,PO BOX,Topinabee,MI,Cheboygan County,45.48,-84.6,465,"City: Topinabee, ZIP: 49791"
+49792,PO BOX,Tower,MI,Cheboygan County,45.35,-84.3,235,"City: Tower, ZIP: 49792"
+49793,PO BOX,Trout Lake,MI,Chippewa County,46.18,-85.01,284,"City: Trout Lake, ZIP: 49793"
+49795,STANDARD,Vanderbilt,MI,Otsego County,45.14,-84.66,1810,"City: Vanderbilt, ZIP: 49795"
+49796,PO BOX,Walloon Lake,MI,Charlevoix County,45.27,-84.95,514,"City: Walloon Lake, ZIP: 49796"
+49797,PO BOX,Waters,MI,Otsego County,44.9,-84.71,402,"City: Waters, ZIP: 49797"
+49799,STANDARD,Wolverine,MI,Cheboygan County,45.27,-84.6,2210,"City: Wolverine, ZIP: 49799"
+49801,STANDARD,Iron Mountain,MI,Dickinson County,45.82,-88.06,10290,"City: Iron Mountain, ZIP: 49801"
+49802,STANDARD,Kingsford,MI,Dickinson County,45.8,-88.09,5500,"City: Kingsford, ZIP: 49802"
+49805,STANDARD,Allouez,MI,Keweenaw County,47.37,-88.35,310,"City: Allouez, ZIP: 49805"
+49806,STANDARD,Au Train,MI,Alger County,46.43,-86.83,480,"City: Au Train, ZIP: 49806"
+49807,STANDARD,Bark River,MI,Delta County,45.72,-87.3,2880,"City: Bark River, ZIP: 49807"
+49808,PO BOX,Big Bay,MI,Marquette County,46.81,-87.72,356,"City: Big Bay, ZIP: 49808"
+49812,STANDARD,Carney,MI,Menominee County,45.58,-87.55,800,"City: Carney, ZIP: 49812"
+49814,STANDARD,Champion,MI,Marquette County,46.52,-87.97,1240,"City: Champion, ZIP: 49814"
+49815,STANDARD,Channing,MI,Dickinson County,46.13,-88.08,390,"City: Channing, ZIP: 49815"
+49816,STANDARD,Chatham,MI,Alger County,46.34,-86.93,680,"City: Chatham, ZIP: 49816"
+49817,STANDARD,Cooks,MI,Schoolcraft County,45.91,-86.47,470,"City: Cooks, ZIP: 49817"
+49818,STANDARD,Cornell,MI,Delta County,45.9,-87.23,840,"City: Cornell, ZIP: 49818"
+49819,PO BOX,Arnold,MI,Marquette County,46.11,-87.46,51,"City: Arnold, ZIP: 49819"
+49820,STANDARD,Curtis,MI,Mackinac County,46.19,-85.65,490,"City: Curtis, ZIP: 49820"
+49821,STANDARD,Daggett,MI,Menominee County,45.46,-87.6,1140,"City: Daggett, ZIP: 49821"
+49822,STANDARD,Deerton,MI,Alger County,46.47,-87.04,147,"City: Deerton, ZIP: 49822"
+49825,PO BOX,Eben Junction,MI,Alger County,46.35,-86.97,338,"City: Eben Junction, ZIP: 49825"
+49826,PO BOX,Rumely,MI,Alger County,46.32,-87.05,164,"City: Rumely, ZIP: 49826"
+49827,STANDARD,Engadine,MI,Mackinac County,46.11,-85.56,770,"City: Engadine, ZIP: 49827"
+49829,STANDARD,Escanaba,MI,Delta County,45.74,-87.08,14240,"City: Escanaba, ZIP: 49829"
+49831,STANDARD,Felch,MI,Dickinson County,46,-87.85,700,"City: Felch, ZIP: 49831"
+49833,PO BOX,Little Lake,MI,Marquette County,46.29,-87.33,393,"City: Little Lake, ZIP: 49833"
+49834,STANDARD,Foster City,MI,Dickinson County,45.97,-87.75,400,"City: Foster City, ZIP: 49834"
+49835,STANDARD,Garden,MI,Delta County,45.77,-86.55,740,"City: Garden, ZIP: 49835"
+49836,STANDARD,Germfask,MI,Schoolcraft County,46.25,-85.92,670,"City: Germfask, ZIP: 49836"
+49837,STANDARD,Gladstone,MI,Delta County,45.85,-87.02,8970,"City: Gladstone, ZIP: 49837"
+49838,STANDARD,Gould City,MI,Mackinac County,46.1,-85.7,400,"City: Gould City, ZIP: 49838"
+49839,PO BOX,Grand Marais,MI,Alger County,46.65,-86.03,404,"City: Grand Marais, ZIP: 49839"
+49840,STANDARD,Gulliver,MI,Schoolcraft County,45.98,-86.02,630,"City: Gulliver, ZIP: 49840"
+49841,STANDARD,Gwinn,MI,Marquette County,46.29,-87.43,6200,"City: Gwinn, ZIP: 49841"
+49845,PO BOX,Harris,MI,Menominee County,45.91,-87.42,52,"City: Harris, ZIP: 49845"
+49847,STANDARD,Hermansville,MI,Menominee County,45.71,-87.6,840,"City: Hermansville, ZIP: 49847"
+49848,STANDARD,Ingalls,MI,Menominee County,45.38,-87.64,137,"City: Ingalls, ZIP: 49848"
+49849,STANDARD,Ishpeming,MI,Marquette County,46.48,-87.66,10560,"City: Ishpeming, ZIP: 49849"
+49852,STANDARD,Loretto,MI,Dickinson County,45.79,-87.82,151,"City: Loretto, ZIP: 49852"
+49853,STANDARD,Mc Millan,MI,Luce County,46.37,-85.74,1160,"City: Mc Millan, ZIP: 49853"
+49854,STANDARD,Manistique,MI,Schoolcraft County,45.95,-86.25,5460,"City: Manistique, ZIP: 49854"
+49855,STANDARD,Marquette,MI,Marquette County,46.55,-87.39,25400,"City: Marquette, ZIP: 49855"
+49858,STANDARD,Menominee,MI,Menominee County,45.12,-87.62,9990,"City: Menominee, ZIP: 49858"
+49861,STANDARD,Michigamme,MI,Marquette County,46.53,-88.11,520,"City: Michigamme, ZIP: 49861"
+49862,STANDARD,Munising,MI,Alger County,46.4,-86.59,3590,"City: Munising, ZIP: 49862"
+49863,PO BOX,Nadeau,MI,Menominee County,45.61,-87.55,111,"City: Nadeau, ZIP: 49863"
+49864,PO BOX,Nahma,MI,Delta County,45.84,-86.65,45,"City: Nahma, ZIP: 49864"
+49866,STANDARD,Negaunee,MI,Marquette County,46.49,-87.59,7770,"City: Negaunee, ZIP: 49866"
+49868,STANDARD,Newberry,MI,Luce County,46.35,-85.5,3440,"City: Newberry, ZIP: 49868"
+49870,STANDARD,Norway,MI,Dickinson County,45.8,-87.91,2960,"City: Norway, ZIP: 49870"
+49871,PO BOX,Palmer,MI,Marquette County,46.43,-87.58,449,"City: Palmer, ZIP: 49871"
+49872,PO BOX,Perkins,MI,Delta County,45.97,-87.07,270,"City: Perkins, ZIP: 49872"
+49873,STANDARD,Perronville,MI,Menominee County,45.87,-87.48,134,"City: Perronville, ZIP: 49873"
+49874,STANDARD,Powers,MI,Menominee County,45.75,-87.47,790,"City: Powers, ZIP: 49874"
+49876,STANDARD,Quinnesec,MI,Dickinson County,45.8,-87.99,1050,"City: Quinnesec, ZIP: 49876"
+49877,PO BOX,Ralph,MI,Dickinson County,46.16,-87.71,34,"City: Ralph, ZIP: 49877"
+49878,STANDARD,Rapid River,MI,Delta County,45.92,-86.97,3230,"City: Rapid River, ZIP: 49878"
+49879,STANDARD,Republic,MI,Marquette County,46.4,-87.98,910,"City: Republic, ZIP: 49879"
+49880,STANDARD,Rock,MI,Delta County,46.06,-87.16,900,"City: Rock, ZIP: 49880"
+49881,STANDARD,Sagola,MI,Dickinson County,46.08,-88.07,290,"City: Sagola, ZIP: 49881"
+49883,STANDARD,Seney,MI,Schoolcraft County,46.36,-85.97,122,"City: Seney, ZIP: 49883"
+49884,STANDARD,Shingleton,MI,Alger County,46.37,-86.48,380,"City: Shingleton, ZIP: 49884"
+49885,STANDARD,Skandia,MI,Marquette County,46.38,-87.23,1770,"City: Skandia, ZIP: 49885"
+49886,STANDARD,Spalding,MI,Menominee County,45.7,-87.49,360,"City: Spalding, ZIP: 49886"
+49887,STANDARD,Stephenson,MI,Menominee County,45.41,-87.6,1980,"City: Stephenson, ZIP: 49887"
+49891,STANDARD,Trenary,MI,Alger County,46.2,-86.97,570,"City: Trenary, ZIP: 49891"
+49892,STANDARD,Vulcan,MI,Dickinson County,45.78,-87.87,1800,"City: Vulcan, ZIP: 49892"
+49893,STANDARD,Wallace,MI,Menominee County,45.3,-87.61,1400,"City: Wallace, ZIP: 49893"
+49894,STANDARD,Wells,MI,Delta County,45.79,-87.08,670,"City: Wells, ZIP: 49894"
+49895,STANDARD,Wetmore,MI,Alger County,46.38,-86.62,790,"City: Wetmore, ZIP: 49895"
+49896,STANDARD,Wilson,MI,Menominee County,45.68,-87.39,1570,"City: Wilson, ZIP: 49896"
+49901,PO BOX,Ahmeek,MI,Keweenaw County,47.29,-88.39,312,"City: Ahmeek, ZIP: 49901"
+49902,PO BOX,Alpha,MI,Iron County,46.05,-88.38,165,"City: Alpha, ZIP: 49902"
+49903,PO BOX,Amasa,MI,Iron County,46.23,-88.45,248,"City: Amasa, ZIP: 49903"
+49905,STANDARD,Atlantic Mine,MI,Houghton County,47.09,-88.71,2030,"City: Atlantic Mine, ZIP: 49905"
+49908,STANDARD,Baraga,MI,Baraga County,46.77,-88.49,2120,"City: Baraga, ZIP: 49908"
+49910,STANDARD,Bergland,MI,Ontonagon County,46.6,-89.57,280,"City: Bergland, ZIP: 49910"
+49911,STANDARD,Bessemer,MI,Gogebic County,46.47,-90.04,2150,"City: Bessemer, ZIP: 49911"
+49912,STANDARD,Bruce Crossing,MI,Ontonagon County,46.51,-89.21,700,"City: Bruce Crossing, ZIP: 49912"
+49913,STANDARD,Calumet,MI,Houghton County,47.24,-88.45,6310,"City: Calumet, ZIP: 49913"
+49915,PO BOX,Caspian,MI,Iron County,46.06,-88.62,812,"City: Caspian, ZIP: 49915"
+49916,STANDARD,Chassell,MI,Houghton County,47.03,-88.53,2700,"City: Chassell, ZIP: 49916"
+49917,PO BOX,Copper City,MI,Houghton County,47.28,-88.38,209,"City: Copper City, ZIP: 49917"
+49918,PO BOX,Copper Harbor,MI,Keweenaw County,47.46,-87.81,94,"City: Copper Harbor, ZIP: 49918"
+49919,STANDARD,Covington,MI,Baraga County,46.51,-88.44,177,"City: Covington, ZIP: 49919"
+49920,STANDARD,Crystal Falls,MI,Iron County,46.09,-88.32,3580,"City: Crystal Falls, ZIP: 49920"
+49921,STANDARD,Dodgeville,MI,Houghton County,47.09,-88.58,240,"City: Dodgeville, ZIP: 49921"
+49922,PO BOX,Dollar Bay,MI,Houghton County,47.12,-88.49,1091,"City: Dollar Bay, ZIP: 49922"
+49925,STANDARD,Ewen,MI,Ontonagon County,46.54,-89.3,450,"City: Ewen, ZIP: 49925"
+49927,STANDARD,Gaastra,MI,Iron County,46.05,-88.6,340,"City: Gaastra, ZIP: 49927"
+49929,PO BOX,Greenland,MI,Ontonagon County,46.82,-89.07,228,"City: Greenland, ZIP: 49929"
+49930,STANDARD,Hancock,MI,Houghton County,47.13,-88.6,5750,"City: Hancock, ZIP: 49930"
+49931,STANDARD,Houghton,MI,Houghton County,47.11,-88.56,4880,"City: Houghton, ZIP: 49931"
+49934,PO BOX,Hubbell,MI,Houghton County,47.17,-88.43,817,"City: Hubbell, ZIP: 49934"
+49935,STANDARD,Iron River,MI,Iron County,46.09,-88.63,5080,"City: Iron River, ZIP: 49935"
+49938,STANDARD,Ironwood,MI,Gogebic County,46.45,-90.15,5940,"City: Ironwood, ZIP: 49938"
+49945,STANDARD,Lake Linden,MI,Houghton County,47.08,-88.4,2360,"City: Lake Linden, ZIP: 49945"
+49946,STANDARD,Lanse,MI,Baraga County,46.73,-88.33,3300,"City: Lanse, ZIP: 49946"
+49947,STANDARD,Marenisco,MI,Gogebic County,46.38,-89.68,500,"City: Marenisco, ZIP: 49947"
+49948,STANDARD,Mass City,MI,Ontonagon County,46.77,-89.08,410,"City: Mass City, ZIP: 49948"
+49950,STANDARD,Mohawk,MI,Keweenaw County,47.3,-88.37,990,"City: Mohawk, ZIP: 49950"
+49952,STANDARD,Nisula,MI,Houghton County,46.76,-88.79,151,"City: Nisula, ZIP: 49952"
+49953,STANDARD,Ontonagon,MI,Ontonagon County,46.86,-89.31,2050,"City: Ontonagon, ZIP: 49953"
+49955,PO BOX,Painesdale,MI,Houghton County,47.03,-88.68,422,"City: Painesdale, ZIP: 49955"
+49958,STANDARD,Pelkie,MI,Houghton County,46.82,-88.63,1010,"City: Pelkie, ZIP: 49958"
+49959,PO BOX,Ramsay,MI,Gogebic County,46.47,-90,385,"City: Ramsay, ZIP: 49959"
+49960,PO BOX,Rockland,MI,Ontonagon County,46.73,-89.17,189,"City: Rockland, ZIP: 49960"
+49961,PO BOX,Sidnaw,MI,Houghton County,46.5,-88.7,86,"City: Sidnaw, ZIP: 49961"
+49962,STANDARD,Skanee,MI,Baraga County,46.89,-88.18,200,"City: Skanee, ZIP: 49962"
+49963,PO BOX,South Range,MI,Houghton County,47.07,-88.64,785,"City: South Range, ZIP: 49963"
+49964,PO BOX,Stambaugh,MI,Iron County,46.07,-88.63,210,"City: Stambaugh, ZIP: 49964"
+49965,STANDARD,Toivola,MI,Houghton County,47,-88.75,390,"City: Toivola, ZIP: 49965"
+49967,STANDARD,Trout Creek,MI,Ontonagon County,46.48,-89.02,370,"City: Trout Creek, ZIP: 49967"
+49968,STANDARD,Wakefield,MI,Gogebic County,46.47,-89.93,1600,"City: Wakefield, ZIP: 49968"
+49969,STANDARD,Watersmeet,MI,Gogebic County,46.27,-89.18,1030,"City: Watersmeet, ZIP: 49969"
+49970,STANDARD,Watton,MI,Baraga County,46.53,-88.6,180,"City: Watton, ZIP: 49970"
+49971,PO BOX,White Pine,MI,Ontonagon County,46.75,-89.58,456,"City: White Pine, ZIP: 49971"

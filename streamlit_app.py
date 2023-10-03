@@ -13,15 +13,24 @@ mapbox_access_token = os.environ['MAPBOX_API_KEY']
 
 #Add & Clean Data
 data = pd.read_csv('zip_code_database.csv')
-data.dropna(subset=['zip'], inplace=True)
+data.dropna(subset=['ZIP'], inplace=True)
 
 #Run Plotly Express
 px.set_mapbox_access_token(mapbox_access_token)
-fig = px.scatter_mapbox(data, lat="latitude", lon="longitude", color="irs_estimated_population",
-                  color_continuous_scale=px.colors.cyclical.IceFire, size="irs_estimated_population", size_max=15, zoom=10, hover_name="primary_city")
+
+fig = px.scatter_mapbox(data, 
+                        lat="Latitude", 
+                        lon="Longitude", 
+                        color="Population",
+                        color_continuous_scale=px.colors.cyclical.IceFire, 
+                        size="Population", 
+                        size_max=15, 
+                        zoom=10, 
+                        hover_name="City_ZIP",
+                  )
 
 fig.update_layout(
-    title='Michigan Zip Codes by Population',
+    title='Michigan Zip Codes by Population #',
     autosize=True,
     hovermode='closest',
     showlegend=False,
