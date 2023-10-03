@@ -46,8 +46,6 @@ fig.update_layout(
         style='light'
     ),
 )
+st.set_page_config(page_title="Michigan Population Delineated by Zip Code", menu_items='Report a bug': "mailto:seth.roberts@hey.com")
 
 st.plotly_chart(fig, theme="streamlit", use_container_width=True)
-
-#Notes: Basically all set to go. Just need to get lat/long data and format it correctly in spreadsheet and then upload it/adjust details. Then update Streamlit App. Then I can get to work.
-#Also need to drop all rows where population is zero.
