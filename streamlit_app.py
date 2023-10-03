@@ -46,6 +46,6 @@ fig.update_layout(
         style='light'
     ),
 )
-st.set_page_config(page_title="Michigan Population Delineated by Zip Code", menu_items="Report a Bug": "mailto:seth.roberts@hey.com")
+st.set_page_config(page_title="Michigan Population Delineated by Zip Code", menu_items={"Report a Bug": "mailto:seth.roberts@hey.com"})
 
 st.plotly_chart(fig, theme="streamlit", use_container_width=True)
